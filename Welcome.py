@@ -1,7 +1,7 @@
 import streamlit as st
 import json
 
-with open("Module as json/BP1.json", 'r') as json_file:
+with open("Module as json/BP2.json", 'r') as json_file:
   module_content = json.load(json_file)
 
 st.title(module_content['Titel'][0] + ': ' + module_content['Titel'][2])
