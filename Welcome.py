@@ -2,7 +2,7 @@ import streamlit as st
 
 st.title('Willkommen beim online-Modulhandbuch des Ifg')
 
-st.write('Hier gibt es – evlt. einmal - geschmeidig, schnell und übresichtlich – das Modulhandbuch des Ifg.')
+st.write('Hier gibt es – evlt. einmal - geschmeidig, schnell und übresichtlich – das Modulhandbuch des IfG.')
 st.write('Im Moment gibt es nur einen kleinen Teaser, wie es aussehen könnte - links bei der Suche.')
 
 # import json
