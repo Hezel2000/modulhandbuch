@@ -20,7 +20,7 @@ t = {
       {"Modulabschlussprüfung bestehend aus:": 'Klausur (90 min) zu "System Erde"', "kumulative Modulprüfung bestehend aus:": '-', "Bildung der Modulnote bei kumulativen Modulprüfungen:": '-'},
 }
 
-# st.title(t['Titel'])
+st.title(t['Titel'][0])
 
 with st.expander('Inhalte', expanded=False):
   t["Inhalte"]
