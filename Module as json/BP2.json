@@ -18,6 +18,7 @@
     "Modulprüfung":
       {"Modulabschlussprüfung bestehend aus:": "-", "kumulative Modulprüfung bestehend aus:": "Zwei Teilklausuren (jeweils 45 min) in der Mitte und zum Ende des Semesters, einmal über Minerale und einmal über Gesteine", "Bildung der Modulnote bei kumulativen Modulprüfungen:": "Arithmetisches Mittel der beiden Teilnoten"},
     "Übersicht": {"x": ["", "Geomaterialien: Minerale", "Geomaterialien: Gesteine"], "LV-Form": ["", "V+Ü", "V+Ü"], "SWS": ["", 2, 2], "CP": ["", 3, 3], "Semester": ["1", "X", "X"]},
+    "Übersicht": {"Veranstaltung": ["Geomaterialien: Minerale", "GelänGeomaterialien: Gesteine", "Modulprüfung", "Summe"], "LV-Form": ["V+Ü", "V+Ü", "Klausur", ""], "SWS": [2, 2, "", 4], "CP": [3, 3, "", 6], "1": ["X", "X", "X", ""], "2": ["", "", "", ""], "3": ["", "", "", ""], "4": ["", "", "", ""], "5": ["", "", "", ""], "6": ["", "", "", ""]},
     "Prüfung": "Platz für alles mögliche",
     "Version": ["2023-10-13", "2023-04-04", "2022-07-11", "2021-01-01"],
     "Änderung": {"2023-10-13": "PL in SL geändert", "2023-04-04": "Neuer Modulbeauftragter", "2022-07-11": "Neuen Kurs xx eingefügt", "2021-01-01": "CP um einen erhöht"}

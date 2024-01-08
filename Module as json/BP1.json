@@ -17,7 +17,7 @@
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung":
       {"Modulabschlussprüfung bestehend aus:": "Klausur (90 min) zu 'System Erde'", "kumulative Modulprüfung bestehend aus:": "-", "Bildung der Modulnote bei kumulativen Modulprüfungen:": "-"},
-    "Übersicht": {"": ["", "System Erde", "Geländeübung", "Modulprüfung", "Summe"], "LV-Form": ["", "V+Ü", "GÜ", "Klausur", ""], "SWS": ["", 4, "5 Tage", "", "4 SWS + 5 Tage"], "CP": ["", 5, 2, "", 7], "1": ["1", "X", "", "X", ""], "2": ["2", "", "X", "", ""], "3": ["3", "", "", "", ""], "4": ["4", "", "", "", ""], "5": ["5", "", "", "", ""], "6": ["6", "", "", "", ""]},
+    "Übersicht": {"Veranstaltung": ["System Erde", "Geländeübung", "Modulprüfung", "Summe"], "LV-Form": ["V+Ü", "GÜ", "Klausur", ""], "SWS": [4, "5 Tage", "", "4 SWS + 5 Tage"], "CP": [5, 2, "", 7], "1": ["X", "", "X", ""], "2": ["", "X", "", ""], "3": ["", "", "", ""], "4": ["", "", "", ""], "5": ["", "", "", ""], "6": ["", "", "", ""]},
     "Prüfung": "Platz für alles mögliche",
     "Version": ["2023-10-13", "2023-04-04", "2022-07-11", "2021-01-01"],
     "Änderung": {"2023-10-13": "PL in SL geändert", "2023-04-04": "Neuer Modulbeauftragter", "2022-07-11": "Neuen Kurs xx eingefügt", "2021-01-01": "CP um einen erhöht"}
