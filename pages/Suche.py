@@ -32,7 +32,7 @@ if search_query:
     for file_name, json_data in results.items():
         module_content = json_data
         module_name = module_content['Titel'][0] + ': ' + module_content['Titel'][2]
-        st.write(f"Module: {module_name}")
+        
         with st.expander(module_name, expanded=False):
             st.title(module_content['Titel'][0] + ': ' + module_content['Titel'][2])
 
