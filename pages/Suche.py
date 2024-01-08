@@ -96,7 +96,7 @@ if search_query:
             st.write('**Prüfung:**', ' ', module_content['Prüfung'])
             
             st.divider()
-            col1, col2 = st.columns([20,80])
+            col1, col2 = st.columns([30,70])
             with col1:
                 sel_version = st.selectbox('Version', module_content['Version'], key=module_name)
             with col2:
