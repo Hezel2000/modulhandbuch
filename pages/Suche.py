@@ -85,6 +85,8 @@ if search_query:
                     'additional_text': module_content['Modulprüfung']['Bildung der Modulnote bei kumulativen Modulprüfungen:']}
             st.write(modulnote_coloured['colored_text'], modulnote_coloured['additional_text'], unsafe_allow_html=True)
 
+            st.table(module_content['Übersicht'])
+
 
 # ---------------------
             
