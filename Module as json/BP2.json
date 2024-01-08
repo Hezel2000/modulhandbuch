@@ -2,8 +2,7 @@
 {
     "Titel": ["BP2", "Geomaterials", "Geomaterialien", "Pflichtmodul", "6 CP = 180 h", "Kontaktstudium 4 SWS / 60 h", "Selbststudium 120 h", "4 SWS"],
     "Inhalte": "Das Modul „Geomaterialien“ teilt sich auf in zwei aufeinanderfolgende Vorlesungen und Übungen. Zunächst werden Minerale als natürliche kristalline Grundbestandteile der Geosphäre behandelt. Die Teilnehmer erlernen ihre grundsätzliche Systematik anhand von chemischen und mineralogisch-kristallographischen. Mit Hilfe von Anschauungsobjekten werden u.a. deren Kristallstruktur und Symmetrie-Eigenschaften, die Kristallflächen-Indizierung, ihre wesentlichen stofflichen und physikalischen Eigenschaften und die systematische mineralogische Einordnung behandelt. Im darauffolgenden Abschnitt werden die wichtigsten Gesteine der Geosphäre als heterogene Mineralaggregate erörtert. Mittels makroskopischer Methoden werden Magmatite, Sedimente und Metamorphite in Form zahlreicher Handstücke behandelt. Neben ihrer lithologischen Zusammensetzung werden vor allem ihre Gefügemerkmale, ihre Entstehungsbedingungen und ihre petrographische Klassifikation erlernt.",
-    "Lernergebnisse / Kompetenzziele": "'Ziel dieses Moduls ist das Erlernen makroskopisch-deskriptiver Methoden zur Ansprache der wichtigsten Minerale und Gesteine. Hierzu zählen:\n- Bestimmen und klassifizieren von Mineralen und Gesteinen \n- Erarbeiten der grundlegenden mineralogischen und petrographischen Systematik \n- Kennen und Bewerten der Grenzen makroskopisch-deskriptiver Methoden der Geomaterial-Analyse\n- Verstehen und Beurteilen der wesentlichen mineral- und gesteinsbildenden Prozesse anhand des
-    vorliegenden Materials \n- selbstständiges Erlernen und Vertiefen anhand der vorgelegten Handstücke (Selbststudium)'",
+    "Lernergebnisse / Kompetenzziele": "'Ziel dieses Moduls ist das Erlernen makroskopisch-deskriptiver Methoden zur Ansprache der wichtigsten Minerale und Gesteine. Hierzu zählen:\n- Bestimmen und klassifizieren von Mineralen und Gesteinen \n- Erarbeiten der grundlegenden mineralogischen und petrographischen Systematik \n- Kennen und Bewerten der Grenzen makroskopisch-deskriptiver Methoden der Geomaterial-Analyse\n- Verstehen und Beurteilen der wesentlichen mineral- und gesteinsbildenden Prozesse anhand des vorliegenden Materials \n- selbstständiges Erlernen und Vertiefen anhand der vorgelegten Handstücke (Selbststudium)'",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "-",
     "Empfohlene Voraussetzungen": "gleichzeitiger Besuch der Veranstaltung „System Erde“ in Modul BP 1",
     "Organisatorische Hinweise": "-",
@@ -18,6 +17,8 @@
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung":
       {"Modulabschlussprüfung bestehend aus:": "-", "kumulative Modulprüfung bestehend aus:": "Zwei Teilklausuren (jeweils 45 min) in der Mitte und zum Ende des Semesters, einmal über Minerale und einmal über Gesteine", "Bildung der Modulnote bei kumulativen Modulprüfungen:": "Arithmetisches Mittel der beiden Teilnoten"},
-    "Übersicht": {"": ["", "Geomaterialien: Minerale", "Geomaterialien: Gesteine"], "LV-Form": ["", "V+Ü", "V+Ü"], "SWS": ["", 2, 2], "CP": ["", 3, 3], "Semester": ["1", "X", "X"]},
-    "Prüfung": "Platz für Extra-Text"
+    "Übersicht": {"x": ["", "Geomaterialien: Minerale", "Geomaterialien: Gesteine"], "LV-Form": ["", "V+Ü", "V+Ü"], "SWS": ["", 2, 2], "CP": ["", 3, 3], "Semester": ["1", "X", "X"]},
+    "Prüfung": "Platz für alles mögliche",
+    "Version": ["2023-10-13", "2023-04-04", "2022-07-11", "2021-01-01"],
+    "Änderung": {"2023-10-13": "PL in SL geändert", "2023-04-04": "Neuer Modulbeauftragter", "2022-07-11": "Neuen Kurs xx eingefügt", "2021-01-01": "CP um einen erhöht"}
 }

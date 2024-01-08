@@ -23,8 +23,8 @@ def search_json_files(data, search_query):
     return results
 
 
-st.sidebar.header("Volltextsuche")
-search_query = st.sidebar.text_input("Sucheingabe", placeholder='Sucheingabe', label_visibility='collapsed')
+st.header("Volltextsuche")
+search_query = st.text_input("Sucheingabe", placeholder='Sucheingabe', label_visibility='collapsed')
 
 if search_query:
     results = search_json_files(data, search_query)
@@ -66,8 +66,6 @@ if search_query:
             st.write('**Dauer des Moduls:**', ' ', module_content['Dauer des Moduls'])
             st.write('**Modulbeauftragte / Modulbeauftragter:**', ' ', module_content['Modulbeauftragte / Modulbeauftragter'])
             st.write('**Studiennachweise/ ggf. als Prüfungsvorleistungen:**')
-            #st.write('*Teilnahmenachweise*', module_content['Studiennachweise/ ggf. als Prüfungsvorleistungen']['Teilnahmenachweise'])
-            #st.write('*Leistungsnachweise*', module_content['Studiennachweise/ ggf. als Prüfungsvorleistungen']['Leistungsnachweise'])
             Teilnahmenachweise_coloured = {'colored_text': '<span style="color:#0077be;">&nbsp;&nbsp;&nbsp;&nbsp;*Teilnahmenachweise*</span>',
                     'additional_text': module_content['Studiennachweise/ ggf. als Prüfungsvorleistungen']['Teilnahmenachweise']}
             st.write(Teilnahmenachweise_coloured['colored_text'], Teilnahmenachweise_coloured['additional_text'], unsafe_allow_html=True)
@@ -88,9 +86,17 @@ if search_query:
             st.write(modulnote_coloured['colored_text'], modulnote_coloured['additional_text'], unsafe_allow_html=True)
 
 
+# ---------------------
+            
             st.divider()
-            st.header('Erläuterungen')
+            st.header('Bemerkungen')
 
             st.write('**Prüfung:**', ' ', module_content['Prüfung'])
-else:
-    st.write("Enter a search query in the sidebar.")
+            
+            st.divider()
+            col1, col2 = st.columns([20,80])
+            with col1:
+                sel_version = st.selectbox('Version', module_content['Version'], key=module_name)
+            with col2:
+                st.write(module_content['Änderung'][sel_version])
+   
