@@ -1,0 +1,105 @@
+{
+  "Titel": "Endogene Geology & Mapping  Endogene Geologie & Kartierung  Pflichtmodul  8 CP (insg.) = 240 h  2 SWS + 10 Tage  Kontaktstudium  110 h  Selbststudium  130 h ",
+  "Inhalte": "Das Modul vermittelt ein fundiertes Verständnis für das System Erde in seiner zeitlichen, räumlichen und geodynamischen Entwicklung. Die enthaltenen Lehrveranstaltungen vermitteln den Studierenden umfassende und tiefreichende Kenntnisse in der Anfertigung von geologischen Karten und in Tektonik/Strukturgeologie sowie den damit verbundenen Methoden. Ziel ist vor allem die Erlangung von Fertigkeiten zur Erfassung von geologischen Prozessen in Raum und Zeit. Die Veranstaltung "Einführung in die Strukturgeologie" befasst sich mit der Untersuchung von geologischen Deformationsstrukturen wie Falten oder Störungen, die uns fundamentale Daten zum Bau und zur Rekonstruktion der kinematischen und dynamischen Entwicklung der Lithosphäre liefern. Diese Daten sind von groáer gesellschaftlicher Relevanz, da sie unabdingbar sind bei der Erkundung von Lagerstätten, bei der Suche nach Endlagern für radioaktiven und sonstigen Abfall oder für die Vorhersage von Erdbeben. Im Rahmen der "Anfänger-Kartierübung" werden Gebiete geologisch kartiert und so Fähigkeiten zum Erkennen von stratigraphischen, lithologischen und strukturellen Einheiten im Gelände vermittelt. Das räumliche Vorstellungsvermögen und das Erkennen von einfachen Lagerungsverhältnissen im Gelände werden geschult. Auf Basis der erstellten geologischen Karten werden Profilschnitte konstruiert. ",
+  "Lernergebnisse / Kompetenzziele": "Die Studierenden sind in der Lage
+  * Stratigraphische, lithologische und strukturelle Einheiten im Gelände zu erkennen und zu kartieren
+  * Aus den im Gelände gemachten Beobachtungen eine plausible geologische Karte zu erstellen
+  * Aus den im Gelände gemachten Beobachtungen auf den geologischen Bau im Untergrund zu schlieáen und diesen in Profilschnitten darzustellen
+  * Strukturgeologische Prozesse und Methoden auf geowissenschaftliche Probleme und Fragestellungen anzuwenden
+  * Deformationsstrukturen in der Lithosphäre zu erkennen und zu interpretieren ",
+  "Teilnahmevoraussetzungen f\u00fcr Modul bzw. f\u00fcr einzelne Lehrveranstaltungen des Moduls": "-",
+  "Empfohlene Voraussetzungen": "Abgeschlossene Module BP1 bis BP3",
+  "Organisatorische Hinweise": "Es wird empfohlen die Anfänger-Kartierübung bereits ab der vorlesungsfreien Zeit des 2. Semesters zu belegen.",
+  "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+  "Verwendbarkeit des Moduls f\u00fcr andere Studieng\u00e4nge": "B.Sc. Geographie",
+  "H\u00e4ufigkeit des Angebots": "Vorlesung „Einführung in die Strukturgeologie“: jährlich im WiSe
+  Anfänger-Kartierübung: nach Angebot   ",
+  "Dauer des Moduls": "2 Semester",
+  "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Gernold Zulauf",
+  "Studiennachweise/ ggf. als Pr\u00fcfungsvorleistungen": {
+    "Teilnahmenachweise": "Aktive Teilnahme in „Einführung in die Strukturgeologie“",
+    "Leistungsnachweise": "Bericht zu „Anfänger-Kartierübung“",
+    },
+  "Lehr- / Lernformen": "Vorlesung, \u00dcbung, Geländeübung",
+  "Unterrichts- / Pr\u00fcfungssprache": "Deutsch, Englisch",
+  "Modulpr\u00fcfung": {
+    "Modulabschlusspr\u00fcfung bestehend aus:": "Klausur (90 min) zu „Einführung in die Strukturgeologie“",
+    "kumulative Modulpr\u00fcfung bestehend aus:": "-",
+    "Bildung der Modulnote bei kumulativen Modulpr\u00fcfungen:": "-"
+  },
+  "\u00dcbersicht": {
+    "Veranstaltung": [
+      "Einführung in die Strukturgeologie",
+      "Anfänger-Kartierübung",
+      "Modulpr\u00fcfung",
+      "Summe"
+    ],
+    "LV-Form": [
+      "V+\u00dc",
+      "G\u00dc",
+      "Klausur",
+      ""
+    ],
+    "SWS": [
+      2,
+      "10 Tage",
+      "",
+      "2 SWS + 10 Tage"
+    ],
+    "CP": [
+      3,
+      3,
+      "",
+      6
+    ],
+    "1": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "2": [
+      "",
+      "X",
+      "",
+      ""
+    ],
+    "3": [
+      "X",
+      "X",
+      "X",
+      ""
+    ],
+    "4": [
+      "",
+      "X",
+      "",
+      ""
+    ],
+    "5": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "6": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Pr\u00fcfung": "Platz f\u00fcr alles m\u00f6gliche",
+  "Version": [
+    "2023-10-13",
+    "2023-04-04",
+    "2022-07-11",
+    "2021-01-01"
+  ],
+  "\u00c4nderung": {
+    "2023-10-13": "PL in SL ge\u00e4ndert",
+    "2023-04-04": "Neuer Modulbeauftragter",
+    "2022-07-11": "Neuen Kurs xx eingef\u00fcgt",
+    "2021-01-01": "CP um einen erh\u00f6ht"
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "Titel": "BP4 Mineralogy Mineralogie Pflichtmodul 6 CP (insg.) = 180 h 6 SWS Kontaktstudium  6 SWS / 90 h  Selbststudium  90 h",
+  "Inhalte": "Die Veranstaltungen vermitteln die Grundlagen der mathematischen Beschreibung von Kristallstrukturen, die Grundlagen der Bestimmung von Kristallstrukturen und die Grundlagen der Kristallchemie. Aufbauend auf Kenntnissen der mineralogischen Kristallchemie werden die thermodynamischen Grundlagen von Prozessen in Mineralen erläutert. Dazu werden u.a. Phasendiagramme erklärt. Grundlegende Aspekte von Struktur-Eigenschaftsbeziehungen von Mineralen werden vorgestellt.",
+  "Lernergebnisse / Kompetenzziele": "•	Beherrschung von linearer Algebra in schiefwinkeligen Koordinatensystemen
+  •	Darstellung von Symmetrieoperationen als Matrizen
+  •	Verständnis der Grundlagen der Gruppentheorie
+  •	Verständnis der Grundlagen, der Durchführung und Auswertung von Beugungsexperimenten
+  •	Verständnis der grundlegenden Konzepte für die kristallchemische Klassifikation von Mineralen
+  •	Kenntnis grundlegender kristallphysikalischer Eigenschaften und ihrer Bestimmung
+  •	Verständnis thermodynamischer Grundlagen der Mineralogie und Petrologie und ihrer Anwendung
+  ",
+  "Teilnahmevoraussetzungen f\u00fcr Modul bzw. f\u00fcr einzelne Lehrveranstaltungen des Moduls": "Teilnahme am Modul „Geomaterialien“ ist Voraussetzung für die Teilnahme an den V/Ü „Kristallographie“.
+  Teilnahme an der (V+Ü) „Kristallographie“ ist Voraussetzung für die Teilnahme an der V+Ü „Mineralogie“ im 3. Semester.
+  ",
+  "Empfohlene Voraussetzungen": "Lineare Algebra, trigonometrische Funktionen, komplexe Zahlen
+  Erfolgreiche Teilnahme an Physik I, Mathematik I und Chemie
+  ",
+  "Organisatorische Hinweise": "-",
+  "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+  "Verwendbarkeit des Moduls f\u00fcr andere Studieng\u00e4nge": "B.Sc./M.Sc. Mathematik, Chemie",
+  "H\u00e4ufigkeit des Angebots": "Jährlich: „Kristallographie“ im SoSe, „Mineralogie“ im WiSe",
+  "Dauer des Moduls": "2 Semester",
+  "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Björn Winkler",
+  "Studiennachweise/ ggf. als Pr\u00fcfungsvorleistungen": {
+    "Teilnahmenachweise": "-",
+    "Leistungsnachweise": "Erfolgreich absolvierte wöchentliche Hausaufgaben (d.h. 10 von 12 Übungsblättern mit mehr als 50% bestanden, Prüfungsvoraussetzung)",
+    },
+  "Lehr- / Lernformen": "Vorlesung, \u00dcbung",
+  "Unterrichts- / Pr\u00fcfungssprache": "Deutsch",
+  "Modulpr\u00fcfung": {
+    "Modulabschlusspr\u00fcfung bestehend aus:": "Klausur (120 min) zu den Themen „Kristallographie“ und „Mineralogie“",
+    "kumulative Modulpr\u00fcfung bestehend aus:": "-",
+    "Bildung der Modulnote bei kumulativen Modulpr\u00fcfungen:": "-"
+  },
+  "\u00dcbersicht": {
+    "Veranstaltung": [
+      "Kristallographie",
+      "Mineralogie",
+      "Modulpr\u00fcfung",
+      "Summe"
+    ],
+    "LV-Form": [
+      "V+\u00dc",
+      "V+\u00dc",
+      "Klausur",
+      ""
+    ],
+    "SWS": [
+      3,
+      3,
+      "",
+      6
+    ],
+    "CP": [
+      3,
+      3,
+      "",
+      6
+    ],
+    "1": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "2": [
+      "X",
+      "",
+      "",
+      ""
+    ],
+    "3": [
+      "",
+      "X",
+      "X",
+      ""
+    ],
+    "4": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "5": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "6": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Pr\u00fcfung": "Platz f\u00fcr alles m\u00f6gliche",
+  "Version": [
+    "2023-10-13",
+    "2023-04-04",
+    "2022-07-11",
+    "2021-01-01"
+  ],
+  "\u00c4nderung": {
+    "2023-10-13": "PL in SL ge\u00e4ndert",
+    "2023-04-04": "Neuer Modulbeauftragter",
+    "2022-07-11": "Neuen Kurs xx eingef\u00fcgt",
+    "2021-01-01": "CP um einen erh\u00f6ht"
+  }
+}

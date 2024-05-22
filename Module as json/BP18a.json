@@ -1,0 +1,102 @@
+{
+  "Titel": "BP18a  Practical Laboratory Course in General and Inorganic Chemistry for Scientists  Praktikum Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften als Studienleistung  Pflichtmodul  (Importmodul)  4 CP (insg.) = 120 h  4 SWS  Kontaktstudium  4 SWS / 60 h  Selbststudium  60 h",
+  "Inhalte": "Versuche zu elektrolytischer Dissoziation, Säuren und Basen, Titration, Gleichgewichtskonstanten, Puffersysteme, Löslichkeit, Redoxreaktionen, Komplexchemie, Trennverfahren Vor dem praktischen Teil findet eine verpflichtende Sicherheits- und Einführungsveranstaltung statt.",
+  "Lernergebnisse / Kompetenzziele": "Die Studierenden können mit chemischen Geräten und Apparaten umgehen und einfache Reaktionen, Nachweise und Messungen durchführen. Sie können mit Grundchemikalien umgehen. Sie sind in der Lage, Reaktionsgleichungen aufzustellen und die Stöchiometrie zu errechnen. Die Beschäftigung mit grundlegenden Stoffen, Eigenschaften und Reaktionen anorganischer Verbindungen bringt ihnen die Logik der Chemie nahe.",
+  "Teilnahmevoraussetzungen f\u00fcr Modul bzw. f\u00fcr einzelne Lehrveranstaltungen des Moduls": "Modul 'Grundlagen der Allgemeinen und Anorganischen Chemie für Studierende der Naturwissenschaften und des Lehramts'",
+  "Empfohlene Voraussetzungen": "-",
+  "Organisatorische Hinweise": "Die Klausur erfordert eine verbindliche Online-Anmeldung bis spätestens 14 Tage vor dem Prüfungstermin. Diese kann bis zu zwei Werktage vor dem Prüfungstermin ohne Angabe von Gründen zurückgezogen werden.
+  Blockveranstaltung in der vorlesungsfreien Zeit im Sommer. Die Organisation des Praktikums sowie die Anmeldung wird über OLAT abgewickelt.",
+  "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Chemie / FB14",
+  "Verwendbarkeit des Moduls f\u00fcr andere Studieng\u00e4nge": "B.Sc. Geowissenschaften / FB11",
+  "H\u00e4ufigkeit des Angebots": "jährlich im Sommersemester",
+  "Dauer des Moduls": "1 Semester",
+  "Modulbeauftragte / Modulbeauftragter": "Dr. C. Buchsbaum",
+  "Studiennachweise/ ggf. als Pr\u00fcfungsvorleistungen": {
+    "Teilnahmenachweise": "Praktikum: Regelmäßige Teilnahme an den Sicherheits- und Einführungsveranstaltungen 
+    Seminar: Regelmäßige und aktive Teilnahme",
+   "Leistungsnachweise": "Bearbeitung der Praktikumsversuche und Protokolle (siehe Praktikumsregularien)
+   Klausur (120 Min.)"
+    },
+  "Lehr- / Lernformen": "Praktikum, Seminar",
+  "Unterrichts- / Pr\u00fcfungssprache": "Deutsch",
+  "Modulpr\u00fcfung": {
+    "Modulabschlusspr\u00fcfung bestehend aus:": "-",
+    "kumulative Modulpr\u00fcfung bestehend aus:": "-",
+    "Bildung der Modulnote bei kumulativen Modulpr\u00fcfungen:": "-"
+  },
+  "\u00dcbersicht": {
+    "Veranstaltung": [
+      "Praktikum 'Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts'",
+      "Seminar 'Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts'",
+      "Modulpr\u00fcfung",
+      "Summe"
+    ],
+    "LV-Form": [
+      "Pr",
+      "S",
+      "",
+      ""
+    ],
+    "SWS": [
+      3,
+      1,
+      "",
+      4
+    ],
+    "CP": [
+      3,
+      1,
+      "",
+      4
+    ],
+    "1": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "2": [
+      "X",
+      "X",
+      "",
+      ""
+    ],
+    "3": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "4": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "5": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "6": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Pr\u00fcfung": "Platz f\u00fcr alles m\u00f6gliche",
+  "Version": [
+    "2023-10-13",
+    "2023-04-04",
+    "2022-07-11",
+    "2021-01-01"
+  ],
+  "\u00c4nderung": {
+    "2023-10-13": "PL in SL ge\u00e4ndert",
+    "2023-04-04": "Neuer Modulbeauftragter",
+    "2022-07-11": "Neuen Kurs xx eingef\u00fcgt",
+    "2021-01-01": "CP um einen erh\u00f6ht"
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "Titel": "Environmental Dynamics  Umweltdynamik  Pflichtmodul  6 CP (insg.) = 180 h  4 SWS  Kontaktstudium  4 SWS / 60 h  Selbststudium  120 h",
+  "Inhalte": "Dieses Modul vermittelt grundlegende Einblicke in relevante Prozesse der Atmosphäre und Hydrosphäre und wie diese unterschiedliche Sedimentationsräume beeinflussen. Die Veranstaltung "Atmosphäre und Ozean" behandelt Schwerpunkte aus den Bereichen physikalischer Klimatologie, physikalischer Ozeanographie und grundlegender biogeochemischer Stoffkreisläufe. Ausgewählte Aspekte des atmosphärischen und hydrologischen Kreislaufs, der Ozeanzirkulation, sowie der Bioproduktion und des Kohlenstoffexports im Ozean werden behandelt. In Übungen wird das Verständnis chemisch-biologischer Prozesse im Ozean verstärkt. Die Veranstaltung "Sedimentäre Systeme" vermittelt einen Überblick über das Spektrum der Sedimente und Sedimentgesteine, die physikochemischen Grundlagen von Transport- und Ablagerungsprozessen und die Merkmale sedimentärer Ablagerungsräume. In Übungen wird die Diagnose von Schichtformen und Sedimentstrukturen praktiziert.",
+  "Lernergebnisse / Kompetenzziele": "Lernziel in diesem Modul ist das Kennen und Verstehen fundamentaler Prozesse an der Erdoberfläche, im Ozean und in der Atmosphäre. Die Studierenden
+  * beschreiben groáskalige Prozesse des Stoff- und Energietransportes der atmosphärischen und ozeanischen Zirkulation und deren Einfluss auf die Zusammensetzung des Meerwassers
+  * erklären biogeochemische Prozesse im Ozean wie das Kalk-Kohlensäure Gleichgewicht und beurteilen deren Sensitivität im Zuge des globalen Klimawandels
+  * unterscheiden Sedimente und Sedimentgesteine sowie deren wichtigste diagnostische Merkmale
+  * erklären den Zusammenhang zwischen Umweltbedingungen, sedimentären Ablagerungsräumen und Fazies",
+  "Teilnahmevoraussetzungen f\u00fcr Modul bzw. f\u00fcr einzelne Lehrveranstaltungen des Moduls": "",
+  "Empfohlene Voraussetzungen": "Modulabschluss BP1 und BP2",
+  "Organisatorische Hinweise": "Das Modul umfasst zwei Vorlesungen mit Übungen. Die beiden Vorlesungen ergänzen sich inhaltlich und sollten in der Reihenfolge 1) „Atmosphäre und Ozean“ und 2) „Sedimentäre Systeme“ belegt werden",
+  "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+  "Verwendbarkeit des Moduls f\u00fcr andere Studieng\u00e4nge": "B.Sc. Geographie",
+  "H\u00e4ufigkeit des Angebots": "jährlich im Sommersemester",
+  "Dauer des Moduls": "2 Semester",
+  "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Silke Voigt",
+  "Studiennachweise/ ggf. als Pr\u00fcfungsvorleistungen": {
+    "Teilnahmenachweise": "-",
+    "Leistungsnachweise": "Erfolgreiche Bearbeitung von Übungsaufgaben zu 'Atmosphäre und Ozean' und 'Sedimentäre Systeme'",
+    },
+  "Lehr- / Lernformen": "Vorlesung, \u00dcbung",
+  "Unterrichts- / Pr\u00fcfungssprache": "Deutsch",
+  "Modulpr\u00fcfung": {
+    "Modulabschlusspr\u00fcfung bestehend aus:": "Mündl. Prüfung (30 min) oder Klausur (90 min)",
+    "kumulative Modulpr\u00fcfung bestehend aus:": "-",
+    "Bildung der Modulnote bei kumulativen Modulpr\u00fcfungen:": "-"
+  },
+  "\u00dcbersicht": {
+    "Veranstaltung": [
+      "Atmosphäre und Ozean",
+      "Sedimentäre Systeme",
+      "Modulpr\u00fcfung",
+      "Summe"
+    ],
+    "LV-Form": [
+      "V+\u00dc",
+      "V+\u00dc",
+      "Klausur",
+      ""
+    ],
+    "SWS": [
+      2,
+      2,
+      "",
+      4
+    ],
+    "CP": [
+      3,
+      3,
+      "",
+      6
+    ],
+    "1": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "2": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "3": [
+      "X",
+      "",
+      "",
+      ""
+    ],
+    "4": [
+      "",
+      "X",
+      "X",
+      ""
+    ],
+    "5": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "6": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Pr\u00fcfung": "Platz f\u00fcr alles m\u00f6gliche",
+  "Version": [
+    "2023-10-13",
+    "2023-04-04",
+    "2022-07-11",
+    "2021-01-01"
+  ],
+  "\u00c4nderung": {
+    "2023-10-13": "PL in SL ge\u00e4ndert",
+    "2023-04-04": "Neuer Modulbeauftragter",
+    "2022-07-11": "Neuen Kurs xx eingef\u00fcgt",
+    "2021-01-01": "CP um einen erh\u00f6ht"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "Titel": "BP12  Geophysics  Geophysik    Pflichtmodul  7 CP (insg.) = 210 h  6 SWS  Kontaktstudium 6 SWS / 90 h  Selbststudium  120 h",
+  "Inhalte": "Das Modul Geophysik umfasst Vorlesungen und Übungen aus den Bereichen Seismologie, Geodynamik und Angewandte Methoden. Es werden Grundlagen geophysikalischer Verfahren zur Untersuchung des Aufbaus des Erdkörpers und darin stattfindender Prozesse vermittelt. Die Vermittlung der Lehrinhalte erfolgt neben den Vorlesungen in Übungen, die im 2. Teil auch an insgesamt 2 Geländetagen stattfinden.",
+  "Lernergebnisse / Kompetenzziele": "Die Lernziele beziehen sich auf Grundlagen und Anwendung von Methoden aus den geophysikalischen Fachgebieten Seismologie, Geodynamik und Angewandter Geophysik
+  * Die Studierenden geben wieder, was sie gelernt haben.
+  * Sie erklären die Zusammenhänge anhand von Formeln und Graphen
+  * Sie wenden die erworbenen Fähigkeiten auf neue Sachverhalte an. In der Geländeübung werden praktische Fähigkeiten im Umgang mit physikalischen Messgeräten unter Geländebedingungen angewandt und geübt.
+  * Physikalische Modellvorstellungen werden formuliert, quantifiziert und anhand von Fallstudien analysiert.
+  * Verschiedene Modellvorstellungen werden kombiniert und in den geowissenschaftlichen Zusammenhang mit Nachbardisziplinen gebracht.
+  * Ergebnisse werden kritisch betrachtet, beurteilt und auf ihre Zweckmäáigkeit hin überprüft.
+  ",
+  "Teilnahmevoraussetzungen f\u00fcr Modul bzw. f\u00fcr einzelne Lehrveranstaltungen des Moduls": "-",
+  "Empfohlene Voraussetzungen": "Abschluss der Module BP15 „Mathematik“ und BP16 „Physik“",
+  "Organisatorische Hinweise": "Der/die Prüfe*in kann bei der Bewertung der Klausur die Übungsleistungen mit bis zu 25% notenverbessernd berücksichtigen.",
+  "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+  "Verwendbarkeit des Moduls f\u00fcr andere Studieng\u00e4nge": "B.Sc./M.Sc. Mathematik, Informatik, Physik, Geographie",
+  "H\u00e4ufigkeit des Angebots": "jährlich",
+  "Dauer des Moduls": "2 Semester",
+  "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge",
+  "Studiennachweise/ ggf. als Pr\u00fcfungsvorleistungen": {
+    "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
+    "Leistungsnachweise": "Bestehen der Übungen (Prüfungsvorleistung); die Übungsleistungen kann mit bis zu 25% notenverbessernd berücksichtigt werden  "
+    },
+  "Lehr- / Lernformen": "Vorlesung, \u00dcbung",
+  "Unterrichts- / Pr\u00fcfungssprache": "Deutsch",
+  "Modulpr\u00fcfung": {
+    "Modulabschlusspr\u00fcfung bestehend aus:": "Klausur(max. 120 min)",
+    "kumulative Modulpr\u00fcfung bestehend aus:": "-",
+    "Bildung der Modulnote bei kumulativen Modulpr\u00fcfungen:": "-"
+  },
+  "\u00dcbersicht": {
+    "Veranstaltung": [
+      "Geophysik 1",
+      "Geophysik 2",
+      "Modulpr\u00fcfung",
+      "Summe"
+    ],
+    "LV-Form": [
+      "V+\u00dc",
+      "V+\u00dc",
+      "Klausur",
+      ""
+    ],
+    "SWS": [
+      3,
+      3,
+      "",
+      6
+    ],
+    "CP": [
+      3,
+      4,
+      "",
+      7
+      
+    ],
+    "1": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "2": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "3": [
+      "X",
+      "",
+      "",
+      ""
+    ],
+    "4": [
+      "",
+      "X",
+      "X",
+      ""
+    ],
+    "5": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "6": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Pr\u00fcfung": "Platz f\u00fcr alles m\u00f6gliche",
+  "Version": [
+    "2023-10-13",
+    "2023-04-04",
+    "2022-07-11",
+    "2021-01-01"
+  ],
+  "\u00c4nderung": {
+    "2023-10-13": "PL in SL ge\u00e4ndert",
+    "2023-04-04": "Neuer Modulbeauftragter",
+    "2022-07-11": "Neuen Kurs xx eingef\u00fcgt",
+    "2021-01-01": "CP um einen erh\u00f6ht"
+  }
+}

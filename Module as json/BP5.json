@@ -1,0 +1,103 @@
+{
+  "Titel": "BP5  Geobiosphere  Geobiosphäre  Pflichtmodul  7 CP (insg.) = 210 h  5 SWS   Kontaktstudium  5 SWS / 75 h  Selbststudium 135 h",
+  "Inhalte": "Das Modul Geobiosphäre vermittelt einen grundlegenden Einblick in die Entstehung und Entwicklung des Lebens und der Lebensräume auf der Erde. Fokus der Einführung in die Paläontologie (2. Semester) ist die Biologie, Paläoökologie und Evolution von Bakterien, Archaeen und Eukaryoten, zu denen Pflanzen, Pilze und Tiere gehören. Insbesondere Invertebraten, Vertebraten und Mikrofossilien werden im Detail vorgestellt und wichtige Gruppen in einem praktischen Übungsteil analysiert und bestimmt. In der Erd- und Lebensgeschichte (3. Semester) wird ein Abriss der Entwicklung der Biosphäre und Geosphäre in der Erdgeschichte systematisch gegenübergestellt und diskutiert.",
+  "Lernergebnisse / Kompetenzziele": "Die Studierenden
+  * erlernen die biogeochemischen Grundlagen, die zur Entstehung des Lebens auf der Erde geführt haben
+  * können die Entfaltung und Diversifizierung des ein- und vielzelligen Lebens im Phanerozoikum im erdgeschichtlichen Kontext einordnen
+  * verstehen die Zusammenhänge zwischen der Entstehung des Lebens, der Evolution der Pflanzen und Tiere, den Veränderungen von Lebensräumen durch Organismen, sowie dem Einfluss von Massenaussterbeereignissen
+  * bestimmen und klassifizieren fossile Organismen und diskutieren deren vielfältige Beziehungen zum Ablagerungs- und Lebensraum",
+  "Teilnahmevoraussetzungen f\u00fcr Modul bzw. f\u00fcr einzelne Lehrveranstaltungen des Moduls": "-",
+  "Empfohlene Voraussetzungen": "-",
+  "Organisatorische Hinweise": "-",
+  "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+  "Verwendbarkeit des Moduls f\u00fcr andere Studieng\u00e4nge": "B.Sc. Orientierungsstudium Natur- und Lebenswissenschaften, B.Sc. Geographie",
+  "H\u00e4ufigkeit des Angebots": "jährlich",
+  "Dauer des Moduls": "2 Semester",
+  "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Eberhard Gischler",
+  "Studiennachweise/ ggf. als Pr\u00fcfungsvorleistungen": {
+    "Teilnahmenachweise": "-",
+    "Leistungsnachweise": "Erfolgreich absolvierte Übungen in beiden Veranstaltungen (Prüfungsvorleistung)",
+    },
+  "Lehr- / Lernformen": "Vorlesung, \u00dcbung",
+  "Unterrichts- / Pr\u00fcfungssprache": "Deutsch",
+  "Modulpr\u00fcfung": {
+    "Modulabschlusspr\u00fcfung bestehend aus:": "Klausur (max. 120 min)",
+    "kumulative Modulpr\u00fcfung bestehend aus:": "-",
+    "Bildung der Modulnote bei kumulativen Modulpr\u00fcfungen:": "-"
+  },
+  "\u00dcbersicht": {
+    "Veranstaltung": [
+      "Einführung in die Paläontologie",
+      "Einführung in die Paläontologie",
+      "Modulpr\u00fcfung",
+      "Summe"
+    ],
+    "LV-Form": [
+      "V+\u00dc",
+      "V+\u00dc",
+      "Klausur",
+      ""
+    ],
+    "SWS": [
+      2,
+      3,
+      "",
+      4
+    ],
+    "CP": [
+      3,
+      4,
+      "",
+      6
+    ],
+    "1": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "2": [
+      "X",
+      "",
+      "",
+      ""
+    ],
+    "3": [
+      "",
+      "X",
+      "X",
+      ""
+    ],
+    "4": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "5": [
+      "",
+      "",
+      "",
+      ""
+    ],
+    "6": [
+      "",
+      "",
+      "",
+      ""
+    ]
+  },
+  "Pr\u00fcfung": "Platz f\u00fcr alles m\u00f6gliche",
+  "Version": [
+    "2023-10-13",
+    "2023-04-04",
+    "2022-07-11",
+    "2021-01-01"
+  ],
+  "\u00c4nderung": {
+    "2023-10-13": "PL in SL ge\u00e4ndert",
+    "2023-04-04": "Neuer Modulbeauftragter",
+    "2022-07-11": "Neuen Kurs xx eingef\u00fcgt",
+    "2021-01-01": "CP um einen erh\u00f6ht"
+  }
+}
