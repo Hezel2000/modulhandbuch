@@ -1,0 +1,91 @@
+{
+    "Titel": [
+        "BP16b",
+        "Introduction to Physics A2",
+        "for Minors",
+        "Einführung in die",
+        "Physik A2 für",
+        "Nebenfachstudierende",
+        "Pflichtmodul",
+        "(Importmodul NFPHY-VA2)",
+        "6 CP (insg.) = 180 h",
+        "4 SWS"
+    ],
+    "Inhalte": "Elektrodynamik: Coulomb-Gesetz, elektrisches Feld, Potential, Spannung, Arbeit, Leistung, Materie im E-Feld, Kapazität, Energie des E-Felds, Strom, Widerstand, Magnetfeld, Biot-Savart'sches Gesetz, Materie im B-Feld, magnetische Kraft, Hall-Effekt, Faraday'sches Induktionsgesetz, Induktivität, Energie des B-Felds, Elektromotor, Generator, Transformator, Wechselstromkreise, Maxwell-Gleichungen, elektromagnetische Wellen\nOptik: Reflexions- und Brechungsgesetz, Linsentypen, Linsenschleiferformel, Abbildungsgleichung, optische Instrumente (insbesondere Teleskop und Mikroskop), Dispersion, Huygens'sches Prinzip, Beugung und Interferenz, Auflösung von Teleskop und Mikroskop, Kohärenz, Polarisation",
+    "Lernergebnisse / Kompetenzziele": "Kenntnisse der Elektrodynamik sind unerlässlich, um die maágeblich von elektrischen und magnetischen Kräften geprägten Eigenschaften von Materie zu verstehen. Die Optik befasst sich mit der Ausbreitung von Wellen (insbesondere von elektromagnetischen Wellen) und deren Wechselwirkung mit Materie. In der Vorlesung steht dabei das Verständnis von Abbildungsprozessen im Vordergrund. Die in der Vorlesung vermittelten Inhalte werden in den Übungen angewendet. Die Studierenden sind anschlieáend in der Lage, entsprechende Problemstellungen selbständig zu analysieren und zu lösen.",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "bzw. für einzelne Lehrveranstaltungen des Moduls\n\n-",
+    "Empfohlene Voraussetzungen": "Inhalt des Moduls NFPHY-VA1",
+    "Organisatorische Hinweise": "Die Organisation der Übung erfolgt online über OLAT.\nZur Klausur ist eine Anmeldung erforderlich. Der Klausurtermin wird im LSF und durch Aushang am Prüfungsamt des FB Physik bekanntgegeben. Die Anmeldung zur Klausur erfolgt online über QIS. Die Anmeldefrist endet eine Woche vor dem Klausurtermin, die Rücktrittsfrist endet einen Tag vor dem Klausurtermin.\nNur die bessere der beiden Noten aus \"Physik A1\" und \"Physik A2\" wird gewertet. Beide Klausuren müssen bestanden sein.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "(Studiengang / Fachbereich)\nB.Sc. Physik / FB13",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge \nB.Sc. Geowissenschaften / FB11",
+    "Häufigkeit des Angebots": "jährlich im SoSe",
+    "Dauer des Moduls": "1 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. Tutsch",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": "Teilnahmenachweise \nRegelmäáige Teilnahme an den Übungen\n\nLeistungsnachweise\nerfolgreiche Bearbeitung von Übungsaufgaben oder\nBestehen von Tests (Prüfungsvorleistung)",
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": "Form / Dauer / ggf. Inhalt\n\nModulabschlussprüfung \nbestehend aus:\nKlausur (120 min)\n\nkumulative Modulprüfung bestehend aus:\n-\n\nBildung der Modulnote bei kumulativen Modulprüfungen:\n-\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nEinführung in die Physik A2 für Nebenfachstudierende\nV+Ü\n4\n6\n\nX\n\n\n\n\n\nModulprüfung\nKlausur\n\n\n\nX\n\n\n\n\n\nSumme\n\n4\n6\n\n\nB",
+    "Übersicht": {
+        "Veranstaltung": [
+            "SWS",
+            "",
+            "1",
+            "5",
+            "V+Ü",
+            "X",
+            "",
+            ""
+        ],
+        "LV-Form": [
+            "CP",
+            "",
+            "2",
+            "6",
+            "4",
+            "",
+            "",
+            ""
+        ],
+        "SWS": [
+            "Semester",
+            "",
+            "3",
+            "",
+            "6",
+            "",
+            "Modulprüfung",
+            ""
+        ],
+        "CP": [
+            "",
+            "",
+            "4",
+            "Einführung in die Physik A2 für Nebenfachstudierende",
+            "",
+            "",
+            "Klausur",
+            "X"
+        ],
+        "Semester": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "Prüfung": "Platz für alles mögliche",
+    "Version": [
+        "2023-10-13",
+        "2023-04-04",
+        "2022-07-11",
+        "2021-01-01"
+    ],
+    "Änderung": {
+        "2023-10-13": "PL in SL geändert",
+        "2023-04-04": "Neuer Modulbeauftragter",
+        "2022-07-11": "Neuen Kurs xx eingefügt",
+        "2021-01-01": "CP um einen erhöht"
+    }
+}

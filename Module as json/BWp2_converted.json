@@ -1,0 +1,112 @@
+{
+    "Titel": [
+        "BWp2",
+        "Advanced Geophysics",
+        "Vertiefung Geophysik"
+    ],
+    "Inhalte": "Das Modul erweitert das in der Pflichtveranstaltung Geophysik erworbene Wissen. Es umfasst Vorlesungen und Übungen aus den Bereichen Seismologie, Geodynamik und Angewandte Methoden. In der Seismologie geht es um grundlegende Verfahren zur Untersuchung des Aufbaus und der Struktur des Erdkörpers. In der Geodynamik werden die Grundlagen zur Kontinuumsmechanik (Spannung, Elastizität, Kriechen), Rheologie, Fluiddynamik und Wärmetransport in der Erde gelegt. In der Angewandten Geophysik wird die Durchführung gängiger Verfahren zur Abschätzung der räumlichen Verteilung von Dichte, Magnetisierung, elektrischer Leitfähigkeit und Schallgeschwindigkeit des oberflächennahen Untergrunds behandelt.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* erlernen Methoden und Verfahren aus den geophysikalischen Fachgebieten Seismologie, Geodynamik und Angewandte Geophysik\n* wenden physikalische Gesetze auf geowissenschaftliche Fragestellungen an\n* analysieren und interpretieren geophysikalische Datensätze \n* beurteilen und bewerten komplexe geophysikalische Zusammenhänge",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "bzw. für einzelne Lehrveranstaltungen des Moduls\n\nTeilnahme an den Modulen BP12 \"Geophysik\" und BP13 \"Datenanalyse und Modellierung\"",
+    "Empfohlene Voraussetzungen": "Abschluss der Module BP15 \"Mathematik\" und BP16 \"Physik\"",
+    "Organisatorische Hinweise": "In dem Modul sind 2 Lehrveranstaltungen im Umfang von 8 CP auszuwählen.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "(Studiengang / Fachbereich)\nB.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge \nB.Sc./M.Sc. Mathematik, Informatik, Physik",
+    "Häufigkeit des Angebots": "Jede Veranstaltung alle 1 1/2 Jahre",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Georg Rümpker",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": "Teilnahmenachweise \nAktive Teilnahme an den Übungen\n\nLeistungsnachweise\nBestehen der Übungen",
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": "Form / Dauer / ggf. Inhalt\n\nModulabschlussprüfung \nbestehend aus:\nMündl. Prüfung (max. 60 min) oder Klausur (max. 120 min)\n\nkumulative Modulprüfung bestehend aus:\n-\n\nBildung der Modulnote bei kumulativen Modulprüfungen:\n-\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nSeismologie\nV+Ü\n3\n4\n\n\n\n\nX\nX\n\nGeodynamik\nV+Ü\n3\n4\n\n\n\n\nX\nX\n\nAngewandte Methoden\nV+Ü\n3\n4\n\n\n\n\nX\nX\n\nModulprüfung\nvariabel\n\n\n\n\n\n\nX\nX\n\nSumme\n\n6\n8\n\n\nB",
+    "Übersicht": {
+        "Veranstaltung": [
+            "SWS",
+            "",
+            "1",
+            "5",
+            "V+Ü",
+            "",
+            "X",
+            "3",
+            "",
+            "",
+            "4",
+            "",
+            "Modulprüfung",
+            "",
+            "X"
+        ],
+        "LV-Form": [
+            "CP",
+            "",
+            "2",
+            "6",
+            "3",
+            "",
+            "",
+            "4",
+            "",
+            "Angewandte Methoden",
+            "",
+            "X",
+            "variabel",
+            "",
+            "X"
+        ],
+        "SWS": [
+            "Semester",
+            "",
+            "3",
+            "",
+            "4",
+            "",
+            "Geodynamik",
+            "",
+            "X",
+            "V+Ü",
+            "",
+            "X",
+            "",
+            "",
+            ""
+        ],
+        "CP": [
+            "",
+            "",
+            "4",
+            "Seismologie",
+            "",
+            "X",
+            "V+Ü",
+            "",
+            "X",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        "Semester": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "Prüfung": "Platz für alles mögliche",
+    "Version": [
+        "2023-10-13",
+        "2023-04-04",
+        "2022-07-11",
+        "2021-01-01"
+    ],
+    "Änderung": {
+        "2023-10-13": "PL in SL geändert",
+        "2023-04-04": "Neuer Modulbeauftragter",
+        "2022-07-11": "Neuen Kurs xx eingefügt",
+        "2021-01-01": "CP um einen erhöht"
+    }
+}

@@ -1,0 +1,83 @@
+{
+    "Titel": [
+        "MWp Quer",
+        "Geosciences for Newcomers",
+        "Geowissenschaften für Quereinsteiger",
+        "Wahlpflichtmodul",
+        "8 CP (insg.) = 240 h",
+        "variabel"
+    ],
+    "Inhalte": "Das Modul richtet sich an Studierende, die einen Bachelor-Abschluss in einem anderen naturwissenschaftlichen Fach erworben haben, und dient dazu die für ein Master-Studium Geowissenschaften nötigen Grundlagen zu vermitteln. Es werden grundlegende geowissenschaftliche Konzepte, Inhalte und Arbeitsweisen vermittelt, wobei die gewählten Veranstaltungen je nach Vorbildung des/der Studierenden variieren können.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden sind in der Lage\n* geowissenschaftliche Konzepte, Inhalte und Arbeitsweisen angemessen anzuwenden\n* das Master-Studium Geowissenschaften inhaltlich zu bewältigen",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "bzw. für einzelne Lehrveranstaltungen des Moduls\n\n-",
+    "Empfohlene Voraussetzungen": "-",
+    "Organisatorische Hinweise": "In Absprache mit dem/der Modulverantwortlichen und dem Prüfungsausschuss sind Lehrveranstaltungen aus den Geowissenschaften im Umfang von mind. 8 CPs zu wählen.\nDie Modulprüfung richtet sich nach den Bedingungen der Ordnung für den Bachelor-Studiengang Geowissenschaften.\nBerechnung der Modulnote: Es werden nur die zwei Prüfungsleistungen mit den besten Noten als Modulnote gewertet. Die Modulnote wird aus den beiden CP-gewichteten Noten errechnet.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "(Studiengang / Fachbereich)\nM.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge \n-",
+    "Häufigkeit des Angebots": "Variabel",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. Frederik Kirst",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": "Teilnahmenachweise \nJe nach gewählten Veranstaltungen\n\nLeistungsnachweise\nJe nach gewählten Veranstaltungen",
+    "Lehr- / Lernformen": "Vorlesung, Übung, Seminar, Praktikum",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": "richtet sich nach den Bedingungen der Ordnung für den Bachelor-Studiengang Geowissenschaften.\nBerechnung der Modulnote: Es werden nur die zwei Prüfungsleistungen mit den besten Noten als Modulnote gewertet. Die Modulnote wird aus den beiden CP-gewichteten Noten errechnet.\nZuordnung des Moduls (Studiengang / Fachbereich)\nM.Sc. Geowissenschaften / FB11\nVerwendbarkeit des Moduls \nfür andere Studiengänge \n-\nHäufigkeit des Angebots\nVariabel\nDauer des Moduls\n2 Semester\nModulbeauftragte / Modulbeauftragter\nDr. Frederik Kirst\nStudiennachweise/ ggf. als Prüfungsvorleistungen\n\n\nTeilnahmenachweise \nJe nach gewählten Veranstaltungen\n\nLeistungsnachweise\nJe nach gewählten Veranstaltungen\nLehr- / Lernformen\nVorlesung, Übung, Seminar, Praktikum\nUnterrichts- / Prüfungssprache\nDeutsch, Englisch\nModulprüfung\nForm / Dauer / ggf. Inhalt\n\nModulabschlussprüfung \nbestehend aus:\n\n\nkumulative Modulprüfung bestehend aus:\nPrüfungsleistungen in den gewählten Veranstaltungen\n\nBildung der Modulnote bei kumulativen Modulprüfungen:\nCP-gewichtetes Mittel der zwei besten Noten\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n\nVeranstaltungen aus den Geowissenschaften im Umfang von mind. 8 CP\nV, Ü, S, Pr\nvariabel\n8\nX\nX\n\n\n\nModulprüfung\nVariabel\n\n\nX\nX\n\n\n\nSumme\n\n\n8\n\nMWp",
+    "Übersicht": {
+        "Veranstaltung": [
+            "SWS",
+            "",
+            "1",
+            "",
+            "8",
+            "",
+            ""
+        ],
+        "LV-Form": [
+            "CP",
+            "",
+            "2",
+            "Veranstaltungen aus den Geowissenschaften im Umfang von mind. 8 CP",
+            "X",
+            "",
+            ""
+        ],
+        "SWS": [
+            "Semester",
+            "",
+            "3",
+            "V, Ü, S, Pr",
+            "X",
+            "Modulprüfung",
+            "X"
+        ],
+        "CP": [
+            "",
+            "",
+            "4",
+            "variabel",
+            "",
+            "Variabel",
+            "X"
+        ],
+        "Semester": [
+            [],
+            [],
+            [],
+            [],
+            [],
+            []
+        ]
+    },
+    "Prüfung": "Platz für alles mögliche",
+    "Version": [
+        "2023-10-13",
+        "2023-04-04",
+        "2022-07-11",
+        "2021-01-01"
+    ],
+    "Änderung": {
+        "2023-10-13": "PL in SL geändert",
+        "2023-04-04": "Neuer Modulbeauftragter",
+        "2022-07-11": "Neuen Kurs xx eingefügt",
+        "2021-01-01": "CP um einen erhöht"
+    }
+}
