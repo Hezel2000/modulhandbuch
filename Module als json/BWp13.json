@@ -1,0 +1,232 @@
+{
+    "Modul-Code": "BWp13",
+    "Modul-Name-en": "Resources",
+    "Modul-Name-de": "Ressourcen",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "6 SWS",
+    "Kontaktstudium": "6 SWS / 90 h",
+    "Selbststudium": "150 h",
+    "Inhalte": "Dieses Modul vermittelt Kenntnisse zu Bildungsprozessen von Rohstoffen in der tiefen Erde und auf der Erdoberfläche. Die Veranstaltung \"Sedimentäre Lagerstätten\" vermittelt Grundkenntnisse zur Bildung sedimentärer und supergener Lagerstätten. Vorgestellt werden genetische, geologische und sozioökonomische Aspekte für die Ressourcen Salz, Kohlenwasserstoffe, Kohle, Lithium, Kupfer, Ton, Sand und Kies.\nDie Veranstaltung zur Bildung magmatischer und hydrothermaler Lagerstätten umfasst thematisch die Anreicherung ökonomisch relevanter Elemente in der Erdkruste im plattentektonischen Kontext und im Kontext der Bildung, Differentiation und Platzname bestimmter Magmen und ihres Übergangs ins hydrothermale Stadium.\nDie Veranstaltung zur Rohstoffaufbereitung behandelt Aufbereitungsmethoden zur Gewinnung und Trennung von Rohstoffen im Zusammenhang ihrer mineralogischen Eigenschaften, in denen sie in der Lagerstätte auftreten.\nDie Vorlesungen zu \"Spezielle Themen\" in der Lagerstättenkunde umfassen wechselnde Spezialthemen zu Genese und Aufbau sedimentärer, magmatischer und hydrothermaler Lagerstätten.",
+    "Lernergebnisse / Kompetenzziele": "Ziel dieses Moduls ist das Erlernen von lagerstättenbildenden Prozessen im Erdsystem und die Gewinnung der Rohstoffe durch mineralogische Methoden. Die Studierenden\n* beurteilen durch synergetisches Denken unter Nutzung bis dahin erworbener Kenntnisse aus den Fachgebieten der Geomaterialien, Petrologie, Geochemie, Erdgeschichte, und Regionalen Geologie im Kontext lagerstättenbildende Prozesse.\n* Verwenden quantitative Methoden, um ein besseres Verständnis von lagerstättenbildenden Prozessen zu gewinnen.",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Modulabschluss BP1, BP2, BP4, BP5; Teilnahme an den Modulen, BP7 und BP8",
+    "Empfohlene Voraussetzungen": "",
+    "Organisatorische Hinweise": "Das Modul umfasst 2 Vorlesungen mit Übungen sowie 2 - 4 Tage Geländeübung. Anstelle von Geländetagen können auch die ergänzenden Veranstaltungen \"Aufbereitung\" und/oder \"Spezielle Themen\" gewählt werden.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Silke Voigt",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "\"Sedimentäre Lagerstätten\": schriftliche Ausarbeitung\n\"Magmatische und Hydrothermale Lagerstätten\": benotete Leistungsnachweis\n\"Aufbereitung\": Vortrag und schriftliche Ausarbeitung\nBericht zu \"Geländeübung\""
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Sedimentäre Lagerstätten",
+            "V+Ü",
+            "2",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Magmatische und Hydrothermale Lagerstätten",
+            "V+Ü",
+            "2",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Auswahl aus:",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Geländeübung",
+            "Ü",
+            "2 - 4 Tage",
+            "1 - 2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Aufbereitung",
+            "V+Ü",
+            "1",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Spezielle Themen",
+            "V",
+            "2",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "keine",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "6",
+            "8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

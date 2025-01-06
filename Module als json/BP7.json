@@ -1,0 +1,160 @@
+{
+    "Modul-Code": "BP7",
+    "Modul-Name-en": "Petrology",
+    "Modul-Name-de": "",
+    "Modul-Typ": "Petrologie",
+    "Anzhal CP und Arbeitsaufwand": "7 CP = 210 h",
+    "Anzahl SWS": "6 SWS",
+    "Kontaktstudium": "6 SWS / 90 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "Das Modul umfasst zwei Vorlesungen mit Übungen.\nPolarisationsmikroskopie\nIn der Veranstaltung werden die Theorie der Kristalloptik, der Umgang mit dem Polarisationsmikroskop und die optischen Eigenschaften der gesteinsbildenden Minerale eingeführt.\nPetrologie\nIn der Veranstaltung werden die wichtigsten magmatischen, metamorphen und sedimentären Gesteine vorgestellt sowie die Genese dieser Gesteine eingeführt. Die Interpretation von Gesteinsgefügen ist ebenfalls Inhalt der Vorlesung und Übungen. Hierzu wird ein Überblick über moderne quantitative Methoden der Petrologie gegeben.",
+    "Lernergebnisse / Kompetenzziele": "Die Fähigkeit zur selbständigen Erkennung und Interpretation von Mineralen und Gefügemerkmalen in Gesteinen wird erworben. Hierzu zählen folgende Kompetenzen:\n* Erlernen des routinierten Umgangs mit dem Polarisationsmikroskop als zentralem petrographischem Werkzeug\n* Einüben der makroskopischen und mikroskopischen Bestimmung von Mineralen\n* Anwenden der Beschreibung und Interpretation von Gesteinen und ihrer Genese\n* Einüben und Anwenden wichtiger quantitativer Methoden in der Petrologie\n* Sicheres Anwenden von Begriffen, die für die Interpretation von Gesteinen eingesetzt werden",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abgeschlossenes Modul BP2 \"Geomaterialien\"",
+    "Empfohlene Voraussetzungen": "Teilnahme an Veranstaltungen aus Modul BP4 \"Mineralogie\"",
+    "Organisatorische Hinweise": "keine",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Alan Woodland",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "Abschlussübung in \"Polarisationsmikroskopie\" (Prüfungsvorleistung)"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Polarisationsmikroskopie",
+            "V+Ü",
+            "2",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Petrologie",
+            "V+Ü",
+            "4",
+            "5",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "Klausur",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "6",
+            "7",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

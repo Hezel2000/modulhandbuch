@@ -1,0 +1,220 @@
+{
+    "Modul-Code": "BWp14",
+    "Modul-Name-en": "Applied Geosciences",
+    "Modul-Name-de": "Angewandte Geologie",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "6 SWS",
+    "Kontaktstudium": "6 SWS / 180 h",
+    "Selbststudium": "60 h",
+    "Inhalte": "Dieses Modul vermittelt vertiefende Kenntnisse in den angewandten Geowissenschaften mit Schwerpunkt auf dem Erlernen von Methoden der Dokumentation, Erkundung und Bewertung der Geologie des unterirdischen Raums. In der Veranstaltung \"Hydrogeologie\" werden Kenntnisse zum Wasserkreislauf, der Grundwasserdynamik, dem Stofftransport im Grundwasser, der Grundwasserchemie und dem Grundwasserschutz vermittelt. In der Veranstaltung \"Ingenieurgeologie\" erlernen Studierende die Beschreibung und Klassifikation von Locker- und Festgesteinen, bodenphysikalische und bodenmechanische Kennwerte und Versuche, die zeichnerische Darstellung von Schichtenverzeichnissen sowie einfache Methoden zur Baugrunderkundung und -begutachtung. In \"Sedimentologie im Labor\" werden praktische Kenntnisse zur Diagnose sedimentärer Texturmerkmale und der DIN-gerechten Ermittlung petrophysikalischer Kenngröáen vermittelt. Der Kurs \"Sedimentologie im Gelände\" umfasst praktische Übungen zur Dokumentation sedimentärer Abfolgen in geologischen Aufschlüssen und Bohrungen.",
+    "Lernergebnisse / Kompetenzziele": "Ziel in diesem Modul ist der Erwerb grundlegender Kenntnisse und methodischer Fähigkeiten in der Untersuchung des unterirdischen Raums. Die Studierenden\n* verstehen die unterschiedlichen Komponenten des Wasserkreislaufs und sind vertraut mit den Methoden zu deren Quantifizierung\n* konstruieren und interpretieren Grundwassergleichenpläne und Flieánetze\n* überprüfen chemische Analysenergebnisse hinsichtlich ihrer Plausibilität\n* verstehen das Konzept von Wasserschutzgebieten\n* erwerben Arbeitstechniken der Ingenieurgeologie mit Schwerpunkt auf Lockergesteinen\n* erlernen Methoden der Baugrunderkundung bis zur Erstellung eines einfachen Baugrundgutachtens\n* beherrschen Standardtechniken der Dokumentation von Profilen in Aufschluss und Bohrung",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "Modulabschluss BP1, BP2 und BP11",
+    "Organisatorische Hinweise": "Die Veranstaltungen \"Hydrogeologie\" und \"Ingenieurgeologie\" stammen aus dem geologisch orientierten Lehrangebot des Institutes für Angewandte Geowissenschaften der TU Darmstadt. Alternativ können anstelle einer der beiden Veranstaltungen auch die Veranstaltungen \"Sedimentologie im Labor\" und \"Sedimentologie im Gelände\" gewählt werden.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Silke Voigt",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Regelmäáige Teilnahme zu \"Sedimentologie im Labor\" und \"Sedimentologie im Gelände\"",
+        "Leistungsnachweise": "Berichte für \"Sedimentologie im Labor\" und \"Sedimentologie im Gelände\""
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Auswahl aus:",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Hydrogeologie",
+            "V+Ü",
+            "3",
+            "4",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Ingenieurgeologie",
+            "V+Ü",
+            "3",
+            "4",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Sedimentologie im Labor",
+            "Ü",
+            "1",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Sedimentologie im Gelände",
+            "Ü",
+            "1",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "Klausur",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "6",
+            "8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

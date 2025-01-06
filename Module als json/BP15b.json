@@ -1,0 +1,160 @@
+{
+    "Modul-Code": "BP15b",
+    "Modul-Name-en": "Mathematics 2",
+    "Modul-Name-de": "Mathematik 2",
+    "Modul-Typ": "Pflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "6 CP (insg.) = 180 h",
+    "Anzahl SWS": "4 SWS",
+    "Kontaktstudium": "4 SWS / 60 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "Vorlesung \"Mathematik für Studierende der Naturwissenschaften 2\"\nLineare Algebra (Vektoren, Koordinatensysteme, Vektorrechnung, Matrizen, Gleichungssysteme, Eigenwerte und -vektoren), Funktionen mehrerer Veränderlicher (Differentialrechnung und ihre Anwendungen), Differentialgleichungen (Richtungsfelder, elementare Lösungsverfahren, lineare Differentialgleichungen erster und zweiter Ordnung)\nÜbung \"Mathematik für Studierende der Naturwissenschaften 2\"\nZur Vertiefung des Vorlesungsstoffs finden begleitende Übungen in Gruppen statt. Darin werden vorgegebene Übungsaufgaben besprochen.",
+    "Lernergebnisse / Kompetenzziele": "Nach erfolgreichem Abschluss des Moduls sind die Studierenden mit grundlegenden mathematischen Denkweisen vertraut (Formalisieren von Aussagen, Beschreiben funktionaler Zusammenhänge, lokales Linearisieren nichtlinearer Abbildungen). Sie verstehen einfache Beweise und haben die Kompetenz erworben, kurze mathematische Argumente aufzuschreiben. Sie sind kompetent im Umgang mit Differenzierbarkeit und Integrierbarkeit im Eindimensionalen sowie im Umgang mit mehrdimensionalen Differenzierbarkeitsbegriffen. Die Studierenden sind in der Lage, einfache mathematische Probleme selbständig zu lösen.",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "Mathematik 1 wird für Mathematik 2 empfohlen.",
+    "Organisatorische Hinweise": "Es gelten die Anmelde- und Rücktrittsfristen der Ordnung des B.Sc. Mathematik. Die Prüfung erfordert eine Online-Anmeldung spätestens sieben Tage vor dem Prüfungstermin. Bis zwei Werktage vor dem Prüfungstermin ist der Rücktritt ohne Angabe von Gründen möglich.\nDie Klausuren können als elektronische Klausur durchgeführt werden.\nNur die bessere der beiden Noten aus \"Mathematik 1\" und \"Mathematik 2\" wird gewertet. Beide Klausuren müssen bestanden sein.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Mathematik / FB12",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc. Geowissenschaften / FB11",
+    "Häufigkeit des Angebots": "jährlich im SoSe",
+    "Dauer des Moduls": "1 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. Peter Bauer",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "Bearbeiten von Übungsaufgaben (Voraussetzung für die Teilnahme an der jeweiligen Klausur ist das Erreichen von einem Drittel der maximal möglichen Punkte, die für erfolgreiche Bearbeitung der Übungen vergeben werden.)"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Mathematik für Studierende der Naturwissenschaften 2",
+            "V",
+            "3",
+            "4,5",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Mathematik für Studierende der Naturwissenschaften 2",
+            "Ü",
+            "1",
+            "1,5",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "Klausur",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "4",
+            "6",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

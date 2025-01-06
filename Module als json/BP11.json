@@ -1,0 +1,148 @@
+{
+    "Modul-Code": "BP11",
+    "Modul-Name-en": "Regional Geology and Processes",
+    "Modul-Name-de": "Regionale Geologie und Prozesse",
+    "Modul-Typ": "Pflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "4 CP (insg.) = 120 h",
+    "Anzahl SWS": "2 SWS + 5 Tage",
+    "Kontaktstudium": "70 h",
+    "Selbststudium": "50 h",
+    "Inhalte": "Regionale Geologie und Prozesse\nIn der Veranstaltung werden regionalgeologische Aspekte und Kenntnisse Deutschlands, Mitteleuropas sowie ausgewählter Regionen vermittelt, wobei überregionale bis globale geodynamische Zusammenhänge im Vordergrund stehen und herausgearbeitet werden. Die geologische Entwicklung Mitteleuropas und seiner groáen strukturellen Einheiten wird anhand tektonischer und paläogeographischer Rekonstruktionen in einen globalen Rahmen eingebettet. Die Grund- und Deckgebirgseinheiten werden vor dem Hintergrund der sie prägenden Phasen der Gebirgsbildung, Abtragung und Sedimentation beleuchtet. Ebenso werden regionalgeologische Besonderheiten sowie gesteins- und lagerstättenbildende Prozesse hervorgehoben. Gesteinshandstücke und Fossilien dienen der Veranschaulichung der behandelten Prozesse und regionalgeologischen Gegebenheiten.\n5 Tage Geländeübung\nDie 5 Tage werden aus dem Angebot an geologischen Geländeübungen gewählt. In diesen finden vorrangig praktische Arbeiten wie Geländeorientierung, Gesteins-, Aufschluss- und -Formationsansprache, lithologische Profilaufnahme sowie das Einmessen räumlicher Strukturen statt. Weiterhin werden raum-zeitliche und erdgeschichtliche geländebezogene Zusammenhänge sowie regionalgeologische Aspekte und geowissenschaftliche Prozesse behandelt. Zu den einzelnen Tagen sind in Absprache mit den jeweiligen Dozenten*innen Berichte anzufertigen.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden sind in der Lage\n* die groáen tektonischen und geologischen Einheiten Deutschlands und Mitteleuropas zu benennen\n* diese in Bezug auf ihre geodynamische Entwicklungsgeschichte einzuordnen und zu interpretieren\n* regionalgeologische Gegebenheiten im Hinblick auf die ihnen zugrunde liegenden Prozesse einzuordnen und zu verstehen\n* tektonische und paläogeographische Rekonstruktionen zu verstehen und zu interpretieren\n* Gesteine und Aufschlüsse im Gelände anzusprechen und diese hinsichtlich ihrer Genese einzuordnen\n* Raum-zeitliche und erdgeschichtliche Zusammenhänge im Gelände zu erkennen und zu interpretieren",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "Abgeschlossene Module BP1 bis BP3",
+    "Organisatorische Hinweise": "Die Geländetage sollten bereits ab dem 3. Semester belegt und gesammelt werden.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc. Geographie",
+    "Häufigkeit des Angebots": "Vorlesung mit Übungen \"Regionale Geologie und Prozesse\": jährlich im WiSe\nGeländeübungen: nach Angebot",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. Frederik Kirst",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Regelmäáige und aktive Teilnahme an den Übungen zu \"Regionale Geologie und Prozesse\"",
+        "Leistungsnachweise": "Klausur (90 min.) zu \"Regionale Geologie und Prozesse\"\nBericht (unbenotet) zu den 5 Tagen Geländeübung"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Regionale Geologie und Prozesse",
+            "V+Ü",
+            "2",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Geländeübung",
+            "GÜ",
+            "5 Tage",
+            "2",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "keine",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "2 SWS + 5 Tage",
+            "4",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

@@ -1,0 +1,208 @@
+{
+    "Modul-Code": "BWp12",
+    "Modul-Name-en": "Paleontology and Biofacies",
+    "Modul-Name-de": "Paläontologie und Biofazies",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "7 SWS + 2 Tage",
+    "Kontaktstudium": "7 SWS + 2 Tage / 121 h",
+    "Selbststudium": "",
+    "Inhalte": "Die Paläontologie vermittelt einen Einblick in die erdgeschichtliche Entwicklung der Biosphäre.\nIn der Veranstaltung \"Invertebraten-Paläontologie\" werden behandelt: Systematik und Phylogenie; Aspekte der Evolution, Paläökologie und Fossilisation (Taphonomie); sowie Biostratigraphie wirbelloser Tiere.\nIm Seminar \"Biosedimentologie\" werden von den Studierenden Vorträge zum Thema Sediment- und Gesteinsbildung unter dem Einfluss von Organismen gehalten und im Anschluss gemeinsam diskutiert. In der Veranstaltung \"Sedimentäre Fazies\" werden karbonatische und siliziklastische Ablagerungs- und Lebensräume aufgrund der Textur und des Fossilinhalts polierter Handstücke von Sedimentgesteinen rekonstruiert und diskutiert. Während der Geländeübungen werden Inhalte der Invertebraten-Paläontologie und Biofazies im Gelände vertieft.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* üben das Bestimmen von häufig vorkommenden Fossilien und Organismenresten wirbelloser Tiere mit einfachen Hilfsmitteln\n* erlernen das Erkennen typischer Lebens- und Ablagerungsräume (Fazies) und gewinnen Einblicke in die dazugehörigen Modelle\n* vertiefen die in Vorlesungen und Übungen erlernten Kompetenzen während eines Seminars mit eigenem Vortrag und anschlieáender Diskussion sowie im Gelände",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der Module BP1, BP5 und BP6",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "keine",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften /FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Eberhard Gischler",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "Fachgespräch zu \"Sedimentäre Fazies\"\nVortrag in \"Biosedimentologie\"\nBericht zur Geländeübung"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung, Seminar, Geländeübung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Invertebraten-Paläontologie",
+            "V+Ü",
+            "3",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Biosedimentologie",
+            "S",
+            "1",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Sedimentäre Fazies",
+            "V+Ü",
+            "3",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Geländeübung",
+            "GÜ",
+            "2 Tage",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "Mündliche Prüfung",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "7 + 2 Tage",
+            "8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

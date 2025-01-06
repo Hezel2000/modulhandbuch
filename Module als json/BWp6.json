@@ -1,0 +1,220 @@
+{
+    "Modul-Code": "BWp6",
+    "Modul-Name-en": "Advanced Mineralogy",
+    "Modul-Name-de": "Vertiefung Mineralogie",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "8 SWS",
+    "Kontaktstudium": "8 SWS / 120 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "Das Modul besteht aus praktischen Übungen im Labor und im Gelände. Der Laborteil teilt sich auf Praktika im Bereich Mineralogie/Petrologie sowie Mineralogie/Kristallographie auf.\nPraktikum Mineralogie/Kristallographie\nGrundlagen, Durchführung und Auswertung von Experimenten in der Mineralogie. Diese beinhalten eine Auswahl aus den Themenbereichen: Synthesemethoden, Probencharakterisierung durch Röntgenpulvermessungen, Metrikbestimmung aus Einkristalldaten, Ultraschallspektroskopie, Ramanspektroskopie, nichtlineare Optik, Fluoreszenz, Kalorimetrie, Dilatometrie, Dichtemessungen, Widerstandsmessungen und der Bestimmung von Brechungsindices. Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Verbindungen.\nPraktikum Mineralogie/Petrologie\nPetrologisch-mineralogisch-geochemische Charakterisierung von Gesteinsproben und Quantifizierung ihrer Bildungsgeschichte. Die Methoden werden anhand praktischer Übungen vertieft und gefestigt.\nGeländeübung\nDiese bietet einen praktischen, geländebezogenen Einblick in die Entstehung von magmatischen und/oder metamorphen Gesteinen.",
+    "Lernergebnisse / Kompetenzziele": "* Erlernen der Grundlagen von experimentellen Methoden in der Mineralogie\n* Planen, durchführen, quantifizieren und bewerten von Laborexperimenten\n* Einordnen, identifizieren und analysieren von Mineralen und Gesteinen\n* Quantifizieren der Genese von Gesteinen mittels mineralogischer und petrologischer Methoden\nInterpretieren der Genese von magmatischen und/oder metamorphen Gesteinen anhand von Geländebefunden",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der Module BP2 \"Geomaterialien\", BP4 \"Mineralogie\", BP7 \"Petrologie\", BP8 \"Geochemie\" und BP14 \"Geowissenschaften 4\"",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP zu belegen.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB 11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc. Chemie",
+    "Häufigkeit des Angebots": "jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Horst Marschall",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Aktive Teilnahme in den Praktika und Geländeübungen",
+        "Leistungsnachweise": "Antestate zu den Versuchen\nBericht zum 3 CP-Praktikum bzw. zu den Geländeübungen"
+    },
+    "Lehr- / Lernformen": "Praktikum, Geländeübung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Auswahl aus:",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Praktikum Mineralogie/Petrologie",
+            "Pr",
+            "5",
+            "5",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Praktikum Mineralogie/Kristallographie 1",
+            "Pr",
+            "3",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Praktikum Mineralogie/Kristallographie 2",
+            "Pr",
+            "5",
+            "5",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Geländeübung, 6 Tage",
+            "GÜ",
+            "6 Tage",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "Bericht",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

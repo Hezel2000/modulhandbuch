@@ -1,0 +1,148 @@
+{
+    "Modul-Code": "BP18a",
+    "Modul-Name-en": "Practical Laboratory Course in General and Inorganic Chemistry for Scientists",
+    "Modul-Name-de": "Praktikum Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften als Studienleistung",
+    "Modul-Typ": "Pflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "4 CP (insg.) = 120 h",
+    "Anzahl SWS": "4 SWS",
+    "Kontaktstudium": "4 SWS / 60 h",
+    "Selbststudium": "60 h",
+    "Inhalte": "Versuche zu elektrolytischer Dissoziation, Säuren und Basen, Titration, Gleichgewichtskonstanten, Puffersysteme, Löslichkeit, Redoxreaktionen, Komplexchemie, Trennverfahren\nVor dem praktischen Teil findet eine verpflichtende Sicherheits- und Einführungsveranstaltung statt.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden können mit chemischen Geräten und Apparaten umgehen und einfache Reaktionen, Nachweise und Messungen durchführen. Sie können mit Grundchemikalien umgehen. Sie sind in der Lage, Reaktionsgleichungen aufzustellen und die Stöchiometrie zu errechnen. Die Beschäftigung mit grundlegenden Stoffen, Eigenschaften und Reaktionen anorganischer Verbindungen bringt ihnen die Logik der Chemie nahe.",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Modul \"Grundlagen der Allgemeinen und Anorganischen Chemie für Studierende der Naturwissenschaften und des Lehramts\"",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Die Klausur erfordert eine verbindliche Online-Anmeldung bis spätestens 14 Tage vor dem Prüfungstermin. Diese kann bis zu zwei Werktage vor dem Prüfungstermin ohne Angabe von Gründen zurückgezogen werden.\nBlockveranstaltung in der vorlesungsfreien Zeit im Sommer. Die Organisation des Praktikums sowie die Anmeldung wird über OLAT abgewickelt.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Chemie / FB14",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc. Geowissenschaften / FB11",
+    "Häufigkeit des Angebots": "Einmal im Jahr (im Sommersemester)",
+    "Dauer des Moduls": "1 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. C. Buchsbaum",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Praktikum: Regelmäáige Teilnahme an den Sicherheits- und Einführungsveranstaltungen\nSeminar: Regelmäáige und aktive Teilnahme",
+        "Leistungsnachweise": "Bearbeitung der Praktikumsversuche und Protokolle (siehe Praktikumsregularien)\nKlausur (120 Min.)"
+    },
+    "Lehr- / Lernformen": "Praktikum, Seminar",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Praktikum \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften\"",
+            "Pr",
+            "3",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Seminar zum Praktikum \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften \"",
+            "S",
+            "1",
+            "1",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "4",
+            "4",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}
