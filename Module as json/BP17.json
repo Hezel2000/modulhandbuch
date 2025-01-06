@@ -7,25 +7,123 @@
     "Anzahl SWS": "5 SWS",
     "Kontaktstudium": "75 h",
     "Selbststudium": "135 h",
-    "Inhalte": "\nGrundlagen in allgemeiner und anorganischer Chemie: Atombau, Periodensystem, Molekülstrukturen, kovalente Bindung, Ionenbindung, van der Waals-Bindung, Metalle, chemisches Gleichgewicht, Redoxgleichungen, stöchiometrisches Rechnen, Reaktionskinetik, Gase, Flüssigkeiten, Feststoffe, Kristallstrukturen, Lösungen, Säuren und Basen, Elektrochemie, Chemie der Hauptgruppenelemente (ausführlich), Chemie der Nebengruppenelemente, Grundlagen der analytischen Chemie",
-    "Lernergebnisse / Kompetenzziele": "\nDie Studierenden können für eine gegebene Molekularformel die korrekte Lewisformel aufstellen. Sie kennen den Atombau, das Periodensystem und die wichtigsten Stoffe und Reaktionen. Sie kennen die Sprache der Chemie. Sie sind in der Lage, Reaktionsgleichungen aufzustellen und die Stöchiometrie zu errechnen. Die Beschäftigung mit grundlegenden Stoffen, Eigenschaften und Reaktionen anorganischer Verbindungen bringt ihnen die Logik der Chemie nahe.",
-    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "\n-",
-    "Empfohlene Voraussetzungen": "\n-",
-    "Organisatorische Hinweise": "\nDie Klausur erfordert eine verbindliche Online-Anmeldung bis spätestens 14 Tage vor dem Prüfungstermin. Diese kann bis zu zwei Werktage vor dem Prüfungstermin ohne Angabe von Gründen zurückgezogen werden.\nDie Organisation der Übungen wird über OLAT abgewickelt.\nEs gelten folgende Besonderheiten (nach RO õ12):\n1. Eine nicht bestandene Modulabschlussprüfung kann, neben den regulären zwei Wiederholungen, ein weiteres Mal wiederholt werden (RO õ46 Abs. 3). Falls die jeweilige Studienordnung zusätzliche Wiederholung gemäá RO õ46 Abs. 3 oder einen Freiversuch gemäá Abs. 12 vorsieht, so ist diese Wiederholung eine der dort angegebenen Wiederholungsmöglichkeiten bzw. der Freiversuch.\nDie Wiederholung muss jeweils bis zum Ende des nächstmöglichen Semesters, in dem die Prüfung angeboten wird, erfolgen; andernfalls gilt die Prüfung als nicht bestanden, es sei denn, die oder der Studierende hat das Versäumnis nicht zu vertreten. Eine zwischenzeitliche Exmatrikulation verlängert die Wiederholungsfrist nicht.\n2. Eine bestandene Modulabschlussprüfung kann zum Zwecke der Notenverbesserung einmal wiederholt werden (RO õ46 Abs. 13), wobei die bessere Leistung angerechnet wird (es gilt die Wiederholungsfrist unter 1. Abs. 2).\nDiese Regelung darf einmal entweder im Modul \"Grundlagen der Allgemeinen und Anorganischen Chemie für Studierende der Naturwissenschaften und des Lehramts als Prüfungsleistung\" oder im Modul \"Praktikum Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften\" in Anspruch genommen werden.",
+    "Inhalte": "Grundlagen in allgemeiner und anorganischer Chemie: Atombau, Periodensystem, Molekülstrukturen, kovalente Bindung, Ionenbindung, van der Waals-Bindung, Metalle, chemisches Gleichgewicht, Redoxgleichungen, stöchiometrisches Rechnen, Reaktionskinetik, Gase, Flüssigkeiten, Feststoffe, Kristallstrukturen, Lösungen, Säuren und Basen, Elektrochemie, Chemie der Hauptgruppenelemente (ausführlich), Chemie der Nebengruppenelemente, Grundlagen der analytischen Chemie",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden können für eine gegebene Molekularformel die korrekte Lewisformel aufstellen. Sie kennen den Atombau, das Periodensystem und die wichtigsten Stoffe und Reaktionen. Sie kennen die Sprache der Chemie. Sie sind in der Lage, Reaktionsgleichungen aufzustellen und die Stöchiometrie zu errechnen. Die Beschäftigung mit grundlegenden Stoffen, Eigenschaften und Reaktionen anorganischer Verbindungen bringt ihnen die Logik der Chemie nahe.",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Die Klausur erfordert eine verbindliche Online-Anmeldung bis spätestens 14 Tage vor dem Prüfungstermin. Diese kann bis zu zwei Werktage vor dem Prüfungstermin ohne Angabe von Gründen zurückgezogen werden.\nDie Organisation der Übungen wird über OLAT abgewickelt.\nEs gelten folgende Besonderheiten (nach RO õ12):\n1. Eine nicht bestandene Modulabschlussprüfung kann, neben den regulären zwei Wiederholungen, ein weiteres Mal wiederholt werden (RO õ46 Abs. 3). Falls die jeweilige Studienordnung zusätzliche Wiederholung gemäá RO õ46 Abs. 3 oder einen Freiversuch gemäá Abs. 12 vorsieht, so ist diese Wiederholung eine der dort angegebenen Wiederholungsmöglichkeiten bzw. der Freiversuch.\nDie Wiederholung muss jeweils bis zum Ende des nächstmöglichen Semesters, in dem die Prüfung angeboten wird, erfolgen; andernfalls gilt die Prüfung als nicht bestanden, es sei denn, die oder der Studierende hat das Versäumnis nicht zu vertreten. Eine zwischenzeitliche Exmatrikulation verlängert die Wiederholungsfrist nicht.\n2. Eine bestandene Modulabschlussprüfung kann zum Zwecke der Notenverbesserung einmal wiederholt werden (RO õ46 Abs. 13), wobei die bessere Leistung angerechnet wird (es gilt die Wiederholungsfrist unter 1. Abs. 2).\nDiese Regelung darf einmal entweder im Modul \"Grundlagen der Allgemeinen und Anorganischen Chemie für Studierende der Naturwissenschaften und des Lehramts als Prüfungsleistung\" oder im Modul \"Praktikum Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften\" in Anspruch genommen werden.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Chemie / FB14",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc. Geowissenschaften / FB11\n",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc. Geowissenschaften / FB11",
     "Häufigkeit des Angebots": "Jährlich im WiSe",
     "Dauer des Moduls": "1 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Dr. C. Buchsbaum\nStudiennachweise/ ggf. als Prüfungsvorleistungen\n\n\nTeilnahmenachweise\nRegelmäáige und aktive (Präsentation der Ergebnisse einer Übungsaufgabe) Teilnahme an Übungen. Zur Klausur wird nur zugelassen, wer an mindestens 66% der Übungen teilgenommen hat.\n\nLeistungsnachweise\n-\nLehr- / Lernformen\nVorlesung, Übung\nUnterrichts- / Prüfungssprache\nDeutsch\nModulprüfung\nForm / Dauer / ggf. Inhalt\n\nModulabschlussprüfung\nbestehend aus:\nKlausur (120 min)\n\nkumulative Modulprüfung bestehend aus:\n-\n\nBildung der Modulnote bei kumulativen Modulprüfungen:\n-\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nVorlesung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"\nV\n4\n5\nX\n\n\n\n\n\n\nÜbung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"\nÜ\n1\n2\nX\n\n\n\n\n\n\nModulprüfung\nKlausur\n\n\nX\n\n\n\n\n\n\nSumme\n\n5\n7\n\n\n\n\n",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. C. Buchsbaum",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Regelmäáige und aktive (Präsentation der Ergebnisse einer Übungsaufgabe) Teilnahme an Übungen. Zur Klausur wird nur zugelassen, wer an mindestens 66% der Übungen teilgenommen hat.",
-        "Leistungsnachweise": "-"
+        "Leistungsnachweise": "keine"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "-",
-        "Bildung der Modulnote bei kumulativen Modulprüfungen": "-\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nVorlesung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"\nV\n4\n5\nX\n\n\n\n\n\n\nÜbung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"\nÜ\n1\n2\nX\n\n\n\n\n\n\nModulprüfung\nKlausur\n\n\nX\n\n\n\n\n\n\nSumme\n\n5\n7"
-    }
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Vorlesung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"",
+            "V",
+            "4",
+            "5",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Übung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"",
+            "Ü",
+            "1",
+            "2",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "Klausur",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "5",
+            "7",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ]
 }

@@ -1,0 +1,31 @@
+{
+    "Modul-Code": "BWp3",
+    "Modul-Name-en": "Crystallographic Mineralogy",
+    "Modul-Name-de": "Kristallographische Mineralogie",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "8 SWS",
+    "Kontaktstudium": "8 SWS / 120 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "\nZiel des Moduls ist ein vertieftes Verständnis von Struktur-Eigenschaftsbeziehungen von Geomaterialien und verwandten Verbindungen. Daher werden zuerst die Grundlagen von Beugungsuntersuchungen vertieft und die Durchführung von Experimenten und die Auswertungen von Beugungsdaten erklärt. Weiterhin werden die Grundlagen von spektroskopischen Methoden (FTIR, Raman, INS, IXS, Moessbauer, XAS, ...) vermittelt, und auch hier gibt es eine Einführung in die effiziente Darstellung und Auswertung von Daten anhand konkreter Beispiele.",
+    "Lernergebnisse / Kompetenzziele": "\n* Verständnis von Struktur-Eigenschaftsbeziehungen von Geomaterialien und verwandten Verbindungen.\n* Vertiefte Kenntnisse der Grundlagen von Beugungsuntersuchungen (Röntgen-, Neutronen-, Elektronenbeugung) und praktische Erfahrung mit der Auswertung von Röntgenpulverdaten (Indizierung, le Bail, Rietveld).\n*  Kenntnisse der Grundlagen und Anwendungsbereiche von schwingungsspektroskopischen Methoden (Gitterdynamik, Symmetriebetrachtungen), sowie von spektroskopischen Methoden mit gamma- und Röntgenstrahlung.\n* Methoden- und Programmierkenntnisse zur Datenauswertung und -darstellung",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "\nErfolgreich absolvierte Module BP1 \"Geomaterialien\" und BP4 \"Mineralogie\"",
+    "Empfohlene Voraussetzungen": "\nLineare Algebra, trigonometrische Funktionen, komplexe Zahlen\nErfolgreiche Teilnahme an Physik I, Mathematik I und Chemie",
+    "Organisatorische Hinweise": "\nAus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP zu belegen, wobei der Besuch der Veranstaltung \"Diffraktion\" verpflichtend ist.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB 11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc./M.Sc. Mathematik, Chemie",
+    "Häufigkeit des Angebots": "Jährlich, Seminar jedes Semester",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Björn Winkler\nStudiennachweise/ ggf. als Prüfungsvorleistungen\n\n\nTeilnahmenachweise\nAktive Teilnahme in allen Übungen und im Seminar\n\nLeistungsnachweise\n\"Datendarstellung\": erfolgreiche Abgabe von Hausaufgaben\n\"Seminar\": Vortrag mit Ausarbeitung\n\"Aktuelle Themen\": Vortrag mit Ausarbeitung\n\"Diffraktion\": Übungen als Prüfungsvorleistung\nLehr- / Lernformen\nVorlesung, Übung\nUnterrichts- / Prüfungssprache\nDeutsch\nModulprüfung\nForm / Dauer / ggf. Inhalt\n\nModulabschlussprüfung\nbestehend aus:\nKlausur (max. 120 min) über die Inhalte der gewählten Veranstaltungen\n\nkumulative Modulprüfung bestehend aus:\n-\n\nBildung der Modulnote bei kumulativen Modulprüfungen:\n-\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nDiffraktion\nV+Ü\n3\n3\n\n\n\nX\nX\n\n\nAuswahl aus:\n\n\n\n\n\n\n\n\n\n\nKristallchemie\nV+Ü\n2\n2\n\n\n\nX\n\n\n\nSpektroskopie\nV+Ü\n2\n2\n\n\n\n\nX\n\n\nDatendarstellung und -analyse\nV+Ü\n3\n3\n\n\n\nX\n\n\n\nSeminar\nS\n2\n2\n\n\n\n\nX\n\n\nAktuelle Themen\nV+Ü\n2\n2\n\n\n\nX\n\n\n\nModulprüfung\nKlausur\n\n\n\n\n\nX\nX\n\n\nSumme\n\n8\n8\n\n\n\n\n",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Aktive Teilnahme in allen Übungen und im Seminar",
+        "Leistungsnachweise": "\"Datendarstellung\": erfolgreiche Abgabe von Hausaufgaben\n\"Seminar\": Vortrag mit Ausarbeitung\n\"Aktuelle Themen\": Vortrag mit Ausarbeitung\n\"Diffraktion\": Übungen als Prüfungsvorleistung"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    }
+}

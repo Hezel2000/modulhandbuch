@@ -7,16 +7,16 @@
     "Anzahl SWS": "SWS",
     "Kontaktstudium": "variabel",
     "Selbststudium": "variabel",
-    "Inhalte": "\nIn diesem Modul haben die Studierenden die Möglichkeit, Lehrveranstaltungen eines naturwissenschaftlichen Faches, das in einem sinnvollen Zusammenhang mit dem Bachelor-Studium Geowissenschaften steht, im Umfang von mind. 8 CP zu wählen. Dieses Fach kann aus dem Angebot der Goethe-Universität sowie dem Institut für Angewandte Geowissenschaften der TU Darmstadt stammen. Folgende Fächer / Fachrichtungen / Disziplinen sind möglich bzw. werden besonders empfohlen:\n* Mathematik\n* Physik\n* Chemie\n* Biowissenschaften\n* Umweltwissenschaften\n* Meteorologie\n* Physische Geographie\n* Angewandte Geowissenschaften\n* Informatik\n* Veranstaltungen aus dem Bereich EDV\nDie Zusammenstellung der Veranstaltungen innerhalb des gewählten Faches erfolgt in Absprache mit dem/der Modulverantwortlichen sowie den jeweiligen Verantwortlichen der gewählten Importmodule.",
-    "Lernergebnisse / Kompetenzziele": "\nDie Studierenden\n* Stellen ihre geowissenschaftlichen Kenntnisse auf eine breitere naturwissenschaftliche Basis\n* erweitern ihre fachspezifischen Kenntnisse und Fähigkeiten in dem gewählten Bereich\n* sind in der Lage naturwissenschaftliche Methoden angemessen anzuwenden",
-    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "\nAbschluss der Module BP01 - BP03 und BP15 - BP18",
-    "Empfohlene Voraussetzungen": "\n-",
-    "Organisatorische Hinweise": "\nMindestens 4 der 8 CPs müssen als Prüfungsleistung abgeschlossen werden.\nFür die Absolvierung des Moduls findet die Prüfungsordnung Anwendung, in deren Rahmen die gewählte Veranstaltung / das gewählte Modul angeboten wird.",
+    "Inhalte": "In diesem Modul haben die Studierenden die Möglichkeit, Lehrveranstaltungen eines naturwissenschaftlichen Faches, das in einem sinnvollen Zusammenhang mit dem Bachelor-Studium Geowissenschaften steht, im Umfang von mind. 8 CP zu wählen. Dieses Fach kann aus dem Angebot der Goethe-Universität sowie dem Institut für Angewandte Geowissenschaften der TU Darmstadt stammen. Folgende Fächer / Fachrichtungen / Disziplinen sind möglich bzw. werden besonders empfohlen:\n* Mathematik\n* Physik\n* Chemie\n* Biowissenschaften\n* Umweltwissenschaften\n* Meteorologie\n* Physische Geographie\n* Angewandte Geowissenschaften\n* Informatik\n* Veranstaltungen aus dem Bereich EDV\nDie Zusammenstellung der Veranstaltungen innerhalb des gewählten Faches erfolgt in Absprache mit dem/der Modulverantwortlichen sowie den jeweiligen Verantwortlichen der gewählten Importmodule.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* Stellen ihre geowissenschaftlichen Kenntnisse auf eine breitere naturwissenschaftliche Basis\n* erweitern ihre fachspezifischen Kenntnisse und Fähigkeiten in dem gewählten Bereich\n* sind in der Lage naturwissenschaftliche Methoden angemessen anzuwenden",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der Module BP01 - BP03 und BP15 - BP18",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Mindestens 4 der 8 CPs müssen als Prüfungsleistung abgeschlossen werden.\nFür die Absolvierung des Moduls findet die Prüfungsordnung Anwendung, in deren Rahmen die gewählte Veranstaltung / das gewählte Modul angeboten wird.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\n-",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
     "Häufigkeit des Angebots": "variabel",
     "Dauer des Moduls": "1 - 2 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Apl. Prof. Dr. Jens Fiebig\nStudiennachweise/ ggf. als Prüfungsvorleistungen\n\n\nTeilnahmenachweise\nJe nach gewählten Veranstaltungen\n\nLeistungsnachweise\nJe nach gewählten Veranstaltungen\nLehr- / Lernformen\nVorlesung, Übung, Seminar, Praktikum\nUnterrichts- / Prüfungssprache\nDeutsch, Englisch\nModulprüfung\nForm / Dauer / ggf. Inhalt\n\nModulabschlussprüfung\nbestehend aus:\nJe nach gewählten Veranstaltungen/Modulen\n\nkumulative Modulprüfung bestehend aus:\nJe nach gewählten Veranstaltungen/Modulen\n\nBildung der Modulnote bei kumulativen Modulprüfungen:\nJe nach gewählten Veranstaltungen/Modulen\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nVeranstaltungen im Umfang von mind. 8 CP\nV, Ü, S, Pr\nvariabel\n8\n\n\n\nX\nX\nX\n\nModulprüfung\nvariabel\n\n\n\n\n\n\n\n\n\nSumme\n\n\n8\n\n\n\n\n",
+    "Modulbeauftragte / Modulbeauftragter": "Apl. Prof. Dr. Jens Fiebig",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Je nach gewählten Veranstaltungen",
         "Leistungsnachweise": "Je nach gewählten Veranstaltungen"
@@ -26,6 +26,92 @@
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
         "kumulative Modulprüfung bestehend aus": "Je nach gewählten Veranstaltungen/Modulen",
-        "Bildung der Modulnote bei kumulativen Modulprüfungen": "Je nach gewählten Veranstaltungen/Modulen\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nVeranstaltungen im Umfang von mind. 8 CP\nV, Ü, S, Pr\nvariabel\n8\n\n\n\nX\nX\nX\n\nModulprüfung\nvariabel\n\n\n\n\n\n\n\n\n\nSumme\n\n\n8"
-    }
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Veranstaltungen im Umfang von mind. 8 CP",
+            "V, Ü, S, Pr",
+            "variabel",
+            "8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "X",
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "variabel",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "8",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ]
 }

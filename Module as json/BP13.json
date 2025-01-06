@@ -7,16 +7,16 @@
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
     "Selbststudium": "120 h",
-    "Inhalte": "\nDas Modul umfasst Vorlesungen und Übungen aus den Bereichen wissenschaftliche Programmierung und Modellierung. Es werden zunächst Grundlagen in wissenschaftlichen Programmiersprachen und deren Anwendung für geowissenschaftliche Modellierungen vermittelt. In der Statistischen Datenauswertung werden Kriterien zur Anpassung geowissenschaftlicher Beobachtungsdaten durch Modelle behandelt. Es werden u.a. Fehleranalysen, Ausgleichrechnungen und Testverfahren besprochen. Die Vermittlung der Lehrinhalte erfolgt neben den Vorlesungen in rechnergestützten Übungen.",
-    "Lernergebnisse / Kompetenzziele": "\nDie Lernziele beziehen sich auf Grundlagen und Anwendung von Methoden zur Datenanalyse und Modellierung mit Hilfe von Programmiersprachen. Sie erwerben die Fähigkeit, geowissenschaftliche Fragestellungen mit Hilfe numerischer Algorithmen zu quantifizieren und zu visualisieren.\n* Die Studierenden geben wieder, was sie gelernt haben.\n* Sie erklären die Zusammenhänge anhand von Formeln und Graphen.\n* Sie wenden die erworbenen Fähigkeiten auf neue Sachverhalte an.\n* Geowissenschaftliche Strukturen und Prozesse aus unterschiedlichen Disziplinen werden numerisch simuliert und natürliche Gegebenheiten nachgestellt (Modellierung).\n* Verschiedene Modellvorstellungen werden kombiniert und in den geowissenschaftlichen Zusammenhang mit Nachbardisziplinen gebracht.\n* In der statistischen Datenauswertung wird die kritische Betrachtung von geowissenschaftlichen Beobachtungen geschult und die Tragfähigkeit von Modellvorstellungen überprüft.",
-    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "\n-",
-    "Empfohlene Voraussetzungen": "\nAbschluss des Moduls BP15 \"Mathematik\"",
-    "Organisatorische Hinweise": "\nDer/die Prüfer*in kann bei der Bewertung des Berichts die Übungsleistung in der Veranstaltung \"Statistische Datenauswertung\" mit bis zu 25% notenverbessernd berücksichtigen.",
+    "Inhalte": "Das Modul umfasst Vorlesungen und Übungen aus den Bereichen wissenschaftliche Programmierung und Modellierung. Es werden zunächst Grundlagen in wissenschaftlichen Programmiersprachen und deren Anwendung für geowissenschaftliche Modellierungen vermittelt. In der Statistischen Datenauswertung werden Kriterien zur Anpassung geowissenschaftlicher Beobachtungsdaten durch Modelle behandelt. Es werden u.a. Fehleranalysen, Ausgleichrechnungen und Testverfahren besprochen. Die Vermittlung der Lehrinhalte erfolgt neben den Vorlesungen in rechnergestützten Übungen.",
+    "Lernergebnisse / Kompetenzziele": "Die Lernziele beziehen sich auf Grundlagen und Anwendung von Methoden zur Datenanalyse und Modellierung mit Hilfe von Programmiersprachen. Sie erwerben die Fähigkeit, geowissenschaftliche Fragestellungen mit Hilfe numerischer Algorithmen zu quantifizieren und zu visualisieren.\n* Die Studierenden geben wieder, was sie gelernt haben.\n* Sie erklären die Zusammenhänge anhand von Formeln und Graphen.\n* Sie wenden die erworbenen Fähigkeiten auf neue Sachverhalte an.\n* Geowissenschaftliche Strukturen und Prozesse aus unterschiedlichen Disziplinen werden numerisch simuliert und natürliche Gegebenheiten nachgestellt (Modellierung).\n* Verschiedene Modellvorstellungen werden kombiniert und in den geowissenschaftlichen Zusammenhang mit Nachbardisziplinen gebracht.\n* In der statistischen Datenauswertung wird die kritische Betrachtung von geowissenschaftlichen Beobachtungen geschult und die Tragfähigkeit von Modellvorstellungen überprüft.",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "Abschluss des Moduls BP15 \"Mathematik\"",
+    "Organisatorische Hinweise": "Der/die Prüfer*in kann bei der Bewertung des Berichts die Übungsleistung in der Veranstaltung \"Statistische Datenauswertung\" mit bis zu 25% notenverbessernd berücksichtigen.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\n-",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
     "Häufigkeit des Angebots": "jährlich",
     "Dauer des Moduls": "2 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge\nStudiennachweise/ ggf. als Prüfungsvorleistungen\n\n\nTeilnahmenachweise\nAktive Teilnahme an den Übungen\n\nLeistungsnachweise\nBestehen der Übungen; die Übungsleistung in der Veranstaltung \"Statistische Datenauswertung\" kann mit bis zu 25% notenverbessernd berücksichtigt werden\n\nLehr- / Lernformen\nVorlesung, Übung\nUnterrichts- / Prüfungssprache\nDeutsch\nModulprüfung\nForm / Dauer / ggf. Inhalt\n\nModulabschlussprüfung\nbestehend aus:\nBericht zu \"Grundlagen wiss. Programmierung und Modellierung\"\n\nkumulative Modulprüfung bestehend aus:\n-\n\nBildung der Modulnote bei kumulativen Modulprüfungen:\n-\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nGrundlagen wiss. Programmierung und Modellierung\nV+Ü\n2\n3\n\n\nX\n\n\n\n\nStatistische Datenauswertung\nV+Ü\n2\n3\n\n\n\nX\n\n\n\nModulprüfung\nBericht\n\n\n\n\nX\n\n\n\n\nSumme\n\n4\n6\n\n\n\n\n",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
         "Leistungsnachweise": "Bestehen der Übungen; die Übungsleistung in der Veranstaltung \"Statistische Datenauswertung\" kann mit bis zu 25% notenverbessernd berücksichtigt werden"
@@ -25,7 +25,129 @@
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "-",
-        "Bildung der Modulnote bei kumulativen Modulprüfungen": "-\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nGrundlagen wiss. Programmierung und Modellierung\nV+Ü\n2\n3\n\n\nX\n\n\n\n\nStatistische Datenauswertung\nV+Ü\n2\n3\n\n\n\nX\n\n\n\nModulprüfung\nBericht\n\n\n\n\nX\n\n\n\n\nSumme\n\n4\n6"
-    }
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [
+            "LV-Form",
+            "SWS",
+            "CP",
+            "Semester",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "1",
+            "2",
+            "3",
+            "4",
+            "5",
+            "6",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Grundlagen wiss. Programmierung und Modellierung",
+            "V+Ü",
+            "2",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Statistische Datenauswertung",
+            "V+Ü",
+            "2",
+            "3",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Modulprüfung",
+            "Bericht",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "X",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "Summe",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ],
+        [
+            "4",
+            "6",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            "",
+            ""
+        ]
+    ]
 }

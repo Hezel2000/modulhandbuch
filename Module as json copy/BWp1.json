@@ -1,0 +1,31 @@
+{
+    "Modul-Code": "BWp1",
+    "Modul-Name-en": "Geophysical Methods",
+    "Modul-Name-de": "Geophysikalische Methoden",
+    "Modul-Typ": "",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "6 SWS",
+    "Kontaktstudium": "6 SWS / 90 h",
+    "Selbststudium": "150 h",
+    "Inhalte": "\nDas Modul Geophysikalische Methoden umfasst die praktische Anwendung geophysikalischer Methoden im Gelände, im Labor und am Rechner. Im Gelände werden verschiedene Verfahren zur Erkundung der räumlichen Verteilung physikalischer Parameter des oberflächennahen Untergrunds vorgestellt. Im Labor werden physikalische Eigenschaften von Gesteinen untersucht sowie die Untersuchung groáräumiger Strukturen auf Labormaástab herunterskaliert. Mit numerischen Verfahren werden an Rechnern physikalische Prozesse im Erdinneren sowie die Anwendung von Messverfahren simuliert. In der Einführung in die wissenschaftliche Projektarbeit wird ein Einblick in aktuelle Forschungsprojekte der geophysikalischen Arbeitsgruppen durch die Bearbeitung von ausgewählten, projektrelevanten Themen gegeben.",
+    "Lernergebnisse / Kompetenzziele": "\nDie Lernziele beziehen sich auf die Anwendung geophysikalischer Methoden im Gelände und im Labor sowie numerischer Verfahren zur Bearbeitung von Messdaten und zur Simulation physikalischer Prozesse im Erdinneren.\n* Die Studierenden geben wieder, was sie gelernt haben.\n* Sie erklären die Zusammenhänge anhand von Formeln und Graphen.\n* Sie wenden die erworbenen Fähigkeiten Umgang mit technisch hochspezialisierten Geräten unter Gelände- und Laborbedingungen an.\n* Sie überprüfen die Messergebnisse anhand einzelner Fallstudien.\n* Die Ergebnisse ausgewählter Fallstudien werden in einen gemeinsamen Kontext gesetzt.\n* Die Kompetenz in der kritischen Beurteilung komplexer geophysikalischer Zusammenhänge wird geschult.",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "\nTeilnahme an den Modulen BP12 \"Geophysik\" und BP13 \"Datenanalyse und Modellierung\"",
+    "Empfohlene Voraussetzungen": "\nAbschluss der Module BP15 \"Mathematik\" und BP16 \"Physik\"",
+    "Organisatorische Hinweise": "\nIn dem Modul sind 2 Lehrveranstaltungen im Umfang von 8 CP auszuwählen.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc./M.Sc. Mathematik, Informatik, Physik",
+    "Häufigkeit des Angebots": "semesterweise und jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge\nStudiennachweise/ ggf. als Prüfungsvorleistungen\n\n\nTeilnahmenachweise\nAktive Teilnahme an den Übungen\n\nLeistungsnachweise\n-\nLehr- / Lernformen\nVorlesung, Übung\nUnterrichts- / Prüfungssprache\nDeutsch\nModulprüfung\nForm / Dauer / ggf. Inhalt\n\nModulabschlussprüfung\nbestehend aus:\nKlausur (max. 120 min) über die Inhalte der gewählten Veranstaltungen\n\nkumulative Modulprüfung bestehend aus:\n-\n\nBildung der Modulnote bei kumulativen Modulprüfungen:\n-\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n5\n6\n\nGeländeübung\nV+GÜ\n5 Tage\n4\n\n\n\n\n\nX\n\nLaborpraktikum\nV+Ü\n3\n4\n\n\n\n\nX\n\n\nNumerische Verfahren in der Geophysik\nV+Ü\n3\n4\n\n\n\n\nX\nX\n\nEinführung in die wissenschaftliche Projektarbeit\nÜ\n3\n4\n\n\n\n\nX\nX\n\nModulprüfung\nKlausur\n\n\n\n\n\n\nX\nX\n\nSumme\n\n6\n8\n\n\n\n\n",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
+        "Leistungsnachweise": "-"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    }
+}
