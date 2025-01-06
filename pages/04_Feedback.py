@@ -25,11 +25,15 @@ with st.form("feedback_form"):
     if submitted:
         if feedback.strip():
             try:
-                # Save feedback to Google Sheet
+                # Connect to Google Sheets
                 sheet = connect_to_gsheet()
+                
+                # Append feedback to the sheet
                 sheet.append_row([name, email, feedback, rating])
+                
                 st.success("Thank you for your feedback! Your message has been saved.")
             except Exception as e:
                 st.error(f"Failed to save feedback. Error: {e}")
+
         else:
             st.error("Feedback cannot be empty. Please provide your feedback.")
