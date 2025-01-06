@@ -11,7 +11,7 @@ client = gspread.authorize(creds)
 
 # Open the Google Sheet
 try:
-    sheet = client.open("Feedback Form").sheet1  # Replace with your sheet name
+    sheet = client.open("Feedback Modulhandbuch").sheet1  # Replace with your sheet name
     st.write(f"Connected to sheet: {sheet.title}")
 except Exception as e:
     st.error(f"Error connecting to Google Sheets: {e}")
