@@ -34,9 +34,7 @@
         [ "Mathematik für Studierende der Naturwissenschaften 1", "V", "3", "4,5", "X", "", "", "", "", "" ],
         [ "Mathematik für Studierende der Naturwissenschaften 1", "Ü", "1", "1,5", "X", "", "", "", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
-        [ "X", "", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ],
-        [ "4", "6", "", "", "", "", "", "", "", "" ]
+        [ "Summe", "", "", "", "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [
