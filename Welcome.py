@@ -9,7 +9,7 @@ st.markdown('''
             die zwar von der Studienkommission gepflegt wird, jedoch zählen im Zweifelsfall immer und ausschließlich
             die Angaben im Modulhandbuch, sowie die von der Studienkommission beschlossenen Änderungen.]  
             Das offizielle Modulhandbuch ist [hier](https://www.uni-frankfurt.de/89797195/Modulhandbuch_Geowissenschaften.pdf) zu finden, allerdings sind die beschlossenen Änderungen der Studienkommission
-            zu beachten, die hier soweit es möglich ist abgebildet sind. Alle weiteren Infos zum Studium dann [hier](https://www.uni-frankfurt.de/45741218/Willkommen_am_Institut_für_Geowissenschaften?legacy_request=1)
+            zu beachten, die hier soweit es möglich ist abgebildet sind. Alle weiteren Infos zum Studium  [hier](https://www.uni-frankfurt.de/45741218/Willkommen_am_Institut_für_Geowissenschaften?legacy_request=1).
             ''')
 
 st.markdown('''
