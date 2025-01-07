@@ -1,0 +1,49 @@
+{
+    "Modul-Code": "MWp Min5",
+    "Modul-Name-en": "Mineralogy-Crystallography 1",
+    "Modul-Name-de": "Mineralogie-Kristallographie 1",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "8 SWS",
+    "Kontaktstudium": "8 SWS / 120 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "Kristallphysik für Fortgeschrittene, Kristallzüchtung, Strukturbestimmung mit Einkristallmethoden, Moderne Methoden zur Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Verbindungen",
+    "Lernergebnisse / Kompetenzziele": "Tensorrechnung zur Beschreibung kristallphysikalischer Größen, vertiefte Kenntnisse ausgewählter kristallphysikalischer Eigenschaften, Methoden der Kristallzüchtung, praktische Aspekte von Kristallstrukturbestimmungen mit Einkristallen, synchrotron-basierte Methoden zur Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Strukturen, moderne Methoden der Hochdruckforschung",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Erfolgreiche Teilnahme am Bachelor-Modul \"Kristallographische Mineralogie\" oder gleichwertige Kenntnisse",
+    "Empfohlene Voraussetzungen": "Lineare Algebra, trigonometrische Funktionen, komplexe Zahlen\nErfolgreiche Teilnahme an Physik I, Mathematik I und Chemie",
+    "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP zu belegen, wobei der Besuch der Veranstaltung \"Strukturbestimmung\" verpflichtend ist.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB 11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Chemie, Mathematik",
+    "Häufigkeit des Angebots": "",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Björn Winkler",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "\"Moderne Methoden\": Vortrag + Ausarbeitung",
+        "Leistungsnachweise": "Klausur zu \"Kristallzüchtung\"\nKlausur zu \"Kristallphysik\""
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung\n",
+    "Unterrichts- / Prüfungssprache": "",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Strukturbestimmung", "V+Ü", 3, 3, "", "", "X", "" ],
+        [ "Auswahl aus:", "", "", "", "", "", "", "" ],
+        [ "Kristallphysik", "V+Ü", 3, 3, "", "X", "", "" ],
+        [ "Kristallzüchtung", "V+Ü", 2, 2, "", "X", "", "" ],
+        [ "Moderne Methoden", "V+Ü", 2, 2, "", "", "X", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "", "", "X", "" ],
+        [ "Summe", "", 8, 8, "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

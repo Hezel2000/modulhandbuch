@@ -12,5 +12,13 @@ for json_file in json_files:
     with open(os.path.join(folder_path, json_file), 'r') as file:
         data[json_file] = json.load(file)
 
-st.title('Alle BSc Module')
-utils.results_modules(utils.sort_modules(data))
+tab1, tab2 = st.tabs(['BSc', 'MSc'])
+
+with tab1:
+    utils.results_modules(utils.sort_BSc_modules(data))
+
+with tab2:
+    utils.results_modules(utils.sort_MSc_modules(data))
+
+
+st.sidebar.image('images/Goethe-Logo.jpg')

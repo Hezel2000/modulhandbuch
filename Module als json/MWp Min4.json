@@ -1,0 +1,45 @@
+{
+    "Modul-Code": "MWp Min4",
+    "Modul-Name-en": "Mineralogical practical training",
+    "Modul-Name-de": "Mineralogisches Praktikum",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "6 SWS",
+    "Kontaktstudium": "6 SWS / 90 h",
+    "Selbststudium": "150 h",
+    "Inhalte": "Vorbereitung, Durchführung und Auswertung von Fortgeschrittenenpraktika. Inhalt sind chemische, isotopische und strukturanalytische Methoden in der Mineralogie, Petrologie und Geochemie.",
+    "Lernergebnisse / Kompetenzziele": "* Vorbereiten, durchführen und auswerten von Experimenten\n* Vertiefen der Kenntnisse der Grundlagen der chemischen und isotopischen Mikroanalytik, der Phasenidentifikation und Strukturbestimmung und weiterer Untersuchungsmethoden\n* Organisieren, quantifizieren und beurteilen mineralogischer Daten",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der B.Sc.-Module BWp3 Kristallographische Mineralogie, BWp4 Analytische Mineralogie oder gleichwertige Kenntnisse.",
+    "Empfohlene Voraussetzungen": "Lineare Algebra, trigonometrische Funktionen, komplexe Zahlen\nErfolgreiche Teilnahme an Physik I, Mathematik I und Chemie",
+    "Organisatorische Hinweise": "Der/die Prüfer*in kann bei der Bewertung des Praktikumsberichts die Qualität der Versuchsdurchführung mit bis zu 25% notenverbessernd berücksichtigen.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB 11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc./M.Sc. Chemie",
+    "Häufigkeit des Angebots": "Jährlich",
+    "Dauer des Moduls": "1 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Horst Marschall",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Aktive Teilnahme am Praktikum",
+        "Leistungsnachweise": "Antestate zu den Versuchen (die Qualität der Versuchsdurchführung kann von dem/der Prüfer*in mit bis zu 25% notenverbessernd berücksichtigt werden)"
+    },
+    "Lehr- / Lernformen": "Praktikum",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Praktikum", "Pr", 6, 8, "", "X", "", ""],
+        [ "Modulprüfung", "Bericht", "", "", "", "X", "", ""],
+        [ "Summe", "", 6, 8, "", "", "", ""]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

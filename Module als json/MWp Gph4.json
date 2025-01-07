@@ -1,0 +1,45 @@
+{
+    "Modul-Code": "MWp Gph4",
+    "Modul-Name-en": "Geophysics 4",
+    "Modul-Name-de": "Geophysik 4",
+    "Modul-Typ": "",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "6 SWS",
+    "Kontaktstudium": "6 SWS / 90 h",
+    "Selbststudium": "150 h",
+    "Inhalte": "Das Modul umfasst Vorlesungen und Übungen aus den Bereichen Experimentalphysik, Theoretische Physik, sowie der Mathematik und Informatik. Mögliche Themenschwerpunkte sind: Mathematische Methoden der Physik, Spezielle Themen der Experimentalphysik, Partielle Differentialgleichungen, Funktionentheorie, Programmierung, Hardwarearchitektur.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* vertiefen ihre Kenntnisse in den geophysikalisch relevanten Fachgebieten der Physik, Mathematik und Informatik\n* erweitern ihr Verständnis naturwissenschaftlicher Methoden und Verfahren\n* erkennen interdisziplinäre Zusammenhänge und entwickeln neue Lösungsansätze",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "In dem Modul sind Lehrveranstaltungen im Umfang von 8 CP auszuwählen. Diese sind in Absprache mit dem Modulverantwortlichen aus dem aktuellen Angebot der o.g. Disziplinen zu wählen. Die Prüfungsregeln entsprechen denen für die B.Sc.- bzw. M.Sc.-Studiengänge Physik, Mathematik bzw. Informatik.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
+    "Häufigkeit des Angebots": "",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Georg Rümpker",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
+        "Leistungsnachweise": "Erfolgreich absolvierte Übungen"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Vorlesungen und Übungen aus dem aktuellen Angebot der Experimentalphysik, Theoretischen Physik, Mathematik und Informatik", "V+Ü", 6, 8, "", "X", "X", "" ],
+        [ "Modulprüfung", "Variabel", "", "", "", "X", "X", ""],
+        [ "Summe", "", 6, 8, "", "", "", ""]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

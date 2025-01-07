@@ -36,3 +36,6 @@ with st.form("feedback_form"):
                 st.error(f"Failed to save feedback. Error: {e}")
         else:
             st.error("Feedback cannot be empty. Please provide your feedback.")
+
+
+st.sidebar.image('images/Goethe-Logo.jpg')

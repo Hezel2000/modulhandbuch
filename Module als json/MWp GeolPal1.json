@@ -1,0 +1,46 @@
+{
+    "Modul-Code": "MWp GeolPal1",
+    "Modul-Name-en": "Field work",
+    "Modul-Name-de": "Gelände",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "SWS",
+    "Kontaktstudium": "16 Tage / 120 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "Das Modul beinhaltet die Erlernung vertiefender praktischer Fähigkeiten und Kenntnisse im Gelände. Hierzu gehören Geländeveranstaltungen unterschiedlicher Teildisziplinen der Geowissenschaften, wie:\n* Kartierung für Fortgeschrittene\n* die Analyse sedimentärer Ablagerungssysteme in Zeit und Raum inklusive detaillierter Profilaufnahme, Faziesanalyse und Rekonstruktion räumlicher Sedimentgeometrien\n* fortgeschrittene regionalgeologische, petrologische und strukturgeologische Geländeübungen\n* die Analyse fossiler und rezenter Ökosysteme als Indikator vergangener Umweltveränderungen",
+    "Lernergebnisse / Kompetenzziele": "Ziel dieses Moduls ist die Vertiefung geländebezogener Kompetenzen. Die Studierenden\n* verstehen und interpretieren den geologischen, stratigraphisch-faziellen, lithologischen und tektonischen Aufbau des besuchten Geländebereichs und erarbeiten hierüber selbständig Karten, Profile und/oder Modelle und stellen diese in Form von Berichten und/oder Kurzvorträgen vor\n* kennen und bewerten die erdgeschichtlich relevanten Vorgänge, die sich im besuchten Geländebereich ereignet haben\n* besitzen die für geologische Geländearbeiten notwendigen Fähigkeiten und Kenntnisse",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Bachelor-Geländeübungen/Kartierkurse in BP1 und BP10",
+    "Empfohlene Voraussetzungen": "Weitere Geländeveranstaltungen des Bachelor-Studiums (in BP11 und in BWp-Modulen)",
+    "Organisatorische Hinweise": "Insgesamt müssen 16 Geländetage aus dem Angebot an Fortgeschrittenen-Geländeübungen besucht werden. Die Modulabschlussnote ergibt sich aus einer explizit für das Modul für die Vertiefung Geologie-Paläontologie vorgesehenen Geländeveranstaltung/Kartierkurs mit mindestens 8 Tagen. Es können maximal 8 Geländetage mit Fortgeschrittenen-Status aus anderen Bachelor- und Mastermodulen anerkannt werden (unbenotet).",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge",
+    "Häufigkeit des Angebots": "Nach Angebot",
+    "Dauer des Moduls": "3 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. Rainer Petschick",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "Berichte oder Vorträge für max. 8 Tage Geländeübung"
+    },
+    "Lehr- / Lernformen": "Geländeübung",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Geländeübung/Kartierkurs für Fortgeschrittene", "GÜ", "mind. 8 Tage", 4, "X", "X", "X", "" ],
+        [ "Weitere Geländetage (für Fortgeschrittene)", "GÜ", "max. 8 Tage", 4, "X", "X", "X", "" ],
+        [ "Modulprüfung", "Bericht", "", "", "X", "X", "X", "" ],
+        [ "Summe", "", "16 Tage", 8, "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

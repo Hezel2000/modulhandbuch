@@ -1,0 +1,49 @@
+{
+    "Modul-Code": "MWp GeolPal2",
+    "Modul-Name-en": "Geodynamics and Tectonics",
+    "Modul-Name-de": "Geodynamik und Tektonik",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "7 SWS",
+    "Kontaktstudium": "7 SWS / 105 h",
+    "Selbststudium": "135 h",
+    "Inhalte": "Das Modul behandelt die Deformation der Erdkruste und des oberen Mantels auf unterschiedlichen räumlichen und zeitlichen Skalen.\nPlattentektonik und Orogenese\nDie Veranstaltung beschäftigt sich mit den globalen endogenen Vorgängen unserer Erde. Seit den 1960er Jahren weiß man, dass die Lithosphäre aus zahlreichen rigiden Platten besteht, die kontinuierlich in Bewegung sind. Hieraus resultiert eine stetige Veränderung in der Verteilung von Kontinenten und Ozeanen. Durch die Interaktion der Platten kommt es zur Deformation von Kruste und Mantel, die sich in Form von tektonischen Strukturen wie Falten und Störungen äußert. Von besonderem Interesse sind die Plattenränder, entlang derer sich Gebirge auffalten und tektonische Gräben entwickeln. Diese Zonen sind gekennzeichnet durch Metamorphose, Magmatismus, Lagerstättenbildung und Deformation sowie damit verbundene Seismizität.\nMikrogefüge und Deformationsmechanismen\nDie Veranstaltung behandelt die Deformation der gesteinsbildenden Minerale. Diese wird erheblich von den Umgebungsparametern wie Temperatur, Druck und Verformungsrate beeinflusst. Im hohen, relativ kalten Krustenstockwerk überwiegt bruchhafte Deformation. Im tieferen, kristallinen Stockwerk werden die Minerale viskos bzw. plastisch deformiert. Die im Mikroskop feststellbaren Deformationsgefüge in Mineralen liefern wichtige Hinweise auf die Umgebungsparameter und Deformationsmechanismen (Kristallplastizität, Kataklase, Diffusion). Der Kurs ist unerlässlich für jene Studierende, die sich mit Kristallingeologie und der tieferen Erde befassen. Er beinhaltet Vorlesungen mit anschließenden Übungen am Mikroskop und am PC. Zu Beginn werden die prinzipiellen Deformationsmechanismen der wichtigsten gesteinsbildenden Minerale in Abhängigkeit von den Umgebungsparametern erläutert. Weitere Schwerpunkte des Kurses sind: Mikrogefüge in Scherzonen (Kataklasite, Mylonite), Mikrogefüge in mineralisierten Gängen, magmatische Schergefüge, Foliations- und Lineationstypen, Kristallisation/Deformations-Relationen in Metamorphiten, Paläopiezometrie, Kristallographische Vorzugsorientierungen (Texturen) in Tektoniten.\nEinführung in die Strainanalyse\nDie Veranstaltung befasst sich mit der Quantifizierung der Gesteinsdeformation. Die in der Erdkruste vorhandenen deviatorischen Spannungen führen dazu, dass Gesteine ihre Form und Position ändern. Liegen primäre Vorzeichnungen wie Fossilien, Lapilli, Ooide, Gerölle etc. im Gestein vor, so lässt sich der Grad der Deformation quantifizieren. Die Strain-Analyse gehört seit den 1980er Jahren zu den Standardmethoden in der Strukturgeologie. Quantitative Verformungsdaten sind unerlässlich, um das Verformungsgeschehen in Orogenen und Intraplattenbereichen rekonstruieren zu können. Der erste Abschnitt des Kurses vermittelt die theoretischen Grundlagen der quantitativen Verformungsanalyse (Straintypen, Strainparameter, Strainellipse, Strainellipsoid). Anschließend werden die Methoden der zweidimensionalen quantitativen Verformungsanalyse besprochen und an Übungsbeispielen angewendet. Dabei werden neben manuellen auch rechnergestützte Methoden berücksichtigt. Der abschließende Teil der Veranstaltung behandelt den Strain in 3 Dimensionen und dessen Visualisierung.\nDating of Deformation and Tectonic Processes\nDie Lehrveranstaltung hat zum Ziel, die Studierenden mit den Prinzipien der geochronologischen Methoden und insbesondere deren Anwendung zur Datierung von Deformationsprozessen vertraut zu machen. Dies umfasst sowohl duktile als auch spröde Deformationen in Störungszonen. Übungen sowohl zur (mikroskopischen) Petrographie von Fault rocks als auch Rechenbeispiele runden diese Veranstaltung ab.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* sind in der Lage globale tektonische Prozesse zu beschreiben und zu interpretieren\n* kennen die für die verschiedenen Arten von Plattengrenzen typischen Prozesse und Deformationsstrukturen\n* können Mikrogefüge und Deformationsmechanismen von Mineralen und Gesteinen analysieren und interpretieren\n* sind in der Lage anhand von Deformationsgefügen Aussagen zu Verformungsbedingungen zu machen\n* kennen die Methoden und Techniken zur 2- und 3-dimensionalen Quantifizierung der Verformung in Gesteinen\n* sind in der Lage geochronologische Methoden auf tektonische Fragestellungen anzuwenden",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Die Veranstaltung Dating of Deformation and Tectonic Processes findet im zweijährlichen Turnus statt.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Gernold Zulauf",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Regelmäßige und aktive Teilnahme an allen Übungen",
+        "Leistungsnachweise": "Abschlussübung (90 min) zu Mikrogefüge und Deformationsmechanismen\nErfolgreich absolvierte Übungen zu Einführung in die Strainanalyse oder Dating of Deformation and Tectonic Processes"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Plattentektonik und Orogenese", "V", 2, 2, "", "X", "", "" ],
+        [ "Mikrogefüge und Deformationsmechanismen", "V+Ü", 3, 4, "X", "", "", "" ],
+        [ "Auswahl aus:", "", "", "", "", "", "", "" ],
+        [ "Einführung in die Strainanalyse", "V+Ü",  2, 2, "", "X", "", "" ],
+        [ "Dating of Deformation and Tectonic Processes", "V+Ü",  2, 2, "", "X", "", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "", "X", "", "" ],
+        [ "Summe", "", 7, 8, "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

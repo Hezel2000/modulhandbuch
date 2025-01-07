@@ -1,0 +1,49 @@
+{
+    "Modul-Code": "MWp Min6",
+    "Modul-Name-en": "Mineralogy-Crystallography 2",
+    "Modul-Name-de": "Mineralogie-Kristallographie 2",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "8 SWS",
+    "Kontaktstudium": "8 SWS / 120 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "In diesem Modul werden neue Erkenntnisse zu Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Verbindungen auf der Grundlage von atomistischen Modellrechnungen und kristallphysikalischen, - chemischen und strukturellen Untersuchungen vermittelt. Da dabei groöen Datenmengen verarbeitet werden müssen beinhaltet das Modul auch eine Veranstaltung \"Programmieren für Fortgeschrittene\".",
+    "Lernergebnisse / Kompetenzziele": "* Tensorrechnung zur Beschreibung kristallphysikalischer Größen\n* Vertiefte Kenntnisse ausgewählter kristallphysikalischer Eigenschaften\n* Grundlagen der atomistischen Modellrechnungen (Kraftfelder, EAM, tight binding, DFT)\n* Vertiefte Kenntnisse der Programmierung\n* Verständnis Synchrotron-basierte Methoden zur Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Strukturen\n* Kenntnis der modernen Methoden der Hochdruckforschung",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Erfolgreiche Teilnahme am Bachelor-Modul \"Kristallographische Mineralogie\" oder gleichwertige Kenntnisse",
+    "Empfohlene Voraussetzungen": "Lineare Algebra, trigonometrische Funktionen, komplexe Zahlen\nErfolgreiche Teilnahme an Physik I, Mathematik I und Chemie",
+    "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP zu belegen, wobei der Besuch der Veranstaltung \"Kristallphysik\" verpflichtend ist.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB 11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Chemie",
+    "Häufigkeit des Angebots": "",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Björn Winkler",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "\"Atomistische Modellrechnungen\": Hausaufgaben\n\"Programmieren für Fortgeschrittene\": Hausaufgaben + Abschlussaufgabe\n\"Moderne Methoden\": Vortrag + Ausarbeitung"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Kristallphysik", "V+Ü", 3, 3, "", "X", "", "" ],
+        [ "Auswahl aus:", "", "", "", "", "", "", "" ],
+        [ "Atomistische Modellrechnungen", "V+Ü", 2, 2, "X", "", "", "" ],
+        [ "Programmieren für Fortgeschrittene", "V+Ü",3, 3, "", "X", "", "" ],
+        [ "Moderne Methoden", "V+Ü", 2, 2, "X", "", "", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "", "X", "", "" ],
+        [ "Summe", "", 8, 8, "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

@@ -1,0 +1,45 @@
+{
+    "Modul-Code": "MWp WW3 Bac",
+    "Modul-Name-en": "Bachelor module",
+    "Modul-Name-de": "Bachelor-Vertiefungsmodul",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "4 - 8 SWS",
+    "Kontaktstudium": "60 - 120 h",
+    "Selbststudium": "120 - 180 h",
+    "Inhalte": "Für dieses Modul können geeignete Veranstaltungen aus den vertiefenden geowissenschaftlichen Wahlpflichtmodulen der Bachelor-Prüfungsordnung nachträglich eingebracht werden, sofern diese bisher noch nicht im Bachelor-Studiums belegt worden sind.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* erwerben nachträglich vertiefende Kenntnisse und Fertigkeiten des fortgeschrittenen Bachelor-Studiums\n* erarbeiten sich bessere Voraussetzungen für die weiter spezialisierten Wahlpflichtangebote des Masterstudiums\n* bereiten sich gezielt auf die für die Mastervertiefung notwendigen, bisher noch nicht erworbenen fachspezifischen Inhalte vor",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Es sind alle Veranstaltungen aus dem Angebot von BWp1 bis BWp14 wählbar.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "variabel",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. Rainer Petschick",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Je nach gewählten Veranstaltungen",
+        "Leistungsnachweise": "Je nach gewählten Veranstaltungen"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung, Seminar, Praktikum, Geländeübung",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "Prüfungsleistungen im Umfang von mindestens 4 CP sowie Studienleistungen für den verbleibenden CP-Anteil",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Veranstaltungen aus den Vertiefungsmodulen BWp1 - BWp14", "V, Ü, S, Pr, GÜ", "variabel", 8, "X", "X", "", "" ],
+        [ "Modulprüfung", "variabel", "", "", "X", "X", "", "" ],
+        [ "Summe", "", "", 8, "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

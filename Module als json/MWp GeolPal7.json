@@ -1,0 +1,51 @@
+{
+    "Modul-Code": "MWp GeolPal7",
+    "Modul-Name-en": "Evolution and Diversity of Vertebrates",
+    "Modul-Name-de": "Evolution und Diversität der Wirbeltiere",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "8 SWS",
+    "Kontaktstudium": "8 SWS / 120 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "Das Modul bietet einen vertiefenden Überblick über theoretische Grundlagen und zentrale Methoden in der Wirbeltierpaläontologie. In sechs Lehrveranstaltungen, aus denen Studierende frei wählen können, werden verschiedene Aspekte der Wirbeltierevolution behandelt.\nMeilensteine in der Wirbeltierevolution\nDie Vorlesung befasst sich mit zentralen Ereignissen der Wirbeltierevolution (z.B. Evolution der Kiefer und Zähne, Landgang der Wirbeltiere). Anhand aktueller Forschungsfragen werden die wichtigsten Anpassungen an sich verändernde Paläoumweltbedingungen und damit verbundene morphologische Transformationen präsentiert.\nEvolution der Synapsiden\nDie Vorlesung gibt einen detaillierten Einblick in die Evolution und Morphologie der Säugetiere und ihrer Vorfahren. Neben der Phylogenese der Großgruppen steht die Evolution typischer Säugermerkmale (z.B. Warmblütigkeit, Säugermittelohr) im Vordergrund.\nPaläontologie und Artenschutz\nDie Paläontologie ist als Wissenschaft vom Aussterben eine angewandte Disziplin. Sie ergänzt Biologie und Ökologie (wie funktioniert es?) um die geologische Tiefenzeit (warum funktioniert es?). Ausgehend vom \"Keystone Species\" Konzept (RT Paine) wird am Beispiel von Löwen und anderen Großraubtieren herausgearbeitet, wie sich Prognosefaktoren bei Naturschutzgebieten aus einer genauen Kenntnis von (1) biologischem Potential und (2) Evolution von Schlüsselarten wie z.B. Top-Prädatoren ableiten lassen. Die funktionelle Anatomie des Säugetierskeletts am Beispiel von Hund und Katze ist daher Teil der Lehrveranstaltung.\nFaunenschnitte im Känozoikum\nDie Vorlesung behandelt 65 Millionen Jahre Evolution der Megafauna in Australien, Südamerika, Afrika und der Nordhemisphäre im Vergleich. Ausgehend vom Biosphären-Konzept Vladimir Vernadskys, des Begründers der Erdsystemforschung (Biosfera, 1926), werden Plattentektonik, Meeresspiegelschwankungen, Arealgröße und Klimageschichte als Auslöser u.a. für Migrationen und Aussterbe-Events behandelt.\nBiodiversitätsdynamik im Fossilbericht der Wirbeltiere\nDie Veranstaltung deckt die zeitliche Dynamik der Wirbeltierdiversität mit den größten Diversifikationsereignissen ab und behandelt insbesondere die Berechnung und Modellierung verschiedener Maße für Biodiversität (z.B. taxonomische, ökologische, und morphologische Diversität). In einem Literaturseminar werden ausgewählte wissenschaftliche Publikationen zu den Themen des Moduls vorgestellt und diskutiert.\nSpezielle Themen\nAm Beispiel ausgewählter Fossillagerstätten werden den Studierenden mittels Übungen (z.B. zu Grabungs- und Präparationsmethoden) sowie theoretischen Lehreinheiten wichtige Schlüsselkompetenzen zum gesamtheitlichen Verständnis eines fossilen Ökosystems vermittelt.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden erläutern Grundwissen der Wirbeltierpaläontologie, vergleichen Fossilberichte verschiedener Wirbeltiergruppen und die wichtigsten Datensätze und Methoden, und wenden ausgewählte Methoden an. Sie\n* beschreiben und interpretieren vertiefendes Fachwissen zur Evolutionsbiologie und Morphologie verschiedener Wirbeltiergruppen (Vorlesungen)\n* erkennen, vergleichen und untersuchen die Prozesse der funktionellen Anpassung, der Artbildung und des Aussterbens sowie deren Abbildung im Fossilbericht der Wirbeltiere (Übungen und Exkursionen, z.B. Spezielle Themen, angeleitete Computerübung zu Biodiversitätsdynamik, einzelne Vorlesungstermine im Naturkundemuseum und Zoo)\n* erläutern ausgewählte wissenschaftliche Fachliteratur zum Thema und diskutieren und bewerten die Ergebnisse kritisch (Seminar)",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "Grundwissen in der Paläontologie und zur Erd- und Lebensgeschichte, insbesondere zur Evolution der Wirbeltiere, ist von Vorteil.",
+    "Organisatorische Hinweise": "Für die Modulabschlussprüfung sollen mindestens 8 CP in beliebiger Reihenfolge in frei aus den o.g. gewählten Lehrveranstaltungen gesammelt werden, wobei jede absolvierte Lehrveranstaltung genau einmal zählt. Teile des Moduls können auf Englisch unterrichtet werden.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "Jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "PD Dr. Irina Ruf",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Aktive Teilnahme in den Übungen",
+        "Leistungsnachweise": "Seminar: Vortrag"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Seminar, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Auswahl aus:", "", "", "", "", "", "", "" ],
+        [ "Meilensteine in der Wirbeltierevolution", "V", 2, 2, "", "X", "", "" ],
+        [ "Evolution der Synapsiden", "V", 2, 2, "X", "", "X", "" ],
+        [ "Paläontologie und Artenschutz", "V", 2, 2, "", "X", "", "" ],
+        [ "Faunenschnitte im Känozoikum", "V", 2, 2, "X", "", "X", "" ],
+        [ "Biodiversitätsdynamik im Fossilbericht der Wirbeltiere", "V+S", 2, 2, "X", "", "X", "" ],
+        [ "Spezielle Themen", "V+Ü", 2, 2, "", "X", "", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "", "X", "X", "" ],
+        [ "Summe", "", "", "", "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

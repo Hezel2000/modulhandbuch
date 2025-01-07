@@ -1,0 +1,45 @@
+{
+    "Modul-Code": "MWp WW4 Gel",
+    "Modul-Name-en": "Field work",
+    "Modul-Name-de": "Gelände",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "SWS",
+    "Kontaktstudium": "160 h",
+    "Selbststudium": "80 h",
+    "Inhalte": "In dem Modul werden praktische Fähigkeiten im Gelände geschult und vertieft. Dazu können Geländeveranstaltungen aus den unterschiedlichen Kernfächern der Geologie/Paläontologie, Mineralogie und Geophysik absolviert werden. Zu den einzelnen Tagen sind in Absprache mit den jeweiligen Dozenten*innen Berichte anzufertigen.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* vertiefen ihre Fähigkeiten zum selbständigen Arbeiten im Gelände\n* sind in der Lage komplexe geowissenschaftliche Fragestellungen unter Anwendung geologischer Feldmethoden zu bearbeiten\n* sind in der Lage komplizierte raum-zeitliche und erdgeschichtliche Zusammenhänge im Gelände zu erkennen und zu interpretieren",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Bachelor-Geländeübungen/Kartierkurse in BP1 und BP10 oder vergleichbare Veranstaltungen",
+    "Empfohlene Voraussetzungen": "Weitere Geländeveranstaltungen des Bachelor-Studiums (in BP11 und in BWp-Modulen)",
+    "Organisatorische Hinweise": "keine",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "Variabel",
+    "Dauer des Moduls": "3 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. Frederik Kirst",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "Berichte zu den Geländetagen"
+    },
+    "Lehr- / Lernformen": "Geländeübung",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Geländeübungen", "GÜ", "20 Tage", 8, "X", "X", "X", "" ],
+        [ "Modulprüfung", "keine", "", "", "", "", "", "" ],
+        [ "Summe", "", "", 8, "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

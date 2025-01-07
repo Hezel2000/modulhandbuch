@@ -71,7 +71,7 @@ def results_modules(volltext_results):
             """, unsafe_allow_html=True)
                         
             df = pd.DataFrame(module_content['Semester-Tabelle'])
-            
+
             df.columns = df.iloc[0]  # Set the first row as column headers
             df = df[1:]  # Remove the first row from the data
 
@@ -96,18 +96,44 @@ def results_modules(volltext_results):
                 st.write(f'{module_content["Änderung"][sel_version]}')
 
 
-def sort_modules(data):
-    # Separate keys into 'BP' and 'BWp' groups
-    bp_keys = [key for key in data.keys() if key.startswith('BP')]
-    bwp_keys = [key for key in data.keys() if key.startswith('BWp')]
+def sort_BSc_modules(data):
+    # Helper function to split the alphabetic and numeric parts
+    def split_alpha_numeric(s):
+        match = re.match(r'([^\d]*)(\d*)', s)
+        alpha = match.group(1)  # Alphabetic part
+        num = int(match.group(2)) if match.group(2) else float('inf')  # Numeric part or high number
+        return alpha, num
 
-    # Sort each group numerically based on the number part in the filename
-    sorted_bp_keys = sorted(bp_keys, key=lambda x: int(re.search(r'\d+', x).group()))
-    sorted_bwp_keys = sorted(bwp_keys, key=lambda x: int(re.search(r'\d+', x).group()))
+    # Filter and sort based on 'Modul-Code'
+    sorted_items = sorted(
+        (item for item in data.items() if item[1]['Modul-Code'].startswith('B')),
+        key=lambda x: split_alpha_numeric(x[1]['Modul-Code'])
+    )
 
-    # Combine sorted keys
-    sorted_keys = sorted_bp_keys + sorted_bwp_keys
-
-    # Create a sorted dictionary
-    sorted_dict = {key: data[key] for key in sorted_keys}
+    # Convert back to a dictionary
+    sorted_dict = dict(sorted_items)
     return sorted_dict
+
+
+
+def sort_MSc_modules(data):
+    # Helper function to split the alphabetic and numeric parts
+    def split_alpha_numeric(s):
+        match = re.match(r'([^\d]*)(\d*)', s)
+        alpha = match.group(1)  # Alphabetic part
+        num = int(match.group(2)) if match.group(2) else float('inf')  # Numeric part or high number
+        return alpha, num
+
+    # Filter and sort based on 'Modul-Code'
+    sorted_items = sorted(
+        (item for item in data.items() if item[1]['Modul-Code'].startswith('M')),
+        key=lambda x: split_alpha_numeric(x[1]['Modul-Code'])
+    )
+
+    # Convert back to a dictionary
+    sorted_dict = dict(sorted_items)
+    return sorted_dict
+
+
+
+

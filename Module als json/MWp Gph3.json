@@ -1,0 +1,47 @@
+{
+    "Modul-Code": "MWp Gph3",
+    "Modul-Name-en": "Geophysics 3",
+    "Modul-Name-de": "Geophysik 3",
+    "Modul-Typ": "",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "6 SWS",
+    "Kontaktstudium": "6 SWS / 90 h",
+    "Selbststudium": "150 h",
+    "Inhalte": "Das Modul Geophysik 3 umfasst Vorlesungen und Übungen aus den Bereichen Seismologie, Geodynamik und Angewandte Methoden. In der Seismologie geht es um grundlegende Verfahren zur Erschließung des Informationsgehalts seismologischer und geophysikalischer Messdaten.  In der Geodynamik steht die Physik von Mantelprozessen im Vordergrund, und umfasst die Fluiddynamik von Mantelkonvektion und Plumes, sowie die Wechselwirkung mit der Lithosphäre. In der Angewandten Geophysik wird die praxisnahe Durchfährung elektromagnetischer Verfahren zur Abschätzung der räumlichen Verteilung der isotropen und anisotropen elektrischen Leitfähigkeit des oberflächennahen Untergrunds behandelt.",
+    "Lernergebnisse / Kompetenzziele": "Ziel dieses Moduls ist das Erlernen von Grundlagen und Methoden aus den geophysikalischen Fachgebieten Seismologie, Geodynamik und Angewandter Geophysik. Hierzu zählen\n* Erarbeiten seismologischer, geodynamischer und angewandter geophysikalischer Methoden\n* Kennen und Bewerten der Grenzen geodynamischer Konzepte und geophysikalischer Interpretationen\n* Verstehen und Beurteilen geophysikalischer Prozesse und deren Rolle bei der Ausbildung geophysikalischer Strukturen\n* Selbstständiges Erlernen und Vertiefen durch theoretische und praktische Übungen",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "In dem Modul sind 2 Lehrveranstaltungen im Umfang von 8 CP auszuwählen.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc./M.Sc. Mathematik, Physik",
+    "Häufigkeit des Angebots": "",
+    "Dauer des Moduls": "1 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Harro Schmeling",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
+        "Leistungsnachweise": "Erfolgreich absolvierte Übungen"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Seismologie 3 für Fortgeschrittene: Inversionsverfahren", "V+Ü", 3, 4, "", "", "X", "" ],
+        [ "Geodynamik 3 für Fortgeschrittene: Mantelprozesse", "V+Ü", 3, 4, "", "", "X", "" ],
+        [ "Angewandte Methoden 3 für Fortgeschrittene: Elektromagnetik", "V+Ü", 3, 4, "", "", "X", "" ],
+        [ "Modulprüfung", "", "", "", "", "", "X", "" ],
+        [ "Summe", "", 6, 8, "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

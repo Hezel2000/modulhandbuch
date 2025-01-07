@@ -1,0 +1,50 @@
+{
+    "Modul-Code": "MWp WW1 DeepE",
+    "Modul-Name-en": "",
+    "Modul-Name-de": "Deep Earth",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP = 240 h",
+    "Anzahl SWS": "8 SWS",
+    "Kontaktstudium": "8 SWS / 120 h",
+    "Selbststudium": "120 h",
+    "Inhalte": "Das Modul umfasst fünf Vorlesungen mit Übungen aus den Bereichen Geophysik, Geologie und Mineralogie und richtet sich an Studierende im Masterstudium Geowissenschaften aller drei Schwerpunkte (Geophysik, Geologie/Paläontologie und Mineralogie). Die Prozesse, die im Inneren des Erdkörpers ablaufen, werden aus der Perspektive und mit Hilfe der Methoden der unterschiedlichen geowissenschaftlichen Disziplinen beleuchtet.",
+    "Lernergebnisse / Kompetenzziele": "* Erlernen der Methoden und Erkenntnisse aus den jeweiligen Nachbardisziplinen\n* Erwerben eines breiten, interdisziplinären Wissens, das zum Verständnis der Prozesse des Erdinneren notwendig ist\n* Kritisches beurteilen und evaluieren der Möglichkeiten und Grenzen der Methoden der einzelnen Fachdisziplinen\n* Vergleichen und kombinieren im interdisziplinären und raumzeitlichen Kontext\n* Einordnen, gegenüberstellen und kombinieren der Erkenntnisse aus den unterschiedlichen Teilgebieten der Geowissenschaften\n* Entwickeln eines umfassenden, quantitativen Verständnisses für die Prozessabläufe in der tieferen Erde",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abgeschlossene Module: BP7 Petrologie, BP8 Geochemie, BP10 Geologie 1, BP12 Geophysik oder jeweils vergleichbare Module.",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP auszuwählen.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Horst Marschall",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "keine"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Englisch, Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Auswahl aus:", "", "", "", "", "", "", "" ],
+        [ "Metamorphe Prozesse", "V+Ü", 2, 2, "", "", "X", "" ],
+        [ "Seismologie", "V+Ü", 2, 2, "", "", "X", "" ],
+        [ "Tektonik & Strukturgeologie", "V+Ü", 2, 2, "", "", "X", "" ],
+        [ "Geodynamische Modellierung", "V+Ü", 2, 2, "", "X", "", "" ],
+        [ "Geochemie", "V+Ü", 2, 2, "", "X", "", "" ],
+        [ "Modulprüfung", "", "", "", "", "X", "X", "" ],
+        [ "Summe", "", 8, 8, "", "", "", "" ]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

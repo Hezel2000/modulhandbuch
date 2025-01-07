@@ -1,0 +1,49 @@
+{
+    "Modul-Code": "MWp Min3",
+    "Modul-Name-en": "Micro- and Nanoanalytics 2",
+    "Modul-Name-de": "Mikro- und",
+    "Modul-Typ": "Nanoanalytik 2",
+    "Anzhal CP und Arbeitsaufwand": "8 CP = 240 h",
+    "Anzahl SWS": "7 SWS",
+    "Kontaktstudium": "7 SWS / 105 h",
+    "Selbststudium": "135 h",
+    "Inhalte": "Das Modul umfasst eine Reihe von Vorlesungen und Übungen aus den Bereichen der modernen Materialanalytik im Mikro- und Nanobereich. Die Veranstaltungen dieses Moduls ergänzen die im Bachelor Studium erworbenen Kenntnisse und vermitteln die notwendigen theoretischen, praktischen und analytische Fähigkeiten. Dieses Modul kann unabhängig von dem Modul Mikro- und Nanoanalytik I belegt werden, sofern die u.g. Voraussetzungen für die Teilnahme erfüllt sind.\nDie Veranstaltung Mikroanalytik II  EPMA, REM und ?-XRF baut auf den Inhalten der Mikroanalytik I auf und versetzt den Studierenden in die Lage, eigene Messprogramme zu erstellen und die vollständige Funktionalität der Messmethoden auszunutzen.\nIn der Nanoanalytik II  TEM werden neben den Standardmethoden der Transmissionselektronenmikroskopie spezielle Techniken wie z.B. zur Energiefilterung (EFTEM), der Analyse von Baufehlern (LACBED), der Strukturbestimmung (CBED) und der Energieverlustspektroskopie (EELS) vorgestellt. Die Übungen zur Vorlesung werden überwiegend am TEM durchgeführt und die Teilnehmer lernen ihre theoretisch erworbenen Kenntnisse direkt umzusetzen.\nIsotopen- und Spurenelementanalytik II: Theoretische und praktische Grundlagen sowohl zur in-situ Untersuchung von Festkörpern im Mikrobereich (LA ICP MS) als auch in Form von Lösungen (ICP MS). Die Veranstaltung Isotopen- und Spurenelementanalytik II findet als Blockkurs im Sommersemester statt und ist vor allem für Studierende geeignet, die eine Bachelor- oder Masterarbeit im Bereich Geochemie machen.\nUnter dem Oberbegriff Spezielle Methoden der Mikroanalytik sind unterschiedliche Veranstaltungen zu finden, z. B. vermittelt Quantitative Mikrogefüge- und Strukturanalyse: EBSD eine Methode der Elektronenrückstreubeugung (EBSD) am Rasterelektronenmikroskop. Neben einer hohen Ortsauflösung (< 1 ?m) bei der Bestimmung der Analyse der Orientierung einzelner Kristalle und ihrer Subkörner können auch Phasenidentifikationen basierend auf der Struktur und der Chemie an einem Messpunkt durchgeführt werden. Dünnschliffproben lassen sich hierdurch vollständig mit Phasenbestand, Mikrogefüge und Hauptelementchemie charakterisieren.\nDie Flankenmethode vermittelt den theoretischen Hintergrund und die praktischen Fähigkeiten, um an der Elektronenstrahlmikrosonde Fe2+/Fe3+-Bestimmungen durchzuführen. Damit besteht die Möglichkeit, mit einer Ortsauflösung im Mikrometerbereich auch an kleinen Mineralkörnern oder in zonierten Kristallen die Oxidationsstufe des Eisens zu bestimmen.",
+    "Lernergebnisse / Kompetenzziele": "Das Modul vermittelt umfangreiche Kenntnisse der Festkörperanalytik auf der Mikro- und Nanoskala: Hierbei steht das Erlangen folgender Kompetenzen im Vordergrund:\n* Gezieltes Auswählen geeigneter Methoden für spezielle Fragestellungen der Festkörperanalytik\n* Eigenständiges praktisches Umsetzen der Analytischen Techniken (nach einer kurzen Einarbeitungszeit)\n* Beurteilen der wissenschaftlichen Ergebnisse\n* Durchführen von Fehlerbetrachtungen der Analysen\n* Abschätzen der Grenzen der Ortsauflösung, der Analysegenauigkeit, der erreichbaren Präzision und den Nachweisgrenzen einer Messung in Bezug auf die eingesetzte Methode.\n* Darstellen und Präsentieren festkörperanalytischer Daten\n* Erlernen des angemessenen respektvollen Umgangs mit analytischen Großgeräten\n* Abbauen von Berührungsängsten in der Verwendung von Großgeräten bei gleichzeitigem erlernen des sicheren Betriebs\n* Erlangen fachspezifischer Kenntnisse der Analytik von Gesteinen, Mineralen, deren Dünn- und Anschliffen bis hin zu Werkstoffen.\n* Aufbauen spezifischer Qualifikationen, die weit über das Kerngebiet der geowissenschaftlichen Grundkompetenz hinausgehen\n* Entwickeln von Kenntnissen für ein späteres Arbeitsfeld auch im Bereich der Materialwissenschaft, der Materialprüfung und Entwicklung",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Für Mikroanalytik II und Nanoanalytik II: Mikroanalytik I und Nanoanalytik I.\nFür Spezielle Methoden der Mikroanalytik Die Flankenmethode: Mikroanalytik I und II.\nFür Isotopen- und Spurenelementanalytik II: Einführung in die Geochemie und entweder Einführung in die\nIsotopengeochemie oder Isotopen- und Spurenelementanalytik I",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP auszuwählen.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB 11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc./M.Sc. Chemie",
+    "Häufigkeit des Angebots": "jährlich",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Frank Brenker",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
+        "Leistungsnachweise": "keine"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "keine",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Auswahl aus:", "", "", "", "", "", "", ""],
+        [ "Mikroanalytik 2 - EPMA, REM und µ.XRF", "V+Ü", "2", "2", "", "", "X", ""],
+        [ "Nanoanalytik 2 - TEM", "V+Ü", 2, 2, "", "X", "", "" ],
+        [ "Isotopen- und Spurenelementanalytik 2", "V+Ü", 3, 4, "", "X", "", ""],
+        [ "Spezielle Methoden der Mikroanalytik", "V+Ü", 2, 2, "", "X", "X", ""],
+        [ "Modulprüfung", "Klausur", "", "", "", "", "X", ""],
+        [ "Summe", "", 7, 8, "", "", "", ""]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

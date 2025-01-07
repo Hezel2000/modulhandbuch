@@ -1,0 +1,45 @@
+{
+    "Modul-Code": "MWp WW2 Quer",
+    "Modul-Name-en": "Geosciences for Newcomers",
+    "Modul-Name-de": "Geowissenschaften für Quereinsteiger",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "SWS",
+    "Kontaktstudium": "variabel",
+    "Selbststudium": "variabel",
+    "Inhalte": "Das Modul richtet sich an Studierende, die einen Bachelor-Abschluss in einem anderen naturwissenschaftlichen Fach erworben haben, und dient dazu die für ein Master-Studium Geowissenschaften nötigen Grundlagen zu vermitteln. Es werden grundlegende geowissenschaftliche Konzepte, Inhalte und Arbeitsweisen vermittelt, wobei die gewählten Veranstaltungen je nach Vorbildung des/der Studierenden variieren können.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden sind in der Lage\n* geowissenschaftliche Konzepte, Inhalte und Arbeitsweisen angemessen anzuwenden\n* das Master-Studium Geowissenschaften inhaltlich zu bewältigen",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "In Absprache mit dem/der Modulverantwortlichen und dem Prüfungsausschuss sind Lehrveranstaltungen aus den Geowissenschaften im Umfang von mind. 8 CPs zu wählen.\nDie Modulprüfung richtet sich nach den Bedingungen der Ordnung für den Bachelor-Studiengang Geowissenschaften.\nBerechnung der Modulnote: Es werden nur die zwei Prüfungsleistungen mit den besten Noten als Modulnote gewertet. Die Modulnote wird aus den beiden CP-gewichteten Noten errechnet.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "Variabel",
+    "Dauer des Moduls": "2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Dr. Frederik Kirst",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Je nach gewählten Veranstaltungen",
+        "Leistungsnachweise": "Je nach gewählten Veranstaltungen"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung, Seminar, Praktikum",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "Prüfungsleistungen in den gewählten Veranstaltungen",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Veranstaltungen aus den Geowissenschaften im Umfang von mind. 8 CP", "V, Ü, S, Pr", "variabel", 8, "X", "X", "", ""],
+        [ "Modulprüfung", "Variabel", "", "", "X", "X", "", ""],
+        [ "Summe", "", "", 8, "", "", "", ""]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

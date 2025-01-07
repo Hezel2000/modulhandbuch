@@ -1,0 +1,45 @@
+{
+    "Modul-Code": "MWp WW5 Nat",
+    "Modul-Name-en": "Sciences",
+    "Modul-Name-de": "Naturwissenschaften",
+    "Modul-Typ": "Wahlpflichtmodul",
+    "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
+    "Anzahl SWS": "SWS",
+    "Kontaktstudium": "variabel",
+    "Selbststudium": "variabel",
+    "Inhalte": "In diesem Modul haben die Studierenden die Möglichkeit, Lehrveranstaltungen eines naturwissenschaftlichen Faches, das in einem sinnvollen Zusammenhang mit dem Master-Studium Geowissenschaften steht, im Umfang von mind. 8 CP zu wählen. Dieses Fach kann aus dem Angebot der Goethe-Universität sowie dem Institut für Angewandte Geowissenschaften der TU Darmstadt stammen. Folgende Fächer / Fachrichtungen / Disziplinen sind möglich bzw. werden besonders empfohlen:\n* Mathematik\n* Physik\n* Chemie\n* Biowissenschaften\n* Umweltwissenschaften\n* Meteorologie\n* Physische Geographie\n* Angewandte Geowissenschaften\n* Informatik\n* Veranstaltungen aus dem Bereich EDV\nDie Zusammenstellung der Veranstaltungen innerhalb des gewählten Faches erfolgt in Absprache mit dem/der Modulverantwortlichen sowie den jeweiligen Verantwortlichen der gewählten Importmodule.",
+    "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* Stellen ihre geowissenschaftlichen Kenntnisse auf eine breitere naturwissenschaftliche Basis\n* erweitern ihre fachspezifischen Kenntnisse und Fähigkeiten in dem gewählten Bereich\n* sind in der Lage naturwissenschaftliche Methoden angemessen anzuwenden",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
+    "Empfohlene Voraussetzungen": "keine",
+    "Organisatorische Hinweise": "Mindestens 4 der 8 CPs müssen als Prüfungsleistung abgeschlossen werden.\nFür die Absolvierung des Moduls findet die Ordnung Anwendung, in deren Rahmen die gewählte Veranstaltung / das gewählte Modul angeboten wird.",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Häufigkeit des Angebots": "variabel",
+    "Dauer des Moduls": "1 - 2 Semester",
+    "Modulbeauftragte / Modulbeauftragter": "Apl. Prof. Dr. Jens Fiebig",
+    "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
+        "Teilnahmenachweise": "Je nach gewählten Veranstaltungen",
+        "Leistungsnachweise": "Je nach gewählten Veranstaltungen"
+    },
+    "Lehr- / Lernformen": "Vorlesung, Übung, Seminar, Praktikum",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
+    "Modulprüfung": {
+        "Modulabschlussprüfung bestehend aus": "",
+        "kumulative Modulprüfung bestehend aus": "Je nach gewählten Veranstaltungen/Modulen",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+    },
+    "Semester-Tabelle": [
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
+        ["", "", "", "",  1, 2, 3, 4],
+        [ "Veranstaltungen im Umfang von mind. 8 CP", "V, Ü, S, Pr", "variabel", 8, "X", "X", "X", ""],
+        [ "Modulprüfung", "variabel", "", "", "X", "X", "X", ""],
+        [ "Summe", "", "", 8, "", "", "", ""]
+    ],
+    "Bemerkungen": "keine",
+    "Version": [
+        "2025-01-06"
+    ],
+    "Änderung": {
+        "2025-01-06": "Bereitstellung"
+    }
+}

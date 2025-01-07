@@ -1,5 +1,7 @@
 import streamlit as st
 
+st.logo('images/Goethe-Logo.jpg')
+
 st.title('Willkommen beim online-Modulhandbuch des Ifg')
 
 st.markdown('''
@@ -18,6 +20,10 @@ st.markdown('''
 
 st.header(''':blue[Bekannte Fehler etc.]''')
 st.markdown('''
-            - Ich gehe nach und nach alle Einträge durch und vergleich die mit dem Modulhandbuch. Gecheckt bis inkl. BP5 (Reihenfolge entsprechend *Alle Module* links). 
+            - Ich gehe nach und nach alle Einträge durch und vergleich die mit dem Modulhandbuch. Gecheckt bis inkl. BP5 (Reihenfolge entsprechend *Alle Module* links), 15a, 15b, 16a, 16b. 
             - Hin und wieder taucht eine Fehlermeldung auf, die mit *DuplicateWidgetID:* beginnt (oder eine ähnliche). Die dürfen getrost ignoriert werden (wenn die strören, reload der Seite)). 
             ''')
+
+
+st.sidebar.image('images/Goethe-Logo.jpg')
+
