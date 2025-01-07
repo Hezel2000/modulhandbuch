@@ -19,6 +19,5 @@ st.markdown('''
 st.header(''':blue[Bekannte Fehler etc.]''')
 st.markdown('''
             - Ich gehe nach und nach alle Einträge durch und vergleich die mit dem Modulhandbuch. Gecheckt bis inkl. BP5 (Reihenfolge entsprechend *Alle Module* links). 
-            - Die Kreuze ("X") in der Tabelle am Ende des Eintrags sind noch nicht korrekt gesetzt, das behebe ich nach und nach.
-            - Hin und wieder taucht eine Fehlermeldung auf, die mit *DuplicateWidgetID:* beginnt. Die darf getrost ignoriert werden (wenn der strört, reload der Seite)). 
+            - Hin und wieder taucht eine Fehlermeldung auf, die mit *DuplicateWidgetID:* beginnt (oder eine ähnliche). Die dürfen getrost ignoriert werden (wenn die strören, reload der Seite)). 
             ''')
