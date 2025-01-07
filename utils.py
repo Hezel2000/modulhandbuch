@@ -30,6 +30,8 @@ def results_modules(volltext_results):
             st.markdown(module_content["Inhalte"].replace("\n", "<br>"), unsafe_allow_html=True)
             st.markdown(f':blue[**Lernergebnisse / Kompetenzziele**]')
             st.markdown(module_content["Lernergebnisse / Kompetenzziele"].replace("\n", "<br>"), unsafe_allow_html=True)
+            st.markdown(f':blue[**Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls**]')
+            st.markdown(module_content["Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls"].replace("\n", "<br>"), unsafe_allow_html=True)
             st.markdown(f':blue[**Empfohlene Voraussetzungen**]')
             st.markdown(module_content["Empfohlene Voraussetzungen"].replace("\n", "<br>"), unsafe_allow_html=True)
             st.markdown(f':blue[**Organisatorische Hinweise**]')
