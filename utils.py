@@ -1,5 +1,6 @@
 import streamlit as st
 import re
+import pandas as pd
 
 # Darstellung der Module
 def results_modules(volltext_results):
@@ -69,7 +70,17 @@ def results_modules(volltext_results):
             </ul>
             """, unsafe_allow_html=True)
                         
-            st.table(module_content['Semester-Tabelle'])
+            df = pd.DataFrame(module_content['Semester-Tabelle'])
+            
+            df.columns = df.iloc[0]  # Set the first row as column headers
+            df = df[1:]  # Remove the first row from the data
+
+            # Reset the index for a cleaner display
+            df = df.reset_index(drop=True)
+
+            # Display the DataFrame in Streamlit
+            st.dataframe(df)
+
 
             
             st.divider()

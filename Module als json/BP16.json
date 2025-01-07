@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "Die Organisation der Übung erfolgt online über OLAT.\nZur Klausur ist eine Anmeldung erforderlich. Der Klausurtermin wird im LSF und durch Aushang am Prüfungsamt des FB Physik bekanntgegeben. Die Anmeldung zur Klausur erfolgt online über QIS. Die Anmeldefrist endet eine Woche vor dem Klausurtermin, die Rücktrittsfrist endet einen Tag vor dem Klausurtermin.\nNur die bessere der beiden Noten aus \"Physik A1\" und \"Physik A2\" wird gewertet. Beide Klausuren müssen bestanden sein.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Physik / FB13",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc. Geowissenschaften / FB11",
     "Häufigkeit des Angebots": "jährlich im WiSe",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Dr. Tutsch",
@@ -29,90 +29,13 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [
-            "LV-Form",
-            "SWS",
-            "CP",
-            "Semester",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Einführung in die Physik A1 für Nebenfachstudierende",
-            "V+Ü",
-            "4",
-            "6",
-            "X",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Modulprüfung",
-            "Klausur",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "X",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Summe",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "4",
-            "6",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
+        ["", "", "", "",  1, 2, 3, 4, 5, 6],
+        [ "Einführung in die Physik A1 für Nebenfachstudierende", "V+Ü", "4", "6", "X", "", "", "", "", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
+        [ "X", "", "", "", "", "", "", "", "", "" ],
+        [ "Summe", "", "", "", "", "", "", "", "", "" ],
+        [ "4", "6", "", "", "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

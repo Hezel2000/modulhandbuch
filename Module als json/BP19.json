@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "Als Nachweis über die Durchführung des Praktikums dient eine Bescheinigung der Praktikumsstelle, welche zwingend folgende Angaben enthalten muss: Name und Adresse der Einrichtung, Vorname, Nachname, Geburtsdatum und Matrikelnummer des/der Studierenden sowie stichwortartig Art und Dauer der Tätigkeit. Die Bescheinigung ist beim Prüfungsamt einzureichen.\nDas Praktikum kann auch in mehreren Einrichtungen/Betrieben durchgeführt werden, jedoch wird empfohlen die 4 Wochen nicht zu stark zu unterteilen, sondern die Dauer dann entsprechend zu verlängern. Mögliche Einrichtungen, Betriebe etc. können z.B. sein:\nkeine Geologische Landesämter und Bundesanstalten\nkeine Private und staatliche Forschungseinrichtungen\nkeine Betriebe aus dem Bereich der Angewandten Geologie und Ingenieurgeologie\nkeine Umweltbehörden und -büros\nkeine Firmen aus den Bereichen Exploration, Lagerstätten und Geothermie\nkeine Materialwissenschaftlich orientierte Firmen, z.B. aus der Optik, Keramik, Metallurgie und Baustoff-Industrie\nkeine Geowissenschaftliche und Naturkundliche Museen\nkeine Abteilungen für Georisiken etc., z.B. bei Versicherungen und Banken\nkeine weitere geowissenschaftlich relevante Einrichtungen und Betriebe\nEs wird empfohlen sich von der Praktikumsstelle zusätzlich zur Praktikumsbescheinigung ein Zeugnis ausstellen zu lassen, welches bei späteren Bewerbungen vorgelegt werden kann.\nSollte von der Praktikumsstelle vorab eine Bestätigung gefordert werden, dass das Berufspraktikum verpflichtender Teil des Studiums ist, kann diese bei dem/der Modulverantwortlichen eingeholt werden.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "Bachelor Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
     "Häufigkeit des Angebots": "ständig",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Dr. Frederik Kirst",
@@ -29,78 +29,12 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [
-            "LV-Form",
-            "SWS",
-            "CP",
-            "Semester",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Berufspraktikum",
-            "Pr",
-            "4 Wochen",
-            "5",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "X",
-            "X",
-            "X",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Modulprüfung",
-            "keine",
-            "keine",
-            "keine",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Summe",
-            "keine",
-            "keine",
-            "5",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
+        ["", "", "", "",  1, 2, 3, 4, 5, 6],
+        [ "Berufspraktikum", "Pr", "4 Wochen", "5", "", "", "", "", "", "" ],
+        [ "X", "X", "X", "", "", "", "", "", "", "" ],
+        [ "Modulprüfung", "keine", "keine", "keine", "", "", "", "", "", "" ],
+        [ "Summe", "keine", "keine", "5", "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

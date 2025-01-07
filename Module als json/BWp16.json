@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "Mindestens 4 der 8 CPs müssen als Prüfungsleistung abgeschlossen werden. Die Note des Optional-Moduls geht nicht in die Bachelornote mit ein.\nFür die Absolvierung des Moduls findet die Prüfungsordnung Anwendung, in deren Rahmen die gewählte Veranstaltung / das gewählte Modul angeboten wird.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
     "Häufigkeit des Angebots": "variabel",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Dr. Frederik Kirst",
@@ -29,90 +29,12 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [
-            "LV-Form",
-            "SWS",
-            "CP",
-            "Semester",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Veranstaltungen im Umfang von mind. 8 CP",
-            "V, Ü, S, Pr",
-            "variabel",
-            "8",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "X",
-            "X",
-            "X",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Modulprüfung",
-            "variabel",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Summe",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "8",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
+        ["", "", "", "",  1, 2, 3, 4, 5, 6],
+        [ "Veranstaltungen im Umfang von mind. 8 CP", "V, Ü, S, Pr", "variabel", 8, "", "", "", "X", "X", "X" ],
+        [ "X", "X", "X", "", "", "", "", "", "", "" ],
+        [ "Modulprüfung", "variabel", "", "", "", "", "", "", "", "" ],
+        [ "Summe", "", "", 8, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "Inhalt des Moduls NFPHY-VA1",
     "Organisatorische Hinweise": "Die Anmeldung zum Praktikum erfolgt online über das LSF. Für alle weiteren Informationen siehe ebenfalls den LSF-Eintrag des Praktikums.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Physik / FB13",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc. Geowissenschaften / FB11",
     "Häufigkeit des Angebots": "jedes Semester",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. C. Krellner",
@@ -29,78 +29,12 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [
-            "LV-Form",
-            "SWS",
-            "CP",
-            "Semester",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Physikalisches Praktikum C für Nebenfachstudierende",
-            "Pr",
-            "4",
-            "3",
-            "X",
-            "X",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Modulprüfung",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Summe",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "4",
-            "3",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
+        ["", "", "", "",  1, 2, 3, 4, 5, 6],
+        [ "Physikalisches Praktikum C für Nebenfachstudierende", "Pr", "4", "3", "X", "X", "", "", "", "" ],
+        [ "Modulprüfung", "", "", "", "", "", "", "", "", "" ],
+        [ "Summe", "", "", "", "", "", "", "", "", "" ],
+        [ "4", "3", "", "", "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "Der/die Prüfer*in kann bei der Bewertung der Bachelorarbeit die Qualität des Posters mit bis zu 25% notenverbessernd berücksichtigen. Das Poster ist für mind. 1 Monat im Institutsgebäude aufzuhängen und mit Aufhängdatum zu versehen.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
     "Häufigkeit des Angebots": "ständig",
     "Dauer des Moduls": "9 Wochen",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Alan Woodland",
@@ -29,90 +29,13 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [
-            "LV-Form",
-            "SWS",
-            "CP",
-            "Semester",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "1",
-            "2",
-            "3",
-            "4",
-            "5",
-            "6",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Bachelorarbeit",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "9 Wochen",
-            "12",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "X",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "Summe",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ],
-        [
-            "12",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            "",
-            ""
-        ]
+        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
+        ["", "", "", "",  1, 2, 3, 4, 5, 6],
+        [ "Bachelorarbeit", "", "", "", "", "", "", "", "", "" ],
+        [ "9 Wochen", "12", "", "", "", "", "", "", "", "" ],
+        [ "X", "", "", "", "", "", "", "", "", "" ],
+        [ "Summe", "", "", "", "", "", "", "", "", "" ],
+        [ "12", "", "", "", "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [
