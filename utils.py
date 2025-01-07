@@ -25,7 +25,7 @@ def results_modules(volltext_results):
             with col4:
                 st.write(module_content['Anzhal CP und Arbeitsaufwand'])
 
-            st.markdown(f'Kontaktstudium {module_content["Kontaktstudium"]}  & Selbststudium {module_content["Selbststudium"]}')
+            st.markdown(f'<div style="text-align: right;">Kontaktstudium {module_content["Kontaktstudium"]}  & Selbststudium {module_content["Selbststudium"]}</div>', unsafe_allow_html=True)
             st.markdown(f':blue[**Inhalte**]')
             st.markdown(module_content["Inhalte"].replace("\n", "<br>"), unsafe_allow_html=True)
             st.markdown(f':blue[**Lernergebnisse / Kompetenzziele**]')
