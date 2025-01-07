@@ -14,7 +14,8 @@ st.markdown('''
 
 st.markdown('''
             Diese Version ist zunächst für eine interne Evaluationsphase gedacht. Alles grundlegende funktioniert, aber es gibt noch einige Fehler, die unten gelistet sind. An deren Korrektur arbeite ich immer mal wieder. 
-            Im Moment geht es darum einmal zu schauen, ob so alles passt, und wie die Funktionalität erweitert/verbessert/angepasst/... werden könnte. Außerdem kann ein bisschen gelernt werden, wie man die Einträge aktualisiert.             
+            Im Moment geht es darum einmal zu schauen, ob so alles passt, und wie die Funktionalität erweitert/verbessert/angepasst/... werden könnte. Außerdem kann ein bisschen gelernt werden, wie man die Einträge aktualisiert.  
+            Kommentare am Besten ins Feedback schreiben, das geht in ein Sheet, in dem alles gesammelt wird und dort entsprechend abgekakt werden kann.
             ''')
 
 
