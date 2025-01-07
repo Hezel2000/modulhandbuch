@@ -15,10 +15,10 @@ for json_file in json_files:
 tab1, tab2 = st.tabs(['BSc', 'MSc'])
 
 with tab1:
-    utils.results_modules(utils.sort_BSc_modules(data))
+    utils.results_modules(utils.sort_BSc_modules(data), 'alle_module_bsc')
 
 with tab2:
-    utils.results_modules(utils.sort_MSc_modules(data))
+    utils.results_modules(utils.sort_MSc_modules(data), 'alle_module_msc')
 
 
 st.sidebar.image('images/Goethe-Logo.jpg')

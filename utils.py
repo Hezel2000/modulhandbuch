@@ -3,7 +3,7 @@ import re
 import pandas as pd
 
 # Darstellung der Module
-def results_modules(volltext_results):
+def results_modules(volltext_results, version_key):
     results = volltext_results
     for file_name, json_data in results.items():
         module_content = json_data
@@ -91,7 +91,7 @@ def results_modules(volltext_results):
             st.divider()
             col1, col2 = st.columns([30,70])
             with col1:
-                sel_version = st.selectbox('Version', module_content['Version'], key=module_name)
+                sel_version = st.selectbox('Version', module_content['Version'], key=f'{module_content["Modul-Code"]}_{version_key}')
             with col2:
                 st.write(f'{module_content["Änderung"][sel_version]}')
 
