@@ -31,11 +31,11 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Geowissenschaftliches Seminar 1", "S", "2", "2", "", "", "", "", "", "" ],
-        [ "Orientierung Geowissenschaften", "V+S", "1", "1", "", "", "", "", "", "" ],
-        [ "Wissenschaftliches Arbeiten 2 / Geowissenschaftliches Seminar 2", "V+Ü+S", "2", "3", "", "", "", "", "", "" ],
-        [ "Modulprüfung", "Vortrag", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Geowissenschaftliches Seminar 1", "Ü/S", 2, 3, "", "", "X", "", "", "" ],
+        [ "Wissenschaftliches Arbeiten 2 / Geowissenschaftliches Seminar 2", "V+Ü+S", "2", "2", "", "", "", "X", "", "" ],
+        [ "Orientierung Geowissenschaften", "V+S", "1", "1", "", "", "", "X", "", "" ],
+        [ "Modulprüfung", "Vortrag", "", "", "", "", "", "X", "", "" ],
+        [ "Summe", "", 5, 6, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

@@ -31,10 +31,10 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Grundlagen wiss. Programmierung und Modellierung", "V+Ü", "2", "3", "", "", "", "", "", "" ],
-        [ "Statistische Datenauswertung", "V+Ü", "2", "3", "", "", "", "", "", "" ],
-        [ "Modulprüfung", "Bericht", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Grundlagen wiss. Programmierung und Modellierung", "V+Ü", 2, 3, "", "", "X", "", "", "" ],
+        [ "Statistische Datenauswertung", "V+Ü", 2, 3, "", "", "", "X", "", "" ],
+        [ "Modulprüfung", "Bericht", "", "", "", "", "X", "", "", "" ],
+        [ "Summe", "", 4, 6, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

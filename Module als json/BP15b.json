@@ -7,7 +7,7 @@
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
     "Selbststudium": "120 h",
-    "Inhalte": "Vorlesung \"Mathematik für Studierende der Naturwissenschaften 2\"\nLineare Algebra (Vektoren, Koordinatensysteme, Vektorrechnung, Matrizen, Gleichungssysteme, Eigenwerte und -vektoren), Funktionen mehrerer Veränderlicher (Differentialrechnung und ihre Anwendungen), Differentialgleichungen (Richtungsfelder, elementare Lösungsverfahren, lineare Differentialgleichungen erster und zweiter Ordnung)\nÜbung \"Mathematik für Studierende der Naturwissenschaften 2\"\nZur Vertiefung des Vorlesungsstoffs finden begleitende Übungen in Gruppen statt. Darin werden vorgegebene Übungsaufgaben besprochen.",
+    "Inhalte": "*Vorlesung \"Mathematik für Studierende der Naturwissenschaften 2\"*\n Lineare Algebra (Vektoren, Koordinatensysteme, Vektorrechnung, Matrizen, Gleichungssysteme, Eigenwerte und -vektoren), Funktionen mehrerer Veränderlicher (Differentialrechnung und ihre Anwendungen), Differentialgleichungen (Richtungsfelder, elementare Lösungsverfahren, lineare Differentialgleichungen erster und zweiter Ordnung)\n *Übung \"Mathematik für Studierende der Naturwissenschaften 2\"*\n Zur Vertiefung des Vorlesungsstoffs finden begleitende Übungen in Gruppen statt. Darin werden vorgegebene Übungsaufgaben besprochen.",
     "Lernergebnisse / Kompetenzziele": "Nach erfolgreichem Abschluss des Moduls sind die Studierenden mit grundlegenden mathematischen Denkweisen vertraut (Formalisieren von Aussagen, Beschreiben funktionaler Zusammenhänge, lokales Linearisieren nichtlinearer Abbildungen). Sie verstehen einfache Beweise und haben die Kompetenz erworben, kurze mathematische Argumente aufzuschreiben. Sie sind kompetent im Umgang mit Differenzierbarkeit und Integrierbarkeit im Eindimensionalen sowie im Umgang mit mehrdimensionalen Differenzierbarkeitsbegriffen. Die Studierenden sind in der Lage, einfache mathematische Probleme selbständig zu lösen.",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
     "Empfohlene Voraussetzungen": "Mathematik 1 wird für Mathematik 2 empfohlen.",
@@ -19,22 +19,22 @@
     "Modulbeauftragte / Modulbeauftragter": "Dr. Peter Bauer",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "keine",
-        "Leistungsnachweise": "Bearbeiten von Übungsaufgaben (Voraussetzung für die Teilnahme an der jeweiligen Klausur ist das Erreichen von einem Drittel der maximal möglichen Punkte, die für erfolgreiche Bearbeitung der Übungen vergeben werden.)"
+        "Leistungsnachweise": "Bearbeiten von Übungsaufgaben (Voraussetzung für die Klausurteilnahme ist das Erreichen von einem Drittel der Gesamtpunktzahl aller Übungsaufgaben)"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min)",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Mathematik für Studierende der Naturwissenschaften 2", "V", "3", "4,5", "", "", "", "", "", "" ],
-        [ "Mathematik für Studierende der Naturwissenschaften 2", "Ü", "1", "1,5", "", "", "", "", "", "" ],
-        [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Mathematik für Studierende der Naturwissenschaften 2", "V", 3, 4.5, "", "X", "", "", "", "" ],
+        [ "Mathematik für Studierende der Naturwissenschaften 2", "Ü", 1, 1.5, "", "X", "", "", "", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "", "X", "", "", "", "" ],
+        [ "Summe", "", 4, 6, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

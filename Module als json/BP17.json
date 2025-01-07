@@ -31,10 +31,10 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Vorlesung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"", "V", "4", "5", "X", "", "", "", "", "" ],
-        [ "Übung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"", "Ü", "1", "2", "X", "", "", "", "", "" ],
-        [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Vorlesung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"", "V", 4, 5, "X", "", "", "", "", "" ],
+        [ "Übung \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften und des Lehramts\"", "Ü", 1, 2, "X", "", "", "", "", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "X", "", "", "", "", "" ],
+        [ "Summe", "", 5, 7, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

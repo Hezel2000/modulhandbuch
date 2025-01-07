@@ -31,10 +31,10 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Materialanalytische Methoden", "V", "2", "3", "", "", "", "", "", "" ],
-        [ "Planetare Geologie", "V+Ü", "2", "3", "", "", "", "", "", "" ],
+        [ "Materialanalytische Methoden", "V", 2, 3, "", "", "", "X", "", "" ],
+        [ "Planetare Geologie", "V+Ü", 2, 3, "", "", "", "", "X", "" ],
         [ "Modulprüfung", "", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Summe", "", 4, 6, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

@@ -1,8 +1,8 @@
 {
-    "Modul-Code": "BP16",
-    "Modul-Name-en": "Introduction to Physics A1",
-    "Modul-Name-de": "for Minors",
-    "Modul-Typ": "Einführung in die",
+    "Modul-Code": "BP16a",
+    "Modul-Name-en": "Introduction to Physics A1 for Minors",
+    "Modul-Name-de": "Einführung in die Physik A1 für Nebenfachstudierende",
+    "Modul-Typ": "Pflichtmodul (Importmodul NFPHY-VA1)",
     "Anzhal CP und Arbeitsaufwand": "6 CP (insg.) = 180 h",
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
@@ -13,27 +13,27 @@
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "Die Organisation der Übung erfolgt online über OLAT.\nZur Klausur ist eine Anmeldung erforderlich. Der Klausurtermin wird im LSF und durch Aushang am Prüfungsamt des FB Physik bekanntgegeben. Die Anmeldung zur Klausur erfolgt online über QIS. Die Anmeldefrist endet eine Woche vor dem Klausurtermin, die Rücktrittsfrist endet einen Tag vor dem Klausurtermin.\nNur die bessere der beiden Noten aus \"Physik A1\" und \"Physik A2\" wird gewertet. Beide Klausuren müssen bestanden sein.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Physik / FB13",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc. Geowissenschaften / FB11",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "BSc Geowissenschaften, BSc Geographie, BSc Informatik",
     "Häufigkeit des Angebots": "jährlich im WiSe",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Dr. Tutsch",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "Regelmäáige Teilnahme an den Übungen",
-        "Leistungsnachweise": "erfolgreiche Bearbeitung von Übungsaufgaben oder\nBestehen von Tests (Prüfungsvorleistung)"
+        "Teilnahmenachweise": "",
+        "Leistungsnachweise": "erfolgreiche Bearbeitung von Übungsaufgaben\n oder\n Bestehen von Tests\n Prüfungsvorleistungen: Erbringen aller Leistungsnachweise"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (120 Min.)",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Einführung in die Physik A1 für Nebenfachstudierende", "V+Ü", "4", "6", "X", "", "", "", "", "" ],
+        [ "Einführung in die Physik A1 für Nebenfachstudierende", "V+Ü", 4, 6, "X", "", "", "", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Summe", "", 4, 6, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

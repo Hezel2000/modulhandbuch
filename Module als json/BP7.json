@@ -31,10 +31,10 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Polarisationsmikroskopie", "V+Ü", "2", "2", "", "", "", "", "", "" ],
-        [ "Petrologie", "V+Ü", "4", "5", "", "", "", "", "", "" ],
-        [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Polarisationsmikroskopie", "V+Ü", 2, 2, "", "", "X", "", "", "" ],
+        [ "Petrologie", "V+Ü", 4, 5, "", "", "", "X", "", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "", "", "", "X", "", "" ],
+        [ "Summe", "", 6, 7, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

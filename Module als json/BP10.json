@@ -31,11 +31,10 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Einführung in die Strukturgeologie", "V+Ü", "2", "3", "", "", "", "", "", "" ],
-        [ "Anfänger-Kartierübung", "GÜ", "10 Tage", "5", "", "", "", "", "", "" ],
-        [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ],
-        [ "2 SWS + 10 Tage", "8", "", "", "", "", "", "", "", "" ]
+        [ "Einführung in die Strukturgeologie", "V+Ü", 2, 3, "", "", "X", "", "", "" ],
+        [ "Anfänger-Kartierübung", "GÜ", "10 Tage", 5, "", "X", "X", "X", "", "" ],
+        [ "Modulprüfung", "Klausur", "", "", "", "", "X", "", "", "" ],
+        [ "Summe", "", "2 SWS + 10 Tage", 8, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

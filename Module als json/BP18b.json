@@ -31,9 +31,9 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Physikalisches Praktikum C für Nebenfachstudierende", "Pr", "4", "3", "X", "X", "", "", "", "" ],
+        [ "Physikalisches Praktikum C für Nebenfachstudierende", "Pr", 4, 3, "X", "X", "", "", "", "" ],
         [ "Modulprüfung", "", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Summe", "", 4, 3, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

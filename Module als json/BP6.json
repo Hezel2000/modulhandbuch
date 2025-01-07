@@ -2,7 +2,7 @@
     "Modul-Code": "BP6",
     "Modul-Name-en": "Environmental Dynamics",
     "Modul-Name-de": "Umweltdynamik",
-    "Modul-Typ": "Pflichtmodul",
+    "Modul-Typ": "Pflichtmodul (Importmodul)",
     "Anzhal CP und Arbeitsaufwand": "6 CP (insg.) = 180 h",
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
@@ -31,10 +31,10 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Atmosphäre und Ozean", "V+Ü", "2", "3", "", "", "", "", "", "" ],
-        [ "Sedimentäre Systeme", "V+Ü", "2", "3", "", "", "", "", "", "" ],
-        [ "Modulprüfung", "Mündliche Prüfung", "", "", "", "", "", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", "" ]
+        [ "Atmosphäre und Ozean", "V+Ü", 2, 3, "", "", "X", "", "", "" ],
+        [ "Sedimentäre Systeme", "V+Ü", 2, 3, "", "", "", "X", "", "" ],
+        [ "Modulprüfung", "Mündliche Prüfung", "", "", "", "", "", "X", "", "" ],
+        [ "Summe", "", 4, 6, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

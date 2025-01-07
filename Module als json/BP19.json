@@ -31,9 +31,9 @@
     "Semester-Tabelle": [
         [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
         ["", "", "", "",  1, 2, 3, 4, 5, 6],
-        [ "Berufspraktikum", "Pr", "4 Wochen", "5", "", "", "", "", "", "" ],
-        [ "Modulprüfung", "keine", "keine", "keine", "", "", "", "", "", "" ],
-        [ "Summe", "keine", "keine", "5", "", "", "", "", "", "" ]
+        [ "Berufspraktikum", "Pr", "4 Wochen", 5, "", "", "", "X", "X", "X"],
+        [ "Modulprüfung", "", "", "", "", "", "", "", "", "" ],
+        [ "Summe", "", "", 5, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [
