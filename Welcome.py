@@ -2,7 +2,7 @@ import streamlit as st
 
 st.logo('images/Goethe-Logo.jpg')
 
-st.title('Willkommen beim online-Modulhandbuch des Ifg')
+st.header('Willkommen beim online-Modulhandbuch des Ifg')
 
 st.markdown('''
             :orange[Alle Einträge hier sind rechtlich nicht bindend. Es handelt sich um eine inoffizielle Seite,
@@ -20,7 +20,7 @@ st.markdown('''
             ''')
 
 
-st.header(''':blue[Bekannte Fehler etc.]''')
+st.subheader(''':blue[Nächste Schritte]''')
 st.markdown('''
             - Ich gehe nach und nach alle Einträge durch und vergleich die mit dem Modulhandbuch. Gecheckt bis inkl. BP5 (Reihenfolge entsprechend *Alle Module* links), 15a, 15b, 16a, 16b. 
             - Sollte eine Fehlermeldung auftauchen, am Besetn per Screenshot an mich. In der Regel kann die für's Erste ignoriert werden.
