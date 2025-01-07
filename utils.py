@@ -10,7 +10,7 @@ def results_modules(volltext_results):
         module_name = module_content['Modul-Code'] + ': ' + module_content['Modul-Name-de']
         
         with st.expander(module_name, expanded=False):
-            st.title(module_content['Modul-Code'] + ': ' + module_content['Modul-Name-de'])
+            st.subheader(f''':blue[{module_content['Modul-Code']}: {module_content['Modul-Name-de']}]''')
 
             col1, col2, col3, col4 = st.columns(4)
 
