@@ -2,7 +2,7 @@ import streamlit as st
 
 st.logo('images/Goethe-Logo.jpg')
 
-st.header('Willkommen beim online-Modulhandbuch des Ifg')
+st.subheader('Willkommen beim online-Modulhandbuch des Ifg')
 
 st.markdown('''
             :orange[Alle Einträge hier sind rechtlich nicht bindend. Es handelt sich um eine inoffizielle Seite,
