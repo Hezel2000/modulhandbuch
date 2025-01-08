@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Regionale Geologie und Prozesse", "V+Ü", 2, 2, "", "", "X", "", "", "" ],
         [ "Geländeübung", "GÜ", "5 Tage", 2, "", "", "X", "X", "", "" ],
         [ "Modulprüfung", "keine", "", "", "", "", "", "", "", "" ],

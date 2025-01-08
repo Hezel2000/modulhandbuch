@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Paläozeanographie", "V/Ü/S", 2, 3, "", "", "", "", "X", ""],
         [ "Isotopengeochemie", "V+Ü", 2, 3, "", "", "", "", "", "X"],
         [ "Spezielle Themen", "V/Ü/S", 2, 2, "", "", "", "", "X", "X"],

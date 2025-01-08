@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": "Arithmetisches Mittel der beiden Teilnoten"
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         ["Geomaterialien: Minerale", "Ü", 2, 3, "X", "", "", "", "", ""],
         ["Geomaterialien: Gesteine", "Ü", 2, 3, "X", "", "", "", "", ""],
         ["Modulprüfung", "Klausur", "", "", "X", "", "", "", "", ""],

@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "1. Seminar", "S", 2, 3, "X", "X", "X", "" ],
         [ "2. Seminar", "S", 2, 3, "X", "X", "X", "" ],
         [ "Geowissenschaftliches Kolloquium", "S", 2, 2, "X", "X", "X", "" ],

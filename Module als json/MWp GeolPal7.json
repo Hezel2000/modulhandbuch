@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "Grundwissen in der Paläontologie und zur Erd- und Lebensgeschichte, insbesondere zur Evolution der Wirbeltiere, ist von Vorteil.",
     "Organisatorische Hinweise": "Für die Modulabschlussprüfung sollen mindestens 8 CP in beliebiger Reihenfolge in frei aus den o.g. gewählten Lehrveranstaltungen gesammelt werden, wobei jede absolvierte Lehrveranstaltung genau einmal zählt. Teile des Moduls können auf Englisch unterrichtet werden.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
     "Häufigkeit des Angebots": "Jährlich",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "PD Dr. Irina Ruf",
@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Auswahl aus:", "", "", "", "", "", "", "" ],
         [ "Meilensteine in der Wirbeltierevolution", "V", 2, 2, "", "X", "", "" ],
         [ "Evolution der Synapsiden", "V", 2, 2, "X", "", "X", "" ],

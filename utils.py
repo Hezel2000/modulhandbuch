@@ -69,18 +69,15 @@ def results_modules(volltext_results, version_key):
                 </li>
             </ul>
             """, unsafe_allow_html=True)
-                        
+            
             df = pd.DataFrame(module_content['Semester-Tabelle'])
+            if module_content['Modul-Code'][0] == 'B':                
+                df.columns = ["Titel", "LV-Form", "SWS", "CP", "1. Sem", "2. Sem", "3. Sem", "4. Sem", "5. Sem", "6. Sem"]
+            elif module_content['Modul-Code'][0] == 'M':
+                df.columns = ["Titel", "LV-Form", "SWS", "CP", "1. Sem", "2. Sem", "3. Sem", "4. Sem"]
 
-            df.columns = df.iloc[0]  # Set the first row as column headers
-            df = df[1:]  # Remove the first row from the data
-
-            # Reset the index for a cleaner display
             df = df.reset_index(drop=True)
-
-            # Display the DataFrame in Streamlit
             st.dataframe(df)
-
 
             
             st.divider()

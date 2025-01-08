@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
         [ "Petrologie der", "magmatischen Gesteine", "V+Ü", 3, 3, "", "", "", "", "X"],
         [ "Petrologie der", "metamorphen Gesteine", "V+Ü", 3, 3, "", "", "", "", "X"],

@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
         [ "Praktikum Mineralogie/Petrologie", "Pr", 5, 5, "", "", "", "", "X", ""],
         [ "Praktikum Mineralogie/Kristallographie 1", "Pr", 3, 3, "", "", "", "", "X", ""],

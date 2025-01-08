@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Praktikum", "Pr", 8 ,8, "", "X", "", "" ],
         [ "Modulprüfung", "", "", "", "", "X", "", "" ],
         [ "Summe", "", 8, 8, "", "", "", "" ]

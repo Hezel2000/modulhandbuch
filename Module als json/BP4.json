@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Kristallographie", "V+Ü", 3, 3, "", "X", "", "", "", "" ],
         [ "Mineralogie", "V+Ü", 3, 3, "", "", "X", "", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "", "X", "", "", "" ],

@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Geländeübung", "V+GÜ", "5 Tage", 4, "", "", "", "", "", "X"],
         [ "Laborpraktikum", "V+Ü", 3, 4, "", "", "", "", "X", ""],
         [ "Numerische Verfahren in der Geophysik", "V+Ü", 3, 4, "", "", "", "", "X", "X"],

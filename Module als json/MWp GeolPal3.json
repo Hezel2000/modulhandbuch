@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Auswahl aus:", "", "", "", "", "", "", ""],
         [ "Climate and Sedimentary Systems", "V+Ü", 2, 3, "X", "", "", ""],
         [ "Geochemie stabiler Isotope", "V+Ü", 2, 3, "X", "", "", ""],

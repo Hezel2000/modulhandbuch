@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Praktikum \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften\"", "Pr", 3, 3, "", "X", "", "", "", "" ],
         [ "Seminar zum Praktikum \"Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften\"", "S", 1, 1, "", "X", "", "", "", "" ],
         [ "Modulprüfung", "", "", "", "", "", "", "", "", "" ],

@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "In dem Modul sind 2 Lehrveranstaltungen im Umfang von 8 CP auszuwählen.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc./M.Sc. Mathematik, Physik",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Mathematik, Physik",
     "Häufigkeit des Angebots": "",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Harro Schmeling",
@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Seismologie 3 für Fortgeschrittene: Inversionsverfahren", "V+Ü", 3, 4, "", "", "X", "" ],
         [ "Geodynamik 3 für Fortgeschrittene: Mantelprozesse", "V+Ü", 3, 4, "", "", "X", "" ],
         [ "Angewandte Methoden 3 für Fortgeschrittene: Elektromagnetik", "V+Ü", 3, 4, "", "", "X", "" ],

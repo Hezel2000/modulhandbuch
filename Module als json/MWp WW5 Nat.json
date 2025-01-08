@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Veranstaltungen im Umfang von mind. 8 CP", "V, Ü, S, Pr", "variabel", 8, "X", "X", "X", ""],
         [ "Modulprüfung", "variabel", "", "", "X", "X", "X", ""],
         [ "Summe", "", "", 8, "", "", "", ""]

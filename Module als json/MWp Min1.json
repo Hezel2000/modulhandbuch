@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Auswahl aus:", "", "", "", "", "", "", "" ],
         [ "Einführung in die Thermodynamik", "V+Ü", 4, 4, "", "", "X", "" ],
         [ "Experimentelle Mineralogie und Petrologie", "V+Ü", 3, 4, "", "", "X", "" ],

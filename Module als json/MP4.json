@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Masterarbeit + Disputation", "", "", 30, "", "", "", "X" ],
         [ "Summe", "", 30, "", "", "", "", "" ]
     ],

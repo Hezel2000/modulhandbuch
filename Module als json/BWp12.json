@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Invertebraten-Paläontologie", "V+Ü", 3, 3, "", "", "", "", "X", "" ],
         [ "Biosedimentologie", "S", 1, 1, "", "", "", "", "", "X"],
         [ "Sedimentäre Fazies", "V+Ü", 3, 3, "", "", "", "", "X", ""],

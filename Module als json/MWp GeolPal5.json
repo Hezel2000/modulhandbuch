@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Mikrofazies", "V+Ü", 3, 3, "X", "", "", "" ],
         [ "Mikrobialithe, Riffe und Karbonatplattformen", "V", 2, 2, "", "X", "", "" ],
         [ "Spezielle Themen der Biosedimentologie und Paläontologie", "S",1, 1, "", "X", "", "" ],

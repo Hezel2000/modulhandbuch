@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Vorlesungen und Übungen aus dem aktuellen Angebot der Experimentalphysik, Theoretischen Physik, Mathematik und Informatik", "V+Ü", 6, 8, "", "X", "X", "" ],
         [ "Modulprüfung", "Variabel", "", "", "", "X", "X", ""],
         [ "Summe", "", 6, 8, "", "", "", ""]

@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Techniques in Marine Proxy Development", "V+Ü+S", 2, 3, "", "X", "", "" ],
         [ "Auswahl aus:", "", "", "", "", "", "", "" ],
         [ "Geländeübung, 10 Tage", "GÜ", "10 Tage", 5, "", "X", "", "" ],

@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "In dem Modul sind 2 Lehrveranstaltungen im Umfang von 8 CP auszuwählen.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nB.Sc./M.Sc. Mathematik, Physik\nHäufigkeit des Angebots\n1,5 jährlich\nDauer des Moduls\n1 Semester\nModulbeauftragte / Modulbeauftragter\nProf. Dr. Andreas Junge\nStudiennachweise/ ggf. als Prï¿½fungsvorleistungen\n\n\nTeilnahmenachweise\nAktive Teilnahme an den ï¿½bungen\n\nLeistungsnachweise\nErfolgreich absolvierte ï¿½bungen\nLehr- / Lernformen\nVorlesung, ï¿½bung\nUnterrichts- / Prï¿½fungssprache\nDeutsch\nModulprï¿½fung\nForm / Dauer / ggf. Inhalt\n\nModulabschlussprï¿½fung\nbestehend aus:\nMï¿½ndl. Prï¿½fung (max. 60 min) oder Klausur (max. 120 min)\n\nkumulative Modulprï¿½fung bestehend aus:\nkeine\n\nBildung der Modulnote bei kumulativen Modulprï¿½fungen:\nkeine\n\n\nLV-Form\nSWS\nCP\nSemester\n\n\n\n\n\n1\n2\n3\n4\n\nSeismologie 2 fï¿½r Fortgeschrittene: Datenanalyse und Signalverarbeitung\nV+ï¿½\n3\n4\n\nX\n\n\n\nGeodynamik 2 fï¿½r Fortgeschrittene: Dynamik der Lithosphï¿½re\nV+ï¿½\n3\n4\n\nX\n\n\n\nAngewandte Methoden 2 fï¿½r Fortgeschrittene: Geoelektrik\nV+ï¿½\n3\n4\n\nX\n\n\n\nModulprï¿½fung\nKlausur\n\n\n\nX\n\n\n\nSumme\n\n6\n8",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Mathematik, Physik",
     "Häufigkeit des Angebots": "",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge",
@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    "],
-        ["", "", "", "",  1, 2, 3, 4],
         [ "Seismologie 2 für Fortgeschrittene: Datenanalyse und Signalverarbeitung", "V+Ü", 3, 4, "", "X", "", "" ],
         [ "Geodynamik 2 für Fortgeschrittene: Dynamik der Lithosphäre", "V+Ü", 3, 4, "", "X", "", "" ],
         [ "Angewandte Methoden 2 für Fortgeschrittene: Geoelektrik", "V+Ü", 3, 4, "", "X", "", "" ],

@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Wissenschaftliches Arbeiten 1", "Ü", 1, 1, "", "X", "", "", "", "" ],
         [ "Geologische Karten und Profile", "Ü", 2, 2, "", "X", "", "", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "X", "", "", "", "" ],

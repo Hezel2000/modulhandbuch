@@ -29,8 +29,6 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [" ", "LV-Form", "SWS", "CP", "Semester", "  ", "   ", "    ", "     ", "      "],
-        ["", "", "", "",  1, 2, 3, 4, 5, 6],
         [ "Diffraktion", "V+Ü", 3, 3, "", "", "", "X", "X", ""],
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
         [ "Kristallchemie", "V+Ü", 2, 2, "", "", "", "X", "", "" ],
