@@ -41,7 +41,7 @@ def results_modules(volltext_results, version_key):
             st.markdown(f''':blue[**Verwendbarkeit des Moduls für andere Studiengänge**]\n {module_content["Verwendbarkeit des Moduls für andere Studiengänge"]}''')
             st.markdown(f''':blue[**Häufigkeit des Angebots**]\n {module_content["Häufigkeit des Angebots"]}''')
             st.markdown(f''':blue[**Dauer des Moduls**]\n {module_content["Dauer des Moduls"]}''')
-            st.markdown(f''':blue[**Modulbeauftragte / Modulbeauftragter:**] {module_content["Modulbeauftragte / Modulbeauftragter"]}''')
+            st.markdown(f''':blue[**Modulbeauftragte / Modulbeauftragter**] {module_content["Modulbeauftragte / Modulbeauftragter"]}''')
             st.markdown(f"""
             <div style="color: #4a90e2; font-weight: bold; margin-bottom: 10px;">Studiennachweise/ ggf. als Prüfungsvorleistungen</div>
             <ul style="list-style-type: none; margin-left: 0; padding-left: 0;">
@@ -53,8 +53,8 @@ def results_modules(volltext_results, version_key):
                 </li>
             </ul>
             """, unsafe_allow_html=True)
-            st.markdown(f''':blue[**Lehr- / Lernformen:**] {module_content["Lehr- / Lernformen"]}''')
-            st.markdown(f''':blue[**Unterrichts- / Prüfungssprache:**] {module_content["Unterrichts- / Prüfungssprache"]}''')
+            st.markdown(f''':blue[**Lehr- / Lernformen**] {module_content["Lehr- / Lernformen"]}''')
+            st.markdown(f''':blue[**Unterrichts- / Prüfungssprache**] {module_content["Unterrichts- / Prüfungssprache"]}''')
             st.markdown(f"""
             <div style="color: #4a90e2; font-weight: bold; margin-bottom: 10px;">Modulprüfung</div>
             <ul style="list-style-type: none; margin-left: 0; padding-left: 0;">

@@ -20,12 +20,10 @@ st.markdown('''
             ''')
 
 
-st.subheader(''':blue[Nächste Schritte]''')
+st.subheader(''':blue[Bemerkungen]''')
 st.markdown('''
             - Ich gehe nach und nach alle Einträge durch und vergleich die mit dem Modulhandbuch. Gecheckt bis inkl. BP5 (Reihenfolge entsprechend *Alle Module* links), 15a, 15b, 16a, 16b. 
-            - Sollte eine Fehlermeldung auftauchen, am Besetn per Screenshot an mich. In der Regel kann die für's Erste ignoriert werden.
             ''')
 
 
 st.sidebar.image('images/Goethe-Logo.jpg')
-
