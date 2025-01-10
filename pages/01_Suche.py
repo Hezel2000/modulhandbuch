@@ -65,7 +65,7 @@ def filter_data_by_cp(data, selected_cp):
 # ---------------------------
 
 st.title('Suche')
-select_BSc_MSc = st.radio('',('BSc', 'MSc'), horizontal=True, disabled=True)
+select_BSc_MSc = st.radio('',('BSc', 'MSc', 'BSc & MSc'), horizontal=True, disabled=True)
 tab1, tab2, tab3 = st.tabs(['Volltext', 'Modulbeauftragte', 'Modul CP'])
 
 with tab1:
