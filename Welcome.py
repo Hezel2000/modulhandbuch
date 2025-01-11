@@ -3,9 +3,6 @@ import utils
 
 st.logo('images/Goethe-Logo.jpg')
 
-# Laden der Datensätze
-st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
-st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
 
 # Volltextsuche
 def search_all(data, search_query):

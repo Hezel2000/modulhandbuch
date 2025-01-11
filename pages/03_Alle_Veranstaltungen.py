@@ -1,6 +1,9 @@
 import streamlit as st
 import pandas as pd
 
+# Laden der Datensätze
+st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
+st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
 
 st.header('Alle Veranstaltungen')
 st.markdown(''':grey['Mit einem click auf einen Titel wird die Tabelle nach der entsprechenden Spalte sortiert.']''')
