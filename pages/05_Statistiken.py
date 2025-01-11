@@ -1,10 +1,6 @@
 import streamlit as st
 import pandas as pd
 
-# Laden der Datensätze
-st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
-st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
-
 stats_all_lectures = pd.concat([st.session_state.all_bsc_lectures, st.session_state.all_msc_lectures], ignore_index=True)
 
 st.subheader('Statistiken')
