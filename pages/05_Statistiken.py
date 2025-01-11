@@ -29,3 +29,6 @@ st.write(pd.DataFrame([
 
 st.write(stats_all_lectures.keys())
 st.write(stats_all_lectures['Modulbeauftragte*r'].value_counts())
+st.write(stats_all_lectures['CP'].value_counts())
+st.write(stats_all_lectures['SWS'].value_counts())
+st.write(stats_all_lectures['Sprache'].value_counts())
