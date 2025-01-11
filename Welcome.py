@@ -1,6 +1,31 @@
 import streamlit as st
 import utils
 
+
+folder_path = 'Module als json'
+json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
+
+st.session_state.all_modules = {}  # Dictionary to store loaded JSON data
+st.session_state.bsc_modules = {}
+st.session_state.msc_modules = {}
+
+for json_file in json_files:
+    with open(os.path.join(folder_path, json_file), 'r') as file:
+        st.session_state.all_modules[json_file] = json.load(file)
+
+all_module_names = list(st.session_state.all_modules.keys())
+
+for i in all_module_names:
+    if st.session_state.all_modules[i]['Modul-Code'][0] == 'B':
+        st.session_state.bsc_modules[i] = st.session_state.all_modules[i] 
+    elif st.session_state.all_modules[i]['Modul-Code'][0] == 'M':
+        st.session_state.msc_modules[i] = st.session_state.all_modules[i]
+    else:
+        st.write('something went wrong')
+        
+
+
+
 st.logo('images/Goethe-Logo.jpg')
 
 # Laden der Datensätze
