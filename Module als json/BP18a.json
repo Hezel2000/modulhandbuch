@@ -2,7 +2,7 @@
     "Modul-Code": "BP18a",
     "Modul-Name-en": "Practical Laboratory Course in General and Inorganic Chemistry for Scientists",
     "Modul-Name-de": "Praktikum Allgemeine und Anorganische Chemie für Studierende der Naturwissenschaften als Studienleistung",
-    "Modul-Typ": "Pflichtmodul",
+    "Modul-Typ": "Pflichtmodul\n (Importmodul)",
     "Anzhal CP und Arbeitsaufwand": "4 CP (insg.) = 120 h",
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
@@ -24,8 +24,8 @@
     "Lehr- / Lernformen": "Praktikum, Seminar",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

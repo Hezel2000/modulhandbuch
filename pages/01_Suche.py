@@ -76,7 +76,7 @@ with tab1:
 
     if search_query:
         volltext_results = search_all(data, search_query)
-        utils.results_modules(utils.sort_BSc_modules(volltext_results), 'suche_volltext')
+        utils.results_modules(utils.sort_modules(volltext_results), 'suche_volltext')
 
 with tab2:
     unique_modulbeauftragte = get_unique_modulbeauftragte(data)
@@ -84,7 +84,7 @@ with tab2:
 
     if selected_name:
         modulbeauftragte = filter_data_by_modulbeauftragte(data, selected_name)
-        utils.results_modules(utils.sort_BSc_modules(modulbeauftragte), 'suche_modulbeauftragte')
+        utils.results_modules(utils.sort_modules(modulbeauftragte), 'suche_modulbeauftragte')
 
 with tab3:
     unique_cp_values = get_unique_cp(data)
@@ -93,7 +93,7 @@ with tab3:
     # Show matching entries
     if selected_cp:
         modul_cp = filter_data_by_cp(data, selected_cp)
-        utils.results_modules(utils.sort_BSc_modules(modul_cp), 'suche_modul_cp')
+        utils.results_modules(utils.sort_modules(modul_cp), 'suche_modul_cp')
 
 
 st.sidebar.image('images/Goethe-Logo.jpg')

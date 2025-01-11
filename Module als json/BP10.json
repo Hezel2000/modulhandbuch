@@ -18,14 +18,14 @@
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Gernold Zulauf",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "Aktive Teilnahme in \"Einführung in die Strukturgeologie\"",
+        "Teilnahmenachweise": "",
         "Leistungsnachweise": "Bericht zu \"Anfänger-Kartierübung\""
     },
-    "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung",
+    "Lehr- / Lernformen": "Vorlesung, Geländeübung",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) zu \"Einführung in die Strukturgeologie\"",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

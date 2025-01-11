@@ -2,7 +2,7 @@
     "Modul-Code": "BP18b",
     "Modul-Name-en": "Physics Lab Class C for Minors",
     "Modul-Name-de": "Physikalisches Praktikum C für Nebenfachstudierende",
-    "Modul-Typ": "Pflichtmodul",
+    "Modul-Typ": "Pflichtmodul\n (Importmodul NFPHY-PC)",
     "Anzhal CP und Arbeitsaufwand": "3 CP (insg.) = 90 h",
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
@@ -24,8 +24,8 @@
     "Lehr- / Lernformen": "Praktikum",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

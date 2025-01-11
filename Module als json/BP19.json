@@ -4,9 +4,9 @@
     "Modul-Name-de": "Berufspraktikum",
     "Modul-Typ": "Pflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "5 CP (insg.) = 150 h",
-    "Anzahl SWS": "SWS",
+    "Anzahl SWS": "4 Wochen",
     "Kontaktstudium": "150 h",
-    "Selbststudium": "keine",
+    "Selbststudium": "-",
     "Inhalte": "Das Berufspraktikum soll an einer auáeruniversitären Einrichtung im In- oder Ausland durchgeführt werden und den Studierenden einen praxisnahen Einblick in geowissenschaftliche Berufsfelder ermöglichen. Die Studierenden sollen dabei nicht nur Hilfsarbeiten ausführen, sondern im Rahmen der Möglichkeiten Aufgaben und Tätigkeiten eigenständig übernehmen und ausführen. Das Praktikum umfasst einen Zeitraum von mindestens 4 Wochen. Idealerweise sollte das Berufspraktikum zusammenhängend in der vorlesungsfreien Zeit ab dem 4. Semester bzw. nach der Vorlesungszeit des 3. Semesters und nicht tage- oder stundenweise durchgeführt werden, um einen realistischen Einblick in den jeweiligen Berufsalltag zu bekommen. Inhaltlicher Bestandteil ist, dass sich die Studierenden zunächst eigenverantwortlich um einen geeigneten Praktikumsplatz, der ihren jeweiligen Schwerpunkten und Interessen entspricht, bemühen. Die Hochschullehrer*innen und der/die Modulverantwortliche können auf Anfrage die Suche nach einem geeigneten Praktikumsplatz unterstützen. Der gewählte Praktikumsplatz muss in sinnvollem inhaltlichem Zusammenhang mit dem Studium der Geowissenschaften stehen und der geowissenschaftliche Bezug muss klar erkennbar sein. Es wird empfohlen sich vor der Durchführung des Praktikums bei dem/der Modulverantwortlichen zu erkundigen, ob der gewählte Praktikumsplatz den Anforderungen entspricht. Nach Beendigung des Praktikums ist von den Studierenden ein Bericht im Umfang von 3 Seiten (Titelblatt + 2 Seiten Beschreibung) anzufertigen und beim Modulverantwortlichen abzugeben. In dem Bericht sollen die Inhalte und ausgeübten Tätigkeiten aus Sicht der/des Studierenden beschrieben und reflektiert werden.",
     "Lernergebnisse / Kompetenzziele": "Die Lehrinhalte hängen stark vom gewählten Betrieb / der gewählten Einrichtung ab. Es können z.B. sowohl Labor- und materialanalytische Methoden als auch gelände- oder maschinenbezogene Arbeitsweisen, der Umgang mit fachspezifischer Software oder das Verfassen von Gutachten vermittelt werden.\nDie Studierenden\n* lernen geowissenschaftliche Berufsfelder kennen\n* wenden die im Studium erworbenen Fähigkeiten und Kenntnisse in einem beruflichen Umfeld praktisch an\n* werden in eigenverantwortlichen und selbständigen Arbeitsweisen geschult\n* reflektieren ihre Studienschwerpunkte und Interessen sowie die eigenen Fähigkeiten und Stärken",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abgeschlossene Module BP1 bis BP3",
@@ -24,8 +24,8 @@
     "Lehr- / Lernformen": "Praktikum",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

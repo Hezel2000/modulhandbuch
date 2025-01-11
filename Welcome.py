@@ -1,6 +1,20 @@
 import streamlit as st
+import utils
 
 st.logo('images/Goethe-Logo.jpg')
+
+# Laden der Datensätze
+st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
+st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
+
+# Volltextsuche
+def search_all(data, search_query):
+    results = {}
+
+    for file_name, json_data in data.items():
+        # Implement your search logic here
+        if search_query in json.dumps(json_data):
+            results[file_name] = json_data
 
 st.subheader('Willkommen beim online-Modulhandbuch des Ifg')
 
@@ -22,7 +36,7 @@ st.markdown('''
 
 st.subheader(''':blue[Bemerkungen]''')
 st.markdown('''
-            - Ich gehe nach und nach alle Einträge durch und vergleich die mit dem Modulhandbuch. Gecheckt bis inkl. BP5 (Reihenfolge entsprechend *Alle Module* links), 15a, 15b, 16a, 16b. 
+            - Ich gehe nach und nach alle Einträge durch und vergleich die mit dem Modulhandbuch. Gecheckt bis inkl. BP20, aber irgendwie ist nicht klar, ob das pdf oder das doc gilt.
             ''')
 
 

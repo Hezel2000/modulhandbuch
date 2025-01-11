@@ -24,8 +24,8 @@
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (120 min)",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

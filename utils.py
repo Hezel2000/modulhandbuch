@@ -1,6 +1,31 @@
 import streamlit as st
 import re
+import os
+import json
 import pandas as pd
+
+folder_path = 'Module als json'
+json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
+
+st.session_state.all_modules = {}  # Dictionary to store loaded JSON data
+st.session_state.bsc_modules = {}
+st.session_state.msc_modules = {}
+
+for json_file in json_files:
+    with open(os.path.join(folder_path, json_file), 'r') as file:
+        st.session_state.all_modules[json_file] = json.load(file)
+
+all_module_names = list(st.session_state.all_modules.keys())
+
+for i in all_module_names:
+    if st.session_state.all_modules[i]['Modul-Code'][0] == 'B':
+        st.session_state.bsc_modules[i] = st.session_state.all_modules[i] 
+    elif st.session_state.all_modules[i]['Modul-Code'][0] == 'M':
+        st.session_state.msc_modules[i] = st.session_state.all_modules[i]
+    else:
+        st.write('something went wrong')
+
+    
 
 # Darstellung der Module
 def results_modules(volltext_results, version_key):
@@ -93,7 +118,8 @@ def results_modules(volltext_results, version_key):
                 st.write(f'{module_content["Änderung"][sel_version]}')
 
 
-def sort_BSc_modules(data):
+
+def sort_modules(data):
     # Helper function to split the alphabetic and numeric parts
     def split_alpha_numeric(s):
         match = re.match(r'([^\d]*)(\d*)', s)
@@ -103,7 +129,7 @@ def sort_BSc_modules(data):
 
     # Filter and sort based on 'Modul-Code'
     sorted_items = sorted(
-        (item for item in data.items() if item[1]['Modul-Code'].startswith('B')),
+        (item for item in data.items() if item[1]['Modul-Code']),
         key=lambda x: split_alpha_numeric(x[1]['Modul-Code'])
     )
 
@@ -112,25 +138,58 @@ def sort_BSc_modules(data):
     return sorted_dict
 
 
+# def sort_MSc_modules(data):
+#     # Helper function to split the alphabetic and numeric parts
+#     def split_alpha_numeric(s):
+#         match = re.match(r'([^\d]*)(\d*)', s)
+#         alpha = match.group(1)  # Alphabetic part
+#         num = int(match.group(2)) if match.group(2) else float('inf')  # Numeric part or high number
+#         return alpha, num
 
-def sort_MSc_modules(data):
-    # Helper function to split the alphabetic and numeric parts
-    def split_alpha_numeric(s):
-        match = re.match(r'([^\d]*)(\d*)', s)
-        alpha = match.group(1)  # Alphabetic part
-        num = int(match.group(2)) if match.group(2) else float('inf')  # Numeric part or high number
-        return alpha, num
+#     # Filter and sort based on 'Modul-Code'
+#     sorted_items = sorted(
+#         (item for item in data.items() if item[1]['Modul-Code'].startswith('M')),
+#         key=lambda x: split_alpha_numeric(x[1]['Modul-Code'])
+#     )
 
-    # Filter and sort based on 'Modul-Code'
-    sorted_items = sorted(
-        (item for item in data.items() if item[1]['Modul-Code'].startswith('M')),
-        key=lambda x: split_alpha_numeric(x[1]['Modul-Code'])
-    )
-
-    # Convert back to a dictionary
-    sorted_dict = dict(sorted_items)
-    return sorted_dict
-
+#     # Convert back to a dictionary
+#     sorted_dict = dict(sorted_items)
+#     return sorted_dict
 
 
+def return_all_bsc_lectures():
+    header = ['Titel', 'Code', 'Modul', 'Typ', 'SWS', 'CP', 'Modulbeauftragte*r', 'Studiennachweise', 'Lehr-/Lernform', 'Modulabschlussprüfung', 'kumulative Modulabschlussprüfung', 'Sprache']
+    all_bsc_lectures = []
+    for i in all_module_names:
+        if st.session_state.all_modules[i]['Modul-Code'][0] == 'B':
+            full_semester_table = st.session_state.bsc_modules[i]['Semester-Tabelle']
+            semester_table_titles = [k[0] for k in full_semester_table]
+            items_to_remove = {"Auswahl aus", "Auswahl aus:", "Modulprüfung", "Modulprüfung:", "Summe", "Summe:"}
+            semester_table = [item for item in semester_table_titles if item not in items_to_remove]
+            modul_lectures = []
+            for j in semester_table:
+                modul_lectures.append([j, st.session_state.all_modules[i]['Modul-Code'], st.session_state.all_modules[i]['Modul-Name-de'], st.session_state.all_modules[i]['Modul-Typ'], st.session_state.all_modules[i]['Anzahl SWS'], st.session_state.all_modules[i]['Anzhal CP und Arbeitsaufwand'], st.session_state.all_modules[i]["Modulbeauftragte / Modulbeauftragter"], st.session_state.all_modules[i]["Studiennachweise/ ggf. als Prüfungsvorleistungen"]["Teilnahmenachweise"], st.session_state.all_modules[i]["Lehr- / Lernformen"], st.session_state.all_modules[i]["Modulprüfung"]["Modulabschlussprüfung bestehend aus"], st.session_state.all_modules[i]["Modulprüfung"]["kumulative Modulprüfung bestehend aus"], st.session_state.all_modules[i]["Unterrichts- / Prüfungssprache"]])
+            all_bsc_lectures.extend(modul_lectures)
+    return pd.DataFrame(all_bsc_lectures, columns=header)
 
+def return_all_msc_lectures():
+    header = ['Titel', 'Code', 'Modul', 'Typ', 'SWS', 'CP', 'Modulbeauftragte*r', 'Studiennachweise', 'Lehr-/Lernform', 'Modulabschlussprüfung', 'kumulative Modulabschlussprüfung', 'Sprache']
+    all_msc_lectures = []
+    for i in all_module_names:
+        if st.session_state.all_modules[i]['Modul-Code'][0] == 'M':
+            full_semester_table = st.session_state.msc_modules[i]['Semester-Tabelle']
+            semester_table_titles = [k[0] for k in full_semester_table]
+            items_to_remove = {"Auswahl aus", "Auswahl aus:", "Modulprüfung", "Modulprüfung:", "Summe", "Summe:"}
+            semester_table = [item for item in semester_table_titles if item not in items_to_remove]
+            modul_lectures = []
+            for j in semester_table:
+                modul_lectures.append([j, st.session_state.all_modules[i]['Modul-Code'], st.session_state.all_modules[i]['Modul-Name-de'], st.session_state.all_modules[i]['Modul-Typ'], st.session_state.all_modules[i]['Anzahl SWS'], st.session_state.all_modules[i]['Anzhal CP und Arbeitsaufwand'], st.session_state.all_modules[i]["Modulbeauftragte / Modulbeauftragter"], st.session_state.all_modules[i]["Studiennachweise/ ggf. als Prüfungsvorleistungen"]["Teilnahmenachweise"], st.session_state.all_modules[i]["Lehr- / Lernformen"], st.session_state.all_modules[i]["Modulprüfung"]["Modulabschlussprüfung bestehend aus"], st.session_state.all_modules[i]["Modulprüfung"]["kumulative Modulprüfung bestehend aus"], st.session_state.all_modules[i]["Unterrichts- / Prüfungssprache"]])
+            all_msc_lectures.extend(modul_lectures)
+    return pd.DataFrame(all_msc_lectures, columns=header)
+
+
+
+
+# ['SWS', 'CP', 'Modulbeauftragte*r', 'Studiennachweise', 'Lehr-/Lernform', 'Modulabschlussprüfung', 'kumulative 'Modulabschlussprüfung', 'Sprache']
+
+# 

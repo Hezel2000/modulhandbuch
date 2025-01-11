@@ -21,11 +21,11 @@
         "Teilnahmenachweise": "keine",
         "Leistungsnachweise": "Erfolgreich absolvierte Übungen zu \"Planetare Geologie\"\nKlausur (90 min) zu \"Materialanalytische Methoden\""
     },
-    "Lehr- / Lernformen": "Vorlesung",
+    "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
