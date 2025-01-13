@@ -1,4 +1,5 @@
 import streamlit as st
+import utils
 import pandas as pd
 
 st.logo('images/Goethe-Logo.jpg')
