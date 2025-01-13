@@ -6,13 +6,10 @@ import utils
 #     st.session_state.all_modules = {}
 
 st.session_state.all_modules, st.session_state.all_module_names, st.session_state.bsc_modules, st.session_state.msc_modules = utils.initialise_all_modules()
-
-
-st.logo('images/Goethe-Logo.jpg')
-
-# Laden der Datensätze
 st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
 st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
+
+st.logo('images/Goethe-Logo.jpg')
 
 # # Volltextsuche
 # def search_all(data, search_query):
