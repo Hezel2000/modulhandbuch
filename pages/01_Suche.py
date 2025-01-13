@@ -78,22 +78,22 @@ with tab1:
     search_query = st.text_input("Sucheingabe", placeholder='Sucheingabe', label_visibility='collapsed')
 
     if search_query:
-        volltext_results = search_all(data, search_query)
+        volltext_results = search_all(st.session_state.all_modules, search_query)
         utils.results_modules(utils.sort_modules(volltext_results), 'suche_volltext')
 
 with tab2:
-    unique_modulbeauftragte = get_unique_modulbeauftragte(data)
+    unique_modulbeauftragte = get_unique_modulbeauftragte(st.session_state.all_modules)
     selected_name = st.selectbox("", unique_modulbeauftragte, label_visibility="collapsed")
 
     if selected_name:
-        modulbeauftragte = filter_data_by_modulbeauftragte(data, selected_name)
+        modulbeauftragte = filter_data_by_modulbeauftragte(st.session_state.all_modules, selected_name)
         utils.results_modules(utils.sort_modules(modulbeauftragte), 'suche_modulbeauftragte')
 
 with tab3:
-    unique_cp_values = get_unique_cp(data)
+    unique_cp_values = get_unique_cp(st.session_state.all_modules)
     selected_cp = st.selectbox("", unique_cp_values, label_visibility="collapsed")
 
     # Show matching entries
     if selected_cp:
-        modul_cp = filter_data_by_cp(data, selected_cp)
+        modul_cp = filter_data_by_cp(st.session_state.all_modules, selected_cp)
         utils.results_modules(utils.sort_modules(modul_cp), 'suche_modul_cp')
