@@ -19,7 +19,7 @@ with st.form("feedback_form"):
     name = st.text_input("Name (optional):")
     email = st.text_input("Email (optional):")
     feedback = st.text_area("Your Feedback:")
-    rating = st.slider("Rate your experience (1 - Poor, 5 - Excellent):", 1, 5, 3)
+    rating = st.feedback(options="thumbs") #st.slider("Rate your experience (1 - Poor, 5 - Excellent):", 1, 5, 3)
     submitted = st.form_submit_button("Submit")
 
     if submitted:
