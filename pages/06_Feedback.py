@@ -28,9 +28,10 @@ with st.form("feedback_form"):
             try:
                 # Connect to Google Sheet
                 sheet = connect_to_gsheet()
-                
-                # Append feedback to the sheet
-                sheet.append_row([name, email, feedback, rating])
+                if rating in [0, 1, 2, 3, 4]:
+                    sheet.append_row([name, email, feedback, rating])
+                else:
+                    sheet.append_row([name, email, feedback, rating+1])
                 
                 st.success("Thank you for your feedback! Your message has been saved.")
             except Exception as e:
