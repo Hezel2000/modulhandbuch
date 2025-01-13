@@ -3,7 +3,6 @@ import pandas as pd
 
 
 st.header('Alle Veranstaltungen')
-st.markdown(''':grey[Mit einem click auf einen Titel wird die Tabelle nach der entsprechenden Spalte sortiert.]''')
 
 st.logo('images/Goethe-Logo.jpg')
 
