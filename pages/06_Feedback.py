@@ -30,7 +30,7 @@ with st.form("feedback_form"):
                 sheet = connect_to_gsheet()
                 
                 # Append feedback to the sheet
-                sheet.append_row([name, email, feedback, rating])
+                sheet.append_row([name, email, feedback, rating+1])
                 
                 st.success("Thank you for your feedback! Your message has been saved.")
             except Exception as e:
