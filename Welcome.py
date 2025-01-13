@@ -43,6 +43,7 @@ st.markdown('''
             **:green[Tabellen]**  
             In Tabellen kann je nach Bildschirmgröße nach unten und/oder rechts gescrollt werden.  
             Durch einen Klick auf einen Spalten-Titel wird die gesamte Tabelle nach der entsprechenden Spalte sortiert.  
+            Rechts oben über jeder Tablle gibt es 3 icons: Download der Tablle, Suche in der Tabelle, Vergrößern der Tabelle
 
 
             **:green[Abbildungen/Bilder]**  

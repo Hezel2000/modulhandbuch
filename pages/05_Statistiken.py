@@ -4,9 +4,8 @@ import pandas as pd
 st.logo('images/Goethe-Logo.jpg')
 st.sidebar.image('images/Goethe-Logo.jpg')
 
-if st.session_state.all_bsc_lectures is None or st.session_state.all_msc_lectures is None:
-    st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
-    st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
+st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
+st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
 
 stats_all_lectures = pd.concat([st.session_state.all_bsc_lectures, st.session_state.all_msc_lectures], ignore_index=True)
 

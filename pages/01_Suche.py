@@ -16,8 +16,7 @@ st.sidebar.image('images/Goethe-Logo.jpg')
 #     with open(os.path.join(folder_path, json_file), 'r') as file:
 #         data[json_file] = json.load(file)
 
-if st.session_state.all_modules is None:
-    st.session_state.all_modules, st.session_state.all_module_names, st.session_state.bsc_modules, st.session_state.msc_modules = utils.initialise_all_modules()
+st.session_state.all_modules, st.session_state.all_module_names, st.session_state.bsc_modules, st.session_state.msc_modules = utils.initialise_all_modules()
 
 # Volltextsuche
 def search_all(data, search_query):
