@@ -40,7 +40,7 @@ def search_all(data, search_query):
         if search_query in json.dumps(json_data):
             results[file_name] = json_data
 
-st.subheader('Willkommen beim online-Modulhandbuch des IfG')
+st.subheader('Willkommen beim digitalen Modulhandbuch des IfG')
 
 st.markdown('''
             :orange[Alle Einträge hier sind rechtlich nicht bindend. Es handelt sich um eine inoffizielle Seite,
