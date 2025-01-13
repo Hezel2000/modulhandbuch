@@ -18,7 +18,8 @@ st.title("Feedback Form")
 with st.form("feedback_form"):
     name = st.text_input("Name (optional):")
     email = st.text_input("Email (optional):")
-    feedback = st.text_area("Your Feedback:")
+    feedback = st.text_area("Dein Feedback:")
+    st.write(':grey[Bewerte das online Modulhandbuch]')
     rating = st.feedback(options="stars") #st.slider("Rate your experience (1 - Poor, 5 - Excellent):", 1, 5, 3)
     submitted = st.form_submit_button("Submit")
 
