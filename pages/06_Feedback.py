@@ -28,7 +28,7 @@ with st.form("feedback_form"):
             try:
                 # Connect to Google Sheet
                 sheet = connect_to_gsheet()
-                if rating in [0, 1, 2, 3, 4]:
+                if rating is None:
                     sheet.append_row([name, email, feedback, rating])
                 else:
                     sheet.append_row([name, email, feedback, rating+1])

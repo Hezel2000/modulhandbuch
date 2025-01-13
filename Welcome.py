@@ -3,7 +3,6 @@ import os
 import json
 import utils
 
-
 folder_path = 'Module als json'
 json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
 
@@ -24,7 +23,7 @@ for i in all_module_names:
         st.session_state.msc_modules[i] = st.session_state.all_modules[i]
     else:
         st.write('something went wrong')
-        
+
 
 st.logo('images/Goethe-Logo.jpg')
 
