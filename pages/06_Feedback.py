@@ -33,11 +33,11 @@ with st.form("feedback_form"):
                 else:
                     sheet.append_row([name, email, feedback, rating+1])
                 
-                st.success("Thank you for your feedback! Your message has been saved.")
+                st.success("Danke für Dein Feedback! Deine Nachricht wurde gespeichert.")
             except Exception as e:
                 st.error(f"Failed to save feedback. Error: {e}")
         else:
-            st.error("Feedback cannot be empty. Please provide your feedback.")
+            st.error("Das Feedback-Feld muss ausgefüllt sein.")
 
 
 st.sidebar.image('images/Goethe-Logo.jpg')
