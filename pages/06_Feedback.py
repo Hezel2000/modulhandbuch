@@ -12,15 +12,15 @@ def connect_to_gsheet():
     sheet = client.open("Feedback Modulhandbuch").sheet1  # Replace with your exact sheet name
     return sheet
 
-# Streamlit feedback form
-st.title("Feedback Form")
+
+st.title("Feedback")
 
 with st.form("feedback_form"):
     name = st.text_input("Name (optional):")
     email = st.text_input("Email (optional):")
     feedback = st.text_area("Dein Feedback:")
-    st.write(':grey[Bewerte das online Modulhandbuch]')
-    rating = st.feedback(options="stars") #st.slider("Rate your experience (1 - Poor, 5 - Excellent):", 1, 5, 3)
+    st.write(':grey[Bewerte das online Modulhandbuch (optional)]')
+    rating = st.feedback(options="stars")
     submitted = st.form_submit_button("Submit")
 
     if submitted:
