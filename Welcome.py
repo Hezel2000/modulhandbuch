@@ -1,28 +1,11 @@
 import streamlit as st
-import os
 import json
 import utils
 
-folder_path = 'Module als json'
-json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
+# if 'all_modules' not in st.session_state:
+#     st.session_state.all_modules = {}
 
-st.session_state.all_modules = {}  # Dictionary to store loaded JSON data
-st.session_state.bsc_modules = {}
-st.session_state.msc_modules = {}
-
-for json_file in json_files:
-    with open(os.path.join(folder_path, json_file), 'r') as file:
-        st.session_state.all_modules[json_file] = json.load(file)
-
-all_module_names = list(st.session_state.all_modules.keys())
-
-for i in all_module_names:
-    if st.session_state.all_modules[i]['Modul-Code'][0] == 'B':
-        st.session_state.bsc_modules[i] = st.session_state.all_modules[i] 
-    elif st.session_state.all_modules[i]['Modul-Code'][0] == 'M':
-        st.session_state.msc_modules[i] = st.session_state.all_modules[i]
-    else:
-        st.write('something went wrong')
+st.session_state.all_modules, st.session_state.all_module_names, st.session_state.bsc_modules, st.session_state.msc_modules = utils.initialise_all_modules()
 
 
 st.logo('images/Goethe-Logo.jpg')
@@ -31,14 +14,14 @@ st.logo('images/Goethe-Logo.jpg')
 st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
 st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
 
-# Volltextsuche
-def search_all(data, search_query):
-    results = {}
+# # Volltextsuche
+# def search_all(data, search_query):
+#     results = {}
 
-    for file_name, json_data in data.items():
-        # Implement your search logic here
-        if search_query in json.dumps(json_data):
-            results[file_name] = json_data
+#     for file_name, json_data in data.items():
+#         # Implement your search logic here
+#         if search_query in json.dumps(json_data):
+#             results[file_name] = json_data
 
 st.subheader('Willkommen beim digitalen Modulhandbuch des IfG')
 

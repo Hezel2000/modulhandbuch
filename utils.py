@@ -4,28 +4,73 @@ import os
 import json
 import pandas as pd
 
-folder_path = 'Module als json'
-json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
+# folder_path = 'Module als json'
+# json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
 
-st.session_state.all_modules = {}  # Dictionary to store loaded JSON data
-st.session_state.bsc_modules = {}
-st.session_state.msc_modules = {}
+# st.session_state.all_modules = {}  # Dictionary to store loaded JSON data
+# st.session_state.bsc_modules = {}
+# st.session_state.msc_modules = {}
 
-for json_file in json_files:
-    with open(os.path.join(folder_path, json_file), 'r') as file:
-        st.session_state.all_modules[json_file] = json.load(file)
+# for json_file in json_files:
+#     with open(os.path.join(folder_path, json_file), 'r') as file:
+#         st.session_state.all_modules[json_file] = json.load(file)
 
-all_module_names = list(st.session_state.all_modules.keys())
+# all_module_names = list(st.session_state.all_modules.keys())
 
-for i in all_module_names:
-    if st.session_state.all_modules[i]['Modul-Code'][0] == 'B':
-        st.session_state.bsc_modules[i] = st.session_state.all_modules[i] 
-    elif st.session_state.all_modules[i]['Modul-Code'][0] == 'M':
-        st.session_state.msc_modules[i] = st.session_state.all_modules[i]
-    else:
-        st.write('something went wrong')
+# for i in all_module_names:
+#     if st.session_state.all_modules[i]['Modul-Code'][0] == 'B':
+#         st.session_state.bsc_modules[i] = st.session_state.all_modules[i] 
+#     elif st.session_state.all_modules[i]['Modul-Code'][0] == 'M':
+#         st.session_state.msc_modules[i] = st.session_state.all_modules[i]
+#     else:
+#         st.write('something went wrong')
 
+
+
+# def initialise_all_modules_bsc_modules_msc_modules():
+#     folder_path = 'Module als json'
+#     json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
+
+#     for json_file in json_files:
+#         with open(os.path.join(folder_path, json_file), 'r') as file:
+#             st.session_state.all_modules[json_file] = json.load(file)
+
+#     all_module_names = list(st.session_state.all_modules.keys())
+
+#     for i in all_module_names:
+#         if st.session_state.all_modules[i]['Modul-Code'][0] == 'B':
+#             st.session_state.bsc_modules[i] = st.session_state.all_modules[i] 
+#         elif st.session_state.all_modules[i]['Modul-Code'][0] == 'M':
+#             st.session_state.msc_modules[i] = st.session_state.all_modules[i]
+#         else:
+#             st.write('something went wrong')
+#     return st.session_state.all_modules, st.session_state.bsc_modules, st.session_state.msc_modules
+
+
+def initialise_all_modules():
+    folder_path = 'Module als json'
+    json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
     
+    all_modules = {}
+    for json_file in json_files:
+        with open(os.path.join(folder_path, json_file), 'r') as file:
+            all_modules[json_file] = json.load(file)
+
+    all_module_names = list(all_modules.keys())
+    
+    bsc_modules = {}
+    msc_modules = {}
+    for i in all_module_names:
+        if all_modules[i]['Modul-Code'][0] == 'B':
+            bsc_modules[i] = all_modules[i] 
+        elif all_modules[i]['Modul-Code'][0] == 'M':
+            msc_modules[i] = all_modules[i]
+
+    return all_modules, all_module_names, bsc_modules, msc_modules
+
+
+
+
 
 # Darstellung der Module
 def results_modules(volltext_results, version_key):
@@ -159,6 +204,7 @@ def sort_modules(data):
 
 def return_all_bsc_lectures():
     header = ['Titel', 'Code', 'Modul', 'Typ', 'SWS', 'CP', 'Modulbeauftragte*r', 'Studiennachweise', 'Lehr-/Lernform', 'Modulabschlussprüfung', 'kumulative Modulabschlussprüfung', 'Sprache']
+    all_module_names = list(st.session_state.all_modules.keys())
     all_bsc_lectures = []
     for i in all_module_names:
         if st.session_state.all_modules[i]['Modul-Code'][0] == 'B':
@@ -174,6 +220,7 @@ def return_all_bsc_lectures():
 
 def return_all_msc_lectures():
     header = ['Titel', 'Code', 'Modul', 'Typ', 'SWS', 'CP', 'Modulbeauftragte*r', 'Studiennachweise', 'Lehr-/Lernform', 'Modulabschlussprüfung', 'kumulative Modulabschlussprüfung', 'Sprache']
+    all_module_names = list(st.session_state.all_modules.keys())
     all_msc_lectures = []
     for i in all_module_names:
         if st.session_state.all_modules[i]['Modul-Code'][0] == 'M':
