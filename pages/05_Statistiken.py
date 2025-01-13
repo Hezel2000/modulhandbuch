@@ -1,10 +1,12 @@
 import streamlit as st
 import pandas as pd
 
+st.logo('images/Goethe-Logo.jpg')
+st.sidebar.image('images/Goethe-Logo.jpg')
+
 stats_all_lectures = pd.concat([st.session_state.all_bsc_lectures, st.session_state.all_msc_lectures], ignore_index=True)
 
 st.header('Statistiken')
-
 
 overview_modules_lectures = pd.DataFrame([
     ['Module insgesamt', len(st.session_state.all_modules)],

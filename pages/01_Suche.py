@@ -4,14 +4,17 @@ import json
 import re
 import utils
 
-folder_path = 'Module als json'
-json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
+st.logo('images/Goethe-Logo.jpg')
+st.sidebar.image('images/Goethe-Logo.jpg')
 
-data = {}  # Dictionary to store loaded JSON data
+# folder_path = 'Module als json'
+# json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
 
-for json_file in json_files:
-    with open(os.path.join(folder_path, json_file), 'r') as file:
-        data[json_file] = json.load(file)
+# data = {}  # Dictionary to store loaded JSON data
+
+# for json_file in json_files:
+#     with open(os.path.join(folder_path, json_file), 'r') as file:
+#         data[json_file] = json.load(file)
 
 
 # Volltextsuche
@@ -94,6 +97,3 @@ with tab3:
     if selected_cp:
         modul_cp = filter_data_by_cp(data, selected_cp)
         utils.results_modules(utils.sort_modules(modul_cp), 'suche_modul_cp')
-
-
-st.sidebar.image('images/Goethe-Logo.jpg')

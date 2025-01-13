@@ -1,6 +1,8 @@
 import streamlit as st
 import pandas as pd
 
+st.logo('images/Goethe-Logo.jpg')
+st.sidebar.image('images/Goethe-Logo.jpg')
 
 st.header('Alle Veranstaltungen')
 

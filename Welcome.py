@@ -1,15 +1,15 @@
 import streamlit as st
-import json
 import utils
 
+
+st.logo('images/Goethe-Logo.jpg')
+st.sidebar.image('images/Goethe-Logo.jpg')
 # if 'all_modules' not in st.session_state:
 #     st.session_state.all_modules = {}
 
 st.session_state.all_modules, st.session_state.all_module_names, st.session_state.bsc_modules, st.session_state.msc_modules = utils.initialise_all_modules()
 st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(drop=True)
 st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
-
-st.logo('images/Goethe-Logo.jpg')
 
 # # Volltextsuche
 # def search_all(data, search_query):
@@ -56,6 +56,3 @@ st.markdown('''
             - Kommentare am Besten ins Feedback schreiben, das geht in ein Sheet, in dem alles gesammelt wird und dort entsprechend abgekakt werden kann.
             - Die Modulbucheinträge werden derzeit abgeglichen, und sind daher in Teilen noch fehlerhaft und/oder unvollständig.
             ''')
-
-
-st.sidebar.image('images/Goethe-Logo.jpg')

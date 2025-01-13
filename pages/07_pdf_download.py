@@ -1,5 +1,8 @@
 import streamlit as st
 
+st.logo('images/Goethe-Logo.jpg')
+st.sidebar.image('images/Goethe-Logo.jpg')
+
 st.header('Das aktuelle Modulhandbuch als pdf')
 
 st.markdown('''

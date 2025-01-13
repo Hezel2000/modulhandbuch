@@ -3,6 +3,9 @@ from oauth2client.service_account import ServiceAccountCredentials
 import gspread
 import json
 
+st.logo('images/Goethe-Logo.jpg')
+st.sidebar.image('images/Goethe-Logo.jpg')
+
 # Function to connect to Google Sheet
 def connect_to_gsheet():
     scope = ["https://spreadsheets.google.com/feeds", "https://www.googleapis.com/auth/drive"]
@@ -38,6 +41,3 @@ with st.form("feedback_form"):
                 st.error(f"Failed to save feedback. Error: {e}")
         else:
             st.error("Das Feedback-Feld muss ausgefüllt sein.")
-
-
-st.sidebar.image('images/Goethe-Logo.jpg')

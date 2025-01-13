@@ -1,8 +1,9 @@
 import streamlit as st
-import os
-import json
 import utils
 
+
+st.logo('images/Goethe-Logo.jpg')
+st.sidebar.image('images/Goethe-Logo.jpg')
 # folder_path = 'Module als json'
 # json_files = [f for f in os.listdir(folder_path) if f.endswith('.json')]
 
@@ -27,6 +28,3 @@ with tab1:
 with tab2:
     # utils.results_modules(utils.sort_MSc_modules(data), 'alle_module_msc')
     utils.results_modules(utils.sort_modules(st.session_state.msc_modules), 'alle_module_bsc')
-
-
-st.sidebar.image('images/Goethe-Logo.jpg')
