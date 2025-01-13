@@ -42,17 +42,24 @@ def search_all(data, search_query):
 
 st.subheader('Willkommen beim digitalen Modulhandbuch des IfG')
 
-st.markdown('''
-            :orange[Die Einträge in diesem digitalen Modulhandbuch werden zwar von der Studienkommission gepflegt, sind aber dennoch **rechtlich nicht bindend**.  
-            Rechtlich gelten ausschließlich das offizielle Modulhandbuch (s. unten) zusammen mit den beschlossenen Änderungen durch die Studienkommission.]
 
-            Das offizielle Modulhandbuch ist [hier](https://www.uni-frankfurt.de/89797195/Modulhandbuch_Geowissenschaften.pdf) zu finden. Beschlossene Änderungen durch die Studienkommission sind zu beachten.
-            
-            Alle weiteren Informationen zum Studium gibt es [hier](https://www.uni-frankfurt.de/45741218/Willkommen_am_Institut_für_Geowissenschaften?legacy_request=1).
-            ''')
+with st.expander(':orange[Haftungsausschluss]'):
+    st.info('''
+    :orange[Die Einträge in diesem digitalen Modulhandbuch werden zwar von der Studienkommission gepflegt, sind aber dennoch **rechtlich nicht bindend**.  
+    Rechtlich gelten ausschließlich das offizielle Modulhandbuch (s. unten) zusammen mit den beschlossenen Änderungen durch die Studienkommission.]
+
+    Das offizielle Modulhandbuch ist [hier](https://www.uni-frankfurt.de/89797195/Modulhandbuch_Geowissenschaften.pdf) zu finden. Beschlossene Änderungen durch die Studienkommission sind zu beachten.
+
+    Alle weiteren Informationen zum Studium gibt es [hier](https://www.uni-frankfurt.de/45741218/Willkommen_am_Institut_für_Geowissenschaften?legacy_request=1).
+''')
+
+
 
 st.subheader(''':blue[Kurzanleitung]''')
 st.markdown('''
+            **:green[Navigation]**  
+            Bei kleinen Bildschirmen wie z.B. Mobilgeräten wird die Navigationsleiste zur Linken eventuell versteckt. Mit dem kleinen Pfeil links oben lässt sich die Navitationsleiste ausklappen.
+            
             **:green[Tabellen]**  
             In Tabellen kann je nach Bildschirmgröße nach unten und/oder rechts gescrollt werden.  
             Durch einen Klick auf einen Spalten-Titel wird die gesamte Tabelle nach der entsprechenden Spalte sortiert.  
