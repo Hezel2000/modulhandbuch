@@ -13,7 +13,7 @@ def connect_to_gsheet():
     return sheet
 
 
-st.title("Feedback")
+st.header("Feedback")
 
 with st.form("feedback_form"):
     name = st.text_input("Name (optional):")

@@ -12,8 +12,8 @@ for json_file in json_files:
     with open(os.path.join(folder_path, json_file), 'r') as file:
         data[json_file] = json.load(file)
 
-# st.write(data)
-# st.write(st.session_state.bsc_modules)
+
+st.header('Alle Module')
 
 tab1, tab2 = st.tabs(['BSc', 'MSc'])
 
