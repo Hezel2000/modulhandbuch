@@ -21,7 +21,7 @@ st.header("Feedback")
 with st.form("feedback_form"):
     name = st.text_input("Name (optional):")
     email = st.text_input("Email (optional):")
-    feedback = st.text_area("Dein Feedback:")
+    feedback = st.text_area("Feedback:")
     st.write(':grey[Bewerte das online Modulhandbuch (optional)]')
     rating = st.feedback(options="stars")
     submitted = st.form_submit_button("Submit")

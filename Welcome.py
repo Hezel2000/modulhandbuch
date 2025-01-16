@@ -54,6 +54,6 @@ st.subheader(''':blue[Bemerkungen]''')
 st.markdown('''
             - Diese Version ist zunächst für eine interne Evaluationsphase gedacht.
             - Im Moment geht es darum einmal zu schauen, ob so alles passt, und wie die Funktionalität erweitert/verbessert/angepasst/... werden könnte. Außerdem kann ein bisschen gelernt werden, wie man die Einträge aktualisiert.  
-            - Kommentare am Besten ins Feedback schreiben, das geht in ein Sheet, in dem alles gesammelt wird und dort entsprechend abgekakt werden kann.
+            - Kommentare am Besten ins Feedback-Formular schreiben, s. links ziemlich ganz unten. Das geht dann in ein Sheet, in dem alles gesammelt wird und dort entsprechend abgehakt werden kann.
             - Die Modulbucheinträge werden derzeit abgeglichen, und sind daher in Teilen noch fehlerhaft und/oder unvollständig.
             ''')
