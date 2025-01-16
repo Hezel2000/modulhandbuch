@@ -16,7 +16,7 @@ st.sidebar.image('images/Goethe-Logo.jpg')
 st.session_state.all_modules, st.session_state.all_module_names, st.session_state.bsc_modules, st.session_state.msc_modules = utils.initialise_all_modules()
 
 
-st.header('Alle Module')
+st.subheader('Alle Module')
 
 tab1, tab2 = st.tabs(['BSc', 'MSc'])
 

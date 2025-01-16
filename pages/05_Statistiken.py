@@ -10,7 +10,7 @@ st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(
 
 stats_all_lectures = pd.concat([st.session_state.all_bsc_lectures, st.session_state.all_msc_lectures], ignore_index=True)
 
-st.header('Statistiken')
+st.subheader('Statistiken')
 
 overview_modules_lectures = pd.DataFrame([
     ['Module insgesamt', len(st.session_state.all_modules)],

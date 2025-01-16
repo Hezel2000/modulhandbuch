@@ -9,7 +9,7 @@ st.session_state.all_bsc_lectures = utils.return_all_bsc_lectures().reset_index(
 st.session_state.all_msc_lectures = utils.return_all_msc_lectures().reset_index(drop=True)
 
 
-st.header('Alle Veranstaltungen')
+st.subheader('Alle Veranstaltungen')
 
 st.logo('images/Goethe-Logo.jpg')
 
