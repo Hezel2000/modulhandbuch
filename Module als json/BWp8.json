@@ -18,21 +18,21 @@
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Silke Voigt",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "Aktive Teilnahme in allen Übungen",
+        "Teilnahmenachweise": "",
         "Leistungsnachweise": "\"Petrologie und Diagenese der Sedimentgesteine\": Klausur (90 min)\n\"Sedimentäre Fazies\": Fachgespräch (30 min)\n\"GIS für Geowissenschaftler*innen\": Klausur (90 min)\nBericht zu \"Geländeübung\""
     },
     "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
         [ "Petrologie und Diagenese der Sedimentgesteine", "V+Ü", 3, 3, "", "", "", "", "X", "X"],
         [ "Sedimentäre Fazies", "V+Ü", 3, 3, "", "", "", "", "X", "X"],
-        [ "GIS für Geowissenschaftler*innen", "V+Ü", 3, 3, "", "", "", "", "X", "X"],
+        [ "GIS für Geowissenschaftler*innen", "V+Ü", 2, 3, "", "", "", "", "X", "X"],
         [ "Geländeübung", "GÜ", "5 Tage", 2, "", "", "", "", "X", "X"],
         [ "Modulprüfung", "keine", "", "", "", "", "", "", "", "" ],
         [ "Summe", "", "", 8, "", "", "", "", "", "" ]

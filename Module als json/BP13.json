@@ -18,14 +18,14 @@
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
-        "Leistungsnachweise": "Bestehen der Übungen; die Übungsleistung in der Veranstaltung \"Statistische Datenauswertung\" kann mit bis zu 25% notenverbessernd berücksichtigt werden"
+        "Teilnahmenachweise": "keine",
+        "Leistungsnachweise": "Erfolgreich absolvierte Übungsaufgaben"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Bericht (ca. 8-10 Seiten) zu „Grundlagen wiss. Programmierung und Modellierung“ (exemplarisch vor inhaltlichem Abschluss des Moduls)",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

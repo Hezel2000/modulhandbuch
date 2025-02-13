@@ -4,9 +4,9 @@
     "Modul-Name-de": "Wissenschaftliche Projektarbeit",
     "Modul-Typ": "Pflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "20 CP = 600 h",
-    "Anzahl SWS": "SWS",
-    "Kontaktstudium": "keine",
-    "Selbststudium": "600 h",
+    "Anzahl SWS": "2 SWS, 12 Monate",
+    "Kontaktstudium": "30",
+    "Selbststudium": "570 h",
     "Inhalte": "Dieses Modul ist forschungs- und praxisorientiert. Hier wird ein selbstständiges Forschungsprojekt unter Betreuung einer nach §21 berechtigten Person durchgeführt. Die Arbeit behandelt eine geowissenschaftliche Fragestellung und beinhaltet praktische Tätigkeiten wie Literaturrecherche, Einarbeitung in und Anwendung von unterschiedlichen technischen Methoden und/oder kurze Geländeaufenthalte. Das Thema muss thematisch im Zusammenhang mit dem gewählten Kernfach stehen und wird zusammen mit der Betreuerin oder dem Betreuer festgelegt. Die selbstständige Forschung dient als Basis für die Erstellung eines ca. 20-seitigen Berichts. In Absprache mit der Betreuerin / dem Betreuer kann der Bericht die Form eines Forschungsantrages haben.",
     "Lernergebnisse / Kompetenzziele": "Die selbstständige Bearbeitung einer geowissenschaftlichen Fragestellung wird geübt und dient als Einstieg in die wissenschaftliche Forschung.\nHierzu werden\n* bereits gelernte geowissenschaftliche Inhalte und Konzepte zum Lösen neuer Fragestellungen angewendet\n* verschiedene geowissenschaftliche Arbeitsmethoden eingesetzt, um Daten zu erstellen und interpretieren\n* Zusammenhänge identifiziert und analysiert\n* Berechnungen, Bestimmungen und Beschreibungen von Forschungsobjekten bzw. Daten durchgeführt und verglichen\n* die Ergebnisse und deren Synthese schriftlich zusammengestellt und erläutert",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
@@ -14,7 +14,7 @@
     "Organisatorische Hinweise": "Bei der Bewertung der schriftlichen Ausarbeitung sind von der Betreuerin / dem Betreuer die Ausführung und das Engagement der/des Studierenden beim praktischen Teil mit zu berücksichtigen.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "Jedes Semester",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Alan Woodland",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
@@ -22,15 +22,16 @@
         "Leistungsnachweise": "keine"
     },
     "Lehr- / Lernformen": "Selbständige wissenschaftliche Arbeit",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Bericht (ca. 20 Seiten)",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [ "Wissenschaftliche Projektarbeit, Schreiben eines Berichts", "Projektarbeit", "12 Monate", "20", "", "X", "X", "" ],
+        [ "Wissenschaftliche Projektarbeit, Schreiben eines Berichts", "Projektarbeit", "12 Monate", 18, "", "X", "X", "" ],
         [ "Modulprüfung", "Bericht", "", "", "", "", "X", "" ],
+        [ "Arbeitsgruppenkolloquium oder regelmäßige Kontaktstunde", "Projekt", 2, 2, "", "", "", "" ],
         [ "Summe", "", 2, 20, "", "", "", "" ]
     ],
     "Bemerkungen": "keine",

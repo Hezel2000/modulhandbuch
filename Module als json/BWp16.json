@@ -11,7 +11,7 @@
     "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* stellen ihre geowissenschaftlichen Kenntnisse auf eine breitere wissenschaftliche Basis\n* erweitern ihre fachspezifischen Kenntnisse und Fähigkeiten in den gewählten Bereichen\n* sind in der Lage die vermittelten wissenschaftlichen Methoden und Kenntnisse angemessen anzuwenden",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
     "Empfohlene Voraussetzungen": "keine",
-    "Organisatorische Hinweise": "Mindestens 4 der 8 CPs müssen als Prüfungsleistung abgeschlossen werden. Die Note des Optional-Moduls geht nicht in die Bachelornote mit ein.\nFür die Absolvierung des Moduls findet die Prüfungsordnung Anwendung, in deren Rahmen die gewählte Veranstaltung / das gewählte Modul angeboten wird.",
+    "Organisatorische Hinweise": "Für die Absolvierung des Moduls findet die Prüfungsordnung Anwendung, in deren Rahmen die gewählte Veranstaltung / das gewählte Modul angeboten wird.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
     "Häufigkeit des Angebots": "variabel",
@@ -24,13 +24,12 @@
     "Lehr- / Lernformen": "Vorlesung, Übung, Seminar, Praktikum",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Je nach gewählten Veranstaltungen/Modulen",
         "kumulative Modulprüfung bestehend aus": "Je nach gewählten Veranstaltungen/Modulen",
-        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": "Mindestens 4 der 8 CPs müssen als Prüfungsleistung abgeschlossen werden. CP-gewichtetes Mittel der maximal zwei besten Noten der Prüfungsleistungen."
     },
     "Semester-Tabelle": [
         [ "Veranstaltungen im Umfang von mind. 8 CP", "V, Ü, S, Pr", "variabel", 8, "", "", "", "X", "X", "X" ],
-        [ "X", "X", "X", "", "", "", "", "", "", "" ],
         [ "Modulprüfung", "variabel", "", "", "", "", "", "", "", "" ],
         [ "Summe", "", "", 8, "", "", "", "", "", "" ]
     ],

@@ -24,13 +24,13 @@
     "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min.) zu \"Tektonische und gefügekundliche Arbeitsweisen\" oder zu \"Geologische 3D-Strukturen\"",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
-        [ "Tektonische und gefügekundliche Arbeitsweisen", "V+Ü", 3, 3, "", "", "", "X", "X", "X"],
+        [ "Tektonische und gefügekundliche Arbeitsweisen", "V+Ü", "1+2", 3, "", "", "", "X", "X", "X"],
         [ "Geologische 3D-Strukturen", "V+Ü", 2, 3, "", "", "", "X", "X", "X"],
         [ "Tektonische Geländeübung, 3 Tage", "GÜ", "3 Tage", 2, "", "", "", "X", "X", "X"],
         [ "Fortgeschrittenen-Kartierübung", "GÜ", "10 Tage", 4, "", "", "", "X", "X", ""],

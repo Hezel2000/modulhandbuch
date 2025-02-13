@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "Abschluss der Module BP15 \"Mathematik\" und BP16 \"Physik\"",
     "Organisatorische Hinweise": "",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Mathematik, Physik, Geographie",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Mathematik, Informatik, Physik, Geographie",
     "Häufigkeit des Angebots": "jährlich",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge",
@@ -29,8 +29,8 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [ "Geophysik 1", "V+Ü", 3, 3, "", "", "X", "", "", "" ],
-        [ "Geophysik 2", "V+Ü", 3, 4, "", "", "", "X", "", "" ],
+        [ "Geophysik 1", "V+Ü", "2+1", 3, "", "", "X", "", "", "" ],
+        [ "Geophysik 2", "V+Ü", "2+1", 4, "", "", "", "X", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "X", "", "" ],
         [ "Summe", "", 6, 7, "", "", "", "", "", "" ]
     ],

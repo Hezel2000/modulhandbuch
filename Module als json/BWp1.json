@@ -2,7 +2,7 @@
     "Modul-Code": "BWp1",
     "Modul-Name-en": "Geophysical Methods",
     "Modul-Name-de": "Geophysikalische Methoden",
-    "Modul-Typ": "",
+    "Modul-Typ": "Wahlpflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
     "Anzahl SWS": "6 SWS",
     "Kontaktstudium": "6 SWS / 90 h",
@@ -21,17 +21,17 @@
         "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
         "Leistungsnachweise": "keine"
     },
-    "Lehr- / Lernformen": "Vorlesung, Übung",
+    "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung, Praktikum",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Geländeübung", "V+GÜ", "5 Tage", 4, "", "", "", "", "", "X"],
-        [ "Laborpraktikum", "V+Ü", 3, 4, "", "", "", "", "X", ""],
-        [ "Numerische Verfahren in der Geophysik", "V+Ü", 3, 4, "", "", "", "", "X", "X"],
+        [ "Laborpraktikum", "Pr", 3, 4, "", "", "", "", "X", ""],
+        [ "Numerische Verfahren in der Geophysik", "V+Ü", "2+1", 4, "", "", "", "", "X", "X"],
         [ "Einführung in die wissenschaftliche Projektarbeit", "Ü", 3, 4, "", "", "", "", "X", "X"],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
         [ "Summe", "", 6, 8, "", "", "", "", "", "" ]

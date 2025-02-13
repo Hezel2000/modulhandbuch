@@ -7,8 +7,8 @@
     "Anzahl SWS": "8 SWS",
     "Kontaktstudium": "8 SWS / 120 h",
     "Selbststudium": "120 h",
-    "Inhalte": "Das Modul besteht aus praktischen Übungen im Labor und im Gelände. Der Laborteil teilt sich auf Praktika im Bereich Mineralogie/Petrologie sowie Mineralogie/Kristallographie auf.\nPraktikum Mineralogie/Kristallographie\nGrundlagen, Durchführung und Auswertung von Experimenten in der Mineralogie. Diese beinhalten eine Auswahl aus den Themenbereichen: Synthesemethoden, Probencharakterisierung durch Röntgenpulvermessungen, Metrikbestimmung aus Einkristalldaten, Ultraschallspektroskopie, Ramanspektroskopie, nichtlineare Optik, Fluoreszenz, Kalorimetrie, Dilatometrie, Dichtemessungen, Widerstandsmessungen und der Bestimmung von Brechungsindices. Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Verbindungen.\nPraktikum Mineralogie/Petrologie\nPetrologisch-mineralogisch-geochemische Charakterisierung von Gesteinsproben und Quantifizierung ihrer Bildungsgeschichte. Die Methoden werden anhand praktischer Übungen vertieft und gefestigt.\nGeländeübung\nDiese bietet einen praktischen, geländebezogenen Einblick in die Entstehung von magmatischen und/oder metamorphen Gesteinen.",
-    "Lernergebnisse / Kompetenzziele": "* Erlernen der Grundlagen von experimentellen Methoden in der Mineralogie\n* Planen, durchführen, quantifizieren und bewerten von Laborexperimenten\n* Einordnen, identifizieren und analysieren von Mineralen und Gesteinen\n* Quantifizieren der Genese von Gesteinen mittels mineralogischer und petrologischer Methoden\nInterpretieren der Genese von magmatischen und/oder metamorphen Gesteinen anhand von Geländebefunden",
+    "Inhalte": "Das Modul besteht aus praktischen Übungen im Labor und im Gelände. Der Laborteil teilt sich auf Praktika im Bereich Mineralogie/Petrologie sowie Mineralogie/Kristallographie auf.\n *Praktikum Mineralogie/Kristallographie* \nGrundlagen, Durchführung und Auswertung von Experimenten in der Mineralogie. Diese beinhalten eine Auswahl aus den Themenbereichen: Synthesemethoden, Probencharakterisierung durch Röntgenpulvermessungen, Metrikbestimmung aus Einkristalldaten, Ultraschallspektroskopie, Ramanspektroskopie, nichtlineare Optik, Fluoreszenz, Kalorimetrie, Dilatometrie, Dichtemessungen, Widerstandsmessungen und der Bestimmung von Brechungsindices. Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Verbindungen.\n *Praktikum Mineralogie/Petrologie* \nPetrologisch-mineralogisch-geochemische Charakterisierung von Gesteinsproben und Quantifizierung ihrer Bildungsgeschichte. Die Methoden werden anhand praktischer Übungen vertieft und gefestigt.\n *Geländeübung*\n Diese bietet einen praktischen, geländebezogenen Einblick in die Entstehung von magmatischen und/oder metamorphen Gesteinen.",
+    "Lernergebnisse / Kompetenzziele": "\n* Erlernen der Grundlagen von experimentellen Methoden in der Mineralogie\n* Planen, durchführen, quantifizieren und bewerten von Laborexperimenten\n* Einordnen, identifizieren und analysieren von Mineralen und Gesteinen\n* Quantifizieren der Genese von Gesteinen mittels mineralogischer und petrologischer Methoden\n* Interpretieren der Genese von magmatischen und/oder metamorphen Gesteinen anhand von Geländebefunden",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der Module BP2 \"Geomaterialien\", BP4 \"Mineralogie\", BP7 \"Petrologie\", BP8 \"Geochemie\" und BP14 \"Geowissenschaften 4\"",
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP zu belegen.",
@@ -19,13 +19,13 @@
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Horst Marschall",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Aktive Teilnahme in den Praktika und Geländeübungen",
-        "Leistungsnachweise": "Antestate zu den Versuchen\nBericht zum 3 CP-Praktikum bzw. zu den Geländeübungen"
+        "Leistungsnachweise": "Antestate zu den Versuchen Bericht zum 3 CP-Praktikum (50 Seiten für 5 Experimente) bzw. zu den Geländeübungen (15-20 Seiten)"
     },
     "Lehr- / Lernformen": "Praktikum, Geländeübung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Bericht (90 Seiten für 9 Experimente) zum gewählten 5 CP-Praktikum",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

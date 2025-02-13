@@ -8,7 +8,7 @@
     "Kontaktstudium": "8 SWS / 120 h",
     "Selbststudium": "120 h",
     "Inhalte": "In dem Modul werden die Grundlagen der industriellen Verwendung von mineralischen Rohstoffen in der Herstellung von Gläsern, Keramiken und Bindemitteln vermittelt. Die Eigenschaften metallischer und keramischer Werkstoffe; sowie die Aufbereitung von mineralischen Rohstoffen und Erzen werden erklärt. Die Grundlagen von Beugungsmethoden für die Bestimmung von Strukturen von Gläsern, Keramiken, Bindemitteln und metallischen Werkstoffen werden erläutert und die Darstellung und Auswertung von Daten wird geübt.",
-    "Lernergebnisse / Kompetenzziele": "* Verständnis der materialwissenschaftlichen, chemischen und physikalischen Grundlagen der industriellen Verwendung von mineralischen und metallischen Rohstoffen\n* Verständnis der chemischen und physikalischen Grundlagen der Prozesse, die bei der Aufbereitung von mineralischen Rohstoffen und Erzen eingesetzt werden\n* Verständnis der Grundlagen der Qualitäts- und Prozesskontrolle in Aufbereitung, Prozessdurchführung und Anwendungen mit Beugungsuntersuchungen\n* Methoden- und Programmierkenntnisse zur Datenauswertung und -darstellung",
+    "Lernergebnisse / Kompetenzziele": "\n* Verständnis der materialwissenschaftlichen, chemischen und physikalischen Grundlagen der industriellen Verwendung von mineralischen und metallischen Rohstoffen\n* Verständnis der chemischen und physikalischen Grundlagen der Prozesse, die bei der Aufbereitung von mineralischen Rohstoffen und Erzen eingesetzt werden\n* Verständnis der Grundlagen der Qualitäts- und Prozesskontrolle in Aufbereitung, Prozessdurchführung und Anwendungen mit Beugungsuntersuchungen\n* Methoden- und Programmierkenntnisse zur Datenauswertung und -darstellung",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der Module BP1 \"Geomaterialien\" und BP4 \"Mineralogie\"",
     "Empfohlene Voraussetzungen": "Lineare Algebra, trigonometrische Funktionen, komplexe Zahlen\nErfolgreiche Teilnahme an Physik I, Mathematik I und Chemie",
     "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP zu belegen, wobei die Veranstaltung \"Glas, Keramik, Bindemittel\" verpflichtend ist.",
@@ -18,22 +18,22 @@
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Björn Winkler",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "Aktive Teilnahme in allen Übungen und im Seminar",
-        "Leistungsnachweise": "\"Metallische Werkstoffe\": Vortrag mit Ausarbeitung\n\"Diffraktion\": Übungen als Prüfungsvorleistungen\n\"Aufbereitung\": Vortrag mit Ausarbeitung\n\"Seminar\": Vortrag mit Ausarbeitung"
+        "Teilnahmenachweise": "Aktive Teilnahme im Seminar",
+        "Leistungsnachweise": "\"Metallische Werkstoffe\": Vortrag (20 min) mit Ausarbeitung (10 Seiten) \"Diffraktion\": Übungsaufgaben als Prüfungsvorleistungen \"Aufbereitung\": Vortrag (10 min) mit Ausarbeitung (5 Seiten) \"Seminar\": Vortrag (20 min) mit Ausarbeitung (10 Seiten) Datendarstellung: Hausaufgaben"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung, Seminar",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) über die Inhalte der gewählten Veranstaltung",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Glas, Keramik, Bindemittel", "V+Ü", 2, 2, "", "", "", "X", "X", "X"],
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
         [ "Metallische Werkstoffe", "V+Ü", 1, 1, "", "", "", "X", "X", "X"],
-        [ "Aufbereitung", "V", 1, 1, "", "", "", "X", "X", "X"],
-        [ "Diffraktion", "V+Ü", 3, 3, "", "", "X", "X", "X"],
+        [ "Aufbereitung", "V+Ü", 1, 1, "", "", "", "X", "X", "X"],
+        [ "Diffraktion", "V+Ü", 3, 3, "", "", "", "X", "X", "X"],
         [ "Datendarstellung und -analyse", "V+Ü", 3, 3, "", "", "", "X", "X", "X"],
         [ "Seminar", "S", 2, 2, "", "", "", "X", "X", "X"],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "X", "X", "X"],

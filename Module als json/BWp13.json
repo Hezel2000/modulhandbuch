@@ -19,22 +19,22 @@
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Silke Voigt",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "keine",
-        "Leistungsnachweise": "\"Sedimentäre Lagerstätten\": schriftliche Ausarbeitung\n\"Magmatische und Hydrothermale Lagerstätten\": benotete Leistungsnachweis\n\"Aufbereitung\": Vortrag und schriftliche Ausarbeitung\nBericht zu \"Geländeübung\""
+        "Leistungsnachweise": "\"Sedimentäre Lagerstätten\": schriftliche Ausarbeitung (6-8 Seiten) \"Magmatische und Hydrothermale Lagerstätten\": schriftliche Ausarbeitung (6-8 Seiten) \"Aufbereitung\": Vortrag (10 min) und schriftliche Ausarbeitung (5 Seiten) Bericht (5-10 Seiten) zur \"Geländeübung\""
     },
     "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Sedimentäre Lagerstätten", "V+Ü", 2, 3, "", "", "", "", "X", "X"],
         [ "Magmatische und Hydrothermale Lagerstätten", "V+Ü", 2, 3, "", "", "", "", "X", "X"],
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
-        [ "Geländeübung", "Ü", "2 - 4 Tage", "1 - 2", "", "", "", "", "X", "X"],
+        [ "Geländeübung", "GÜ", "2 - 4 Tage", "1 - 2", "", "", "", "", "X", "X"],
         [ "Aufbereitung", "V+Ü", 1, 1, "", "", "", "", "X", "X"],
-        [ "Spezielle Themen", "V", 2, 2, "", "", "", "", "X", "X"],
+        [ "Spezielle Themen", "V+Ü", 2, 2, "", "", "", "", "X", "X"],
         [ "Modulprüfung", "keine", "", "", "", "", "", "", "", "" ],
         [ "Summe", "", 6, 8, "", "", "", "", "", "" ]
     ],

@@ -2,7 +2,7 @@
     "Modul-Code": "BWp2",
     "Modul-Name-en": "Advanced Geophysics",
     "Modul-Name-de": "Vertiefung Geophysik",
-    "Modul-Typ": "",
+    "Modul-Typ": "Wahlpflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
     "Anzahl SWS": "6 SWS",
     "Kontaktstudium": "6 SWS / 90 h",
@@ -19,19 +19,19 @@
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Georg Rümpker",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
-        "Leistungsnachweise": "Bestehen der Übungen"
+        "Leistungsnachweise": "Erfolgreiche Bearbeitung der Übungsaufgaben"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Mündl. Prüfung (ca. 60 min) oder Klausur (90 min) über die Inhalte der gewählten Lehrveranstaltungen",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [ "Seismologie", "V+Ü", 3, 4, "", "", "", "", "X", "X"],
-        [ "Geodynamik", "V+Ü", 3, 4, "", "", "", "", "X", "X"],
-        [ "Angewandte Methoden", "V+Ü", 3, 4, "", "", "", "", "X", "X"],
+        [ "Seismologie", "V+Ü", "2+1", 4, "", "", "", "", "X", "X"],
+        [ "Geodynamik", "V+Ü", "2+1", 4, "", "", "", "", "X", "X"],
+        [ "Angewandte Methoden", "V+Ü", "2+1", 4, "", "", "", "", "X", "X"],
         [ "Modulprüfung", "variabel", "", "", "", "", "", "", "X", "X"],
         [ "Summe", "", 6, 8, "", "", "", "", "", "" ]
     ],

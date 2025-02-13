@@ -1,36 +1,36 @@
 {
     "Modul-Code": "MP2",
-    "Modul-Name-en": "Professional profile",
+    "Modul-Name-en": "Wissenschaftskommunikation",
     "Modul-Name-de": "Profilbildung",
     "Modul-Typ": "Pflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "6 CP (insg.) = 180 h",
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "60 h",
     "Selbststudium": "120 h",
-    "Inhalte": "Bac-Seminar\nIn dem Seminar präsentieren die Studierenden in einem ca. 20-minütigen Vortrag die Ergebnisse aus ihren Bachelor-Arbeiten und haben in der anschließenden Diskussion die Gelegenheit diese zu diskutieren und zu reflektieren. Die didaktische Aufbereitung und Präsentation eines geowissenschaftlichen Themas werden wiederholt und das kritische Hinterfragen von eigenen Forschungsergebnissen sowie der Umgang in und mit wissenschaftlicher Diskussion werden geschult.\nTutoring/Mentoring\nIn der Veranstaltung vermitteln die Studierenden in der Rolle von Tutoren bzw. Mentoren Studierenden des 2. Bachelor-Fachsemesters im Rahmen der Veranstaltung \"Wissenschaftliches Arbeiten 1\" forschungs- und berufsrelevante Schlüsselqualifikationen. Die Tutoren/Mentoren leiten die Bachelor-Studierenden in Kleingruppen an und erwerben und erweitern dabei nach dem Prinzip des \"lehrenden Lernens\" persönliche Kompetenzen in der Vermittlung von wissenschaftlichen Arbeitsweisen sowie Forschungs-, Präsentations- und Schreibmethoden. Die Tutoren/Mentoren selbst werden von Dozenten der Geowissenschaften fachlich und didaktisch in vorbereitenden Seminaren geschult und vorbereitet. Am Ende der Veranstaltung dokumentieren und reflektieren die Studierenden ihre Tätigkeiten in einem schriftlichen Bericht.",
+    "Inhalte": "*Bac-Seminar*\n In dem Seminar präsentieren die Studierenden in einem ca. 20-minütigen Vortrag die Ergebnisse aus ihren Bachelor-Arbeiten und haben in der anschließenden Diskussion die Gelegenheit diese zu diskutieren und zu reflektieren. Die didaktische Aufbereitung und Präsentation eines geowissenschaftlichen Themas werden wiederholt und das kritische Hinterfragen von eigenen Forschungsergebnissen sowie der Umgang in und mit wissenschaftlicher Diskussion werden geschult.\n *Tutoring* \nIn der Veranstaltung vermitteln die Studierenden in der Rolle von Tutoren bzw. Mentoren Studierenden des 2. Bachelor-Fachsemesters im Rahmen der Veranstaltung \"Wissenschaftliches Arbeiten 1\" forschungs- und berufsrelevante Schlüsselqualifikationen. Die Tutoren/Mentoren leiten die Bachelor-Studierenden in Kleingruppen an und erwerben und erweitern dabei nach dem Prinzip des \"lehrenden Lernens\" persönliche Kompetenzen in der Vermittlung von wissenschaftlichen Arbeitsweisen sowie Forschungs-, Präsentations- und Schreibmethoden. Die Tutoren/Mentoren selbst werden von Dozenten der Geowissenschaften fachlich und didaktisch in vorbereitenden Seminaren geschult und vorbereitet. Am Ende der Veranstaltung dokumentieren und reflektieren die Studierenden ihre Tätigkeiten in einem schriftlichen Bericht.",
     "Lernergebnisse / Kompetenzziele": "Die Studierenden sind in der Lage\n* Präsentationstechniken anzuwenden (visualisieren, präsentieren, kommunizieren)\n* Eigene wissenschaftliche Daten in einem Vortrag aufzubereiten und zu präsentieren\n* Eigene Forschungsdaten zu diskutieren und wissenschaftlich zu argumentieren\n* Inhalte zu wissenschaftlichen Arbeitsweisen selbst zu vermitteln\n* Berufsrelevante Schlüsselqualifikationen im kommunikativen und sozialen Bereich anzuwenden\n* Bachelor-Studierende in Kleingruppen anzuleiten\n* Ihre Arbeit angemessen zu dokumentieren und zu reflektieren",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
     "Empfohlene Voraussetzungen": "keine",
-    "Organisatorische Hinweise": "Der/die Prüfer*in kann bei der Modulabschlussnote die Qualität des Berichts und der Lehrprobe zu \"Tutoring/Mentoring\" mit bis zu 25% notenverbessernd berücksichtigen.",
+    "Organisatorische Hinweise": "",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "jährlich",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Dr. Angela Helbling",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "Aktive Teilnahme in \"Bac-Seminar\" und \"Tutoring/Mentoring\"",
-        "Leistungsnachweise": "Bericht und Lehrprobe zu \"Tutoring/Mentoring\" (kann mit bis zu 25% notenverbessernd berücksichtigt werden)"
+        "Teilnahmenachweise": "Aktive Teilnahme in \"Bac-Seminar\" und \"Tutoring\"",
+        "Leistungsnachweise": "Bericht und Vortrag (Lehrprobe, ca. 30 min) zu \"Tutoring\""
     },
     "Lehr- / Lernformen": "Seminar, Vorlesung, Übung",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Vortrag zu \"Bac-Seminar\"",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Bac-Seminar", "S", 2, 2, "X", "", "", "" ],
-        [ "Tutoring/Mentoring", "S+V+Ü", 2, 4, "", "X", "", "" ],
+        [ "Tutoring", "S+Ü", "1+1", 4, "", "X", "", "" ],
         [ "Modulprüfung", "Vortrag", "", "", "X", "", "", "" ],
         [ "Summe", "", 4, 6, "", "", "", "" ]
     ],

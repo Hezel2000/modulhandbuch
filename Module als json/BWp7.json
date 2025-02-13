@@ -19,21 +19,21 @@
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Alan B. Woodland",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "keine",
-        "Leistungsnachweise": "Erfolgreiche Teilnahme an \"Spezielle Themen der Petrologie\""
+        "Leistungsnachweise": "Vortrag (20 min) oder schriftliche Ausarbeitung (8 – 10 Seiten) zu \"Spezielle Themen der Petrologie\""
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) über die Inhalte von 2 der gewählten Lehrveranstaltungen im Umfang von 3 SWS",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
-        [ "Petrologie der", "magmatischen Gesteine", "V+Ü", 3, 3, "", "", "", "", "X"],
-        [ "Petrologie der", "metamorphen Gesteine", "V+Ü", 3, 3, "", "", "", "", "X"],
+        [ "Petrologie der ", "V+Ü", 3, 3, "", "", "", "", "", "X"],
+        [ "Petrologie der metamorphen Gesteine", "V+Ü", 3, 3, "", "", "", "", "", "X"],
         [ "Petrologie und Diagenese der Sedimentgesteine", "V+Ü", 3, 3, "", "", "", "", "X", ""],
-        [ "Spezielle Themen der", "Petrologie", "V", 2, 2, "", "", "", "X", "X"],
+        [ "Spezielle Themen der Petrologie", "V", 2, 2, "", "", "", "", "X", "X"],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "X", "X"],
         [ "Summe:", "", "8 - 9", "8 - 9", "", "", "", "", "", "" ]
     ],

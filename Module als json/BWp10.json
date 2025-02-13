@@ -14,24 +14,24 @@
     "Organisatorische Hinweise": "keine",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc. Chemie, M.Sc. Umweltwissenschaften",
-    "Häufigkeit des Angebots": "jährlich",
+    "Häufigkeit des Angebots": "Jährlich, \"Paläozeanographie\" im WiSe, \"Isotopengeochemie\" im SoSe",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Wolfgang Müller",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Aktive Teilnahme an allen Übungen",
-        "Leistungsnachweise": "Erfolgreich absolvierte Übungen oder Seminarvortrag zu \"Spezielle Themen\""
+        "Leistungsnachweise": "Erfolgreich absolvierte Übungsaufgaben in \"Isotopengeochemie\" oder Seminarvortrag (20 min) zu \"Spezielle Themen“"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung, Seminar",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur exemplarisch zu Inhalten der Veranstaltungen \"Isotopengeochemie\" und \"Paläozeanographie\" (90 min)",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [ "Paläozeanographie", "V/Ü/S", 2, 3, "", "", "", "", "X", ""],
+        [ "Paläozeanographie", "V+Ü", 2, 3, "", "", "", "", "X", ""],
         [ "Isotopengeochemie", "V+Ü", 2, 3, "", "", "", "", "", "X"],
-        [ "Spezielle Themen", "V/Ü/S", 2, 2, "", "", "", "", "X", "X"],
+        [ "Spezielle Themen", "V+Ü/S", 2, 2, "", "", "", "", "X", "X"],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "X"],
         [ "Summe", "", 6, 8, "", "", "", "", "", "" ]
     ],

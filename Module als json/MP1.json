@@ -2,31 +2,31 @@
     "Modul-Code": "MP1",
     "Modul-Name-en": "Geoscience Seminars",
     "Modul-Name-de": "Geowissenschaftliche Seminare",
-    "Modul-Typ": "",
+    "Modul-Typ": "Pflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
     "Anzahl SWS": "6 SWS",
     "Kontaktstudium": "90 h",
     "Selbststudium": "150 h",
-    "Inhalte": "Das Modul umfasst zwei Fortgeschrittenen-Seminare sowie das Geowissenschaftliche Kolloquium des Instituts. Eines der Seminare muss aus dem gewählten Schwerpunktfach stammen, das andere kann aus einem anderen Bereich der Ergänzungsfücher gewählt werden.\nIm Rahmen der Seminare werden ausgewählte geowissenschaftliche Themen des Schwerpunktfaches oder benachbarter geowissenschaftlicher Disziplinen durch die Studierenden aktiv erarbeitet, präsentiert und diskutiert. In kleineren Gruppen wird gelernt, wichtige Themen in den Geowissenschaften durch selbständige Literaturarbeit aufzuarbeiten und in Vorträgen mündlich wiederzugeben. Wichtige Inhalte sind zudem die kritische Rezeption, das Hinterfragen und die Diskussion der vorgestellten Themen und Inhalte auf Basis der im Verlauf des Bachelor- und Masterstudiums erworbenen Kenntnisse. Die beiden Seminare müssen bei verschiedenen Dozenten belegt werden.\nIm Geowissenschaftlichen Kolloquium des Instituts lernen die Studierenden durch Vorträge externer Referenten die nationale und internationale Forschungslandschaft kennen. Neueste Forschungsergebnisse zu unterschiedlichsten Themen in einer stets wechselnden Vortragsreihe geben ideale Einblicke in aktive Forschung und stellen eine ideale Plattform zum Networking für eine spätere Karriere dar. Über zwei dieser Vorträge müssen Berichte verfasst werden, in denen die Inhalte beschrieben und zusammengefasst werden. Ein Termin aus der Reihe \"Berufskolloquium\", in dem externe Referenten*innen ihre geowissenschaftlichen Berufsfelder vorstellen, kann ebenfalls in das 2. Seminar \"Geowissenschaftliches Kolloquium\" eingebracht werden.",
+    "Inhalte": "Das Modul umfasst zwei Fortgeschrittenen-Seminare sowie das Geowissenschaftliche Kolloquium des Instituts. Eines der Seminare muss aus dem gewählten Schwerpunktfach stammen, das andere kann aus einem anderen Bereich der Ergänzungsfücher gewählt werden.\nIm Rahmen der *Seminare* werden ausgewählte geowissenschaftliche Themen des Schwerpunktfaches oder benachbarter geowissenschaftlicher Disziplinen durch die Studierenden aktiv erarbeitet, präsentiert und diskutiert. In kleineren Gruppen wird gelernt, wichtige Themen in den Geowissenschaften durch selbständige Literaturarbeit aufzuarbeiten und in Vorträgen mündlich wiederzugeben. Wichtige Inhalte sind zudem die kritische Rezeption, das Hinterfragen und die Diskussion der vorgestellten Themen und Inhalte auf Basis der im Verlauf des Bachelor- und Masterstudiums erworbenen Kenntnisse. Die beiden Seminare müssen bei verschiedenen Dozenten belegt werden.\nIm *Geowissenschaftlichen Kolloquium* des Instituts lernen die Studierenden durch Vorträge externer Referenten die nationale und internationale Forschungslandschaft kennen. Neueste Forschungsergebnisse zu unterschiedlichsten Themen in einer stets wechselnden Vortragsreihe geben ideale Einblicke in aktive Forschung und stellen eine ideale Plattform zum Networking für eine spätere Karriere dar. Über zwei dieser Vorträge müssen Berichte verfasst werden, in denen die Inhalte beschrieben und zusammengefasst werden. Ein Termin aus der Reihe \"Berufskolloquium\", in dem externe Referenten*innen ihre geowissenschaftlichen Berufsfelder vorstellen, kann ebenfalls in das 2. Seminar \"Geowissenschaftliches Kolloquium\" eingebracht werden.",
     "Lernergebnisse / Kompetenzziele": "Ziele des Moduls sind neben dem vertieften fachspezifischen Auseinandersetzen mit geowissenschaftlicher Fachliteratur und dem kritischen Evaluieren derselben eine Reihe von nicht fachspezifischen Aspekten. Diese umfassen Rhetorik, umfangreiche Literaturrecherche, graphische Darstellung von Daten, Präsentationstechniken, sowie das Schulen fachspezifischer Fremdsprachenkenntnisse.\nDie Studierenden\n* erklären komplizierte und oft kontroverse Sachverhalte und lernen diese zusammenzufassen\n* evaluieren Daten, präsentieren diese und müssen die kritische Rezeption der vorgestellten Resultate begründen\n* festigen ihre mündlichen und schriftlichen Kommunikationsfähigkeiten\n* erhalten detaillierte Einblicke in Forschungsfelder und -inhalte\n* erhalten Einblicke in mögliche Berufsfelder von Geowissenschaftlern",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
     "Empfohlene Voraussetzungen": "keine",
-    "Organisatorische Hinweise": "Die Reihenfolge der Seminare kann flexibel gehandhabt werden.",
+    "Organisatorische Hinweise": "Die Reihenfolge der Seminare kann flexibel gehandhabt werden. Seminarleistungen während Auslandsaufenthalten sind zulässig.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "Nach Angebot",
     "Dauer des Moduls": "3 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Wolfgang Müller",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Regelmäßige Teilnahme in \"Geowissenschaftliches Kolloquium\"\nAktive Teilnahme in den Seminaren",
-        "Leistungsnachweise": "2 Berichte zu \"Geowissenschaftliches Kolloquium\""
+        "Leistungsnachweise": "2 Berichte (3-4 Seiten) zu \"Geowissenschaftliches Kolloquium\""
     },
     "Lehr- / Lernformen": "Seminar",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "",
-        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+        "kumulative Modulprüfung bestehend aus": "Vorträge (ca. 25 min) in den beiden Seminaren",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": "Arithmetisches Mittel der Noten zu den beiden Seminar-Vorträgen"
     },
     "Semester-Tabelle": [
         [ "1. Seminar", "S", 2, 3, "X", "X", "X", "" ],

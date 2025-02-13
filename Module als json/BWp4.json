@@ -7,7 +7,7 @@
     "Anzahl SWS": "6 SWS",
     "Kontaktstudium": "6 SWS / 90 h",
     "Selbststudium": "150 h",
-    "Inhalte": "Materialanalytische Methoden - Übung\nDie Veranstaltung baut auf der Vorlesung zu \"Materialanalytische Methoden\" auf und dient als Ergänzung, um praktische Erfahrung an den Messinstrumenten zu erlangen.\nMikroanalytik 1\nDie Veranstaltung \"Mikroanalytik I - EPMA, REM und æ-XRF\" vermittelt grundlegende Kenntnisse zur Mikroanalytik mittels Elektronenmikroskopie und Röntgenfluoreszenz mit dem Ziel, selbständig Haupt- und Spurenelementanalysen an Geomaterialien durchzuführen. Die Veranstaltung beinhaltet neben praktischen Übungsstunden an den Geräten den theoretischen Hintergrund zum Aufbau, der Wirkungsweise und der Anwendung von Elektronenmikroskopen, insbesondere der Mikrosonde und dem Rasterelektronen-Mikroskop, sowie des Mikro-Röntgenfluoreszenzspektrometers.\nNanoanalytik 1\nEs werden Grundlagen zu analytischen Verfahren mit nanoskaliger Ortsauflösung vermittelt. Die Anwendung eines analytischen Groágeräts mit nanoskaliger Ortsauflösung (TEM, NanoSIMS, FIB, etc.) wird demonstriert und eingeübt.",
+    "Inhalte": "*Materialanalytische Methoden - Übung*\nDie Veranstaltung baut auf der Vorlesung zu \"Materialanalytische Methoden\" auf und dient als Ergänzung, um praktische Erfahrung an den Messinstrumenten zu erlangen.\n *Mikroanalytik 1* \nDie Veranstaltung \"Mikroanalytik I - EPMA, REM und æ-XRF\" vermittelt grundlegende Kenntnisse zur Mikroanalytik mittels Elektronenmikroskopie und Röntgenfluoreszenz mit dem Ziel, selbständig Haupt- und Spurenelementanalysen an Geomaterialien durchzuführen. Die Veranstaltung beinhaltet neben praktischen Übungsstunden an den Geräten den theoretischen Hintergrund zum Aufbau, der Wirkungsweise und der Anwendung von Elektronenmikroskopen, insbesondere der Mikrosonde und dem Rasterelektronen-Mikroskop, sowie des Mikro-Röntgenfluoreszenzspektrometers.\n *Nanoanalytik 1* \nEs werden Grundlagen zu analytischen Verfahren mit nanoskaliger Ortsauflösung vermittelt. Die Anwendung eines analytischen Großgeräts mit nanoskaliger Ortsauflösung (TEM, NanoSIMS, FIB, etc.) wird demonstriert und eingeübt.",
     "Lernergebnisse / Kompetenzziele": "Materialanalytische Methoden:\n* Entwickeln theoretischer und praktischer Fähigkeiten in der Anwendung materialanalytischer Methoden\nMikroanalytik 1 und Nanoanalytik 1:\n* Vertiefen von Kenntnissen analytischer Methoden mit mikro- und nanoskaliger Ortsauflösung\n* Erlangen erster praktischer Erfahrung mit dem Umgang, der Auswertung und dem Betrieb analytischer Messinstrumente auf der Nanoskala mit besonderer Berücksichtigung der Transmissionselektronenmikroskopie\nDiffraktion:\n* Vertiefen von Kenntnissen der Grundlagen von Beugungsuntersuchungen (Röntgen-, Neutronen-, Elektronenbeugung) und\n* Erlangen praktischer Erfahrung mit der Auswertung von Röntgenpulverdaten (Indizierung, le Bail, Rietveld).\nSpektroskopie:\n* Entwickeln von Kenntnissen der Grundlagen und Anwendungsbereiche von schwingungsspektroskopischen Methoden (Gitterdynamik, Symmetriebetrachtungen), sowie von spektroskopischen Methoden mit Gamma- und Röntgenstrahlung",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der Module BP2 \"Geomaterialien\" und BP4 \"Mineralogie\"",
     "Empfohlene Voraussetzungen": "keine",
@@ -18,20 +18,20 @@
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Frank Brenker",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "Regelmäáige Teilnahme an den Übungen",
+        "Teilnahmenachweise": "Regelmäßige Teilnahme an den Übungen zu „Materialanalytische Methoden“",
         "Leistungsnachweise": "Berichte zu \"Materialanalytische Methoden - Übung\""
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) über die Inhalte der gewählten Veranstaltungen",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
-        [ "Materialanalytische", "Methoden - Übung", "Ü", 2, 2, "", "", "", "X", ""],
-        [ "Mikroanalytik 1", "V+Ü", 2, 2, "", "", "", "", "X", ""],
+        [ "Materialanalytische Methoden - Übung", "Ü", 2, 2, "", "", "", "X", ""],
+        [ "Mikroanalytik 1", "V+Ü", 2, 3, "", "", "", "", "X", ""],
         [ "Nanoanalytik 1", "V+Ü", 2, 3, "", "", "", "", "", "X"],
         [ "Diffraktion", "V+Ü", 3, 3, "", "", "", "", "X", ""],
         [ "Spektroskopie", "V+Ü", 2, 2, "", "", "", "", "", "X"],

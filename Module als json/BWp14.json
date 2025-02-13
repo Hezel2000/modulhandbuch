@@ -18,23 +18,23 @@
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Silke Voigt",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "Regelmäáige Teilnahme zu \"Sedimentologie im Labor\" und \"Sedimentologie im Gelände\"",
-        "Leistungsnachweise": "Berichte für \"Sedimentologie im Labor\" und \"Sedimentologie im Gelände\""
+        "Teilnahmenachweise": "Regelmäßige Teilnahme zu \"Sedimentologie im Labor\" und \"Sedimentologie im Gelände\"",
+        "Leistungsnachweise": "Berichte für \"Sedimentologie im Labor\" (ca. 20 Seiten) und \"Sedimentologie im Gelände\" (8-10 Seiten)"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung, Geländeübung",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) oder mündliche Prüfung (30 min) in Hydrogeologie oder Ingenieurgeologie (nach Maßgabe der TU Darmstadt)",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", "", "", "" ],
-        [ "Hydrogeologie", "V+Ü", 3, 4, "", "", "", "", "", "X"],
-        [ "Ingenieurgeologie", "V+Ü", 3, 4, "", "", "", "", "", "X"],
-        [ "Sedimentologie im Labor", "Ü", 1, 2, "", "", "", "", "", "X"],
-        [ "Sedimentologie im Gelände", "Ü", 1, 2, "", "", "", "", "", "X"],
-        [ "Modulprüfung", "Klausur oder mdl. Prüfung", "", "", "", "", "", "", "", "X"],
+        [ "Hydrogeologie", "V+Ü", 3, 4, "", "", "", "", "X", "X"],
+        [ "Ingenieurgeologie", "V+Ü", 3, 4, "", "", "", "", "X", "X"],
+        [ "Sedimentologie im Labor", "Ü", 1, 2, "", "", "", "", "X", "X"],
+        [ "Sedimentologie im Gelände", "GÜ", 1, 2, "", "", "", "", "X", "X"],
+        [ "Modulprüfung", "Klausur oder mdl. Prüfung", "", "", "", "", "", "", "X", "X"],
         [ "Summe", "", 6, 8, "", "", "", "", "", ""]
     ],
     "Bemerkungen": "keine",

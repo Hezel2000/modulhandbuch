@@ -2,7 +2,7 @@
     "Modul-Code": "BP6",
     "Modul-Name-en": "Environmental Dynamics",
     "Modul-Name-de": "Umweltdynamik",
-    "Modul-Typ": "Pflichtmodul (Importmodul)",
+    "Modul-Typ": "Pflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "6 CP (insg.) = 180 h",
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
@@ -11,7 +11,7 @@
     "Lernergebnisse / Kompetenzziele": "Lernziel in diesem Modul ist das Kennen und Verstehen fundamentaler Prozesse an der Erdoberfläche, im Ozean und in der Atmosphäre. Die Studierenden\n* beschreiben groáskalige Prozesse des Stoff- und Energietransportes der atmosphärischen und ozeanischen Zirkulation und deren Einfluss auf die Zusammensetzung des Meerwassers\n* erklären biogeochemische Prozesse im Ozean wie das Kalk-Kohlensäure Gleichgewicht und beurteilen deren Sensitivität im Zuge des globalen Klimawandels\n* unterscheiden Sedimente und Sedimentgesteine sowie deren wichtigste diagnostische Merkmale\n* erklären den Zusammenhang zwischen Umweltbedingungen, sedimentären Ablagerungsräumen und Fazies",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
     "Empfohlene Voraussetzungen": "Modulabschluss BP1 und BP2",
-    "Organisatorische Hinweise": "Das Modul umfasst zwei Vorlesungen mit Übungen. Die beiden Vorlesungen ergänzen sich inhaltlich und sollten in der Reihenfolge 1) \"Atmosphäre und Ozean\" und 2) \"Sedimentäre Systeme\" belegt werden.",
+    "Organisatorische Hinweise": "Das Modul umfasst zwei Vorlesungen mit Übungen. Die beiden Vorlesungen ergänzen sich inhaltlich und sollten in der Reihenfolge 1) \"Atmosphäre und Ozean\" und 2) \"Sedimentäre Systeme\" belegt werden. Die Übungsaufgaben zu beiden Veranstaltungen werden in OLAT bereitgestellt.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "Bachelor Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc. Geographie",
     "Häufigkeit des Angebots": "jährlich",
@@ -24,14 +24,14 @@
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Mündl. Prüfung (30 min) oder Klausur (90 min)",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Atmosphäre und Ozean", "V+Ü", 2, 3, "", "", "X", "", "", "" ],
         [ "Sedimentäre Systeme", "V+Ü", 2, 3, "", "", "", "X", "", "" ],
-        [ "Modulprüfung", "Mündliche Prüfung", "", "", "", "", "", "X", "", "" ],
+        [ "Modulprüfung", "Mündliche Prüfung oder Klausur", "", "", "", "", "", "X", "", "" ],
         [ "Summe", "", 4, 6, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",

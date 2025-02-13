@@ -4,17 +4,17 @@
     "Modul-Name-de": "Masterarbeit",
     "Modul-Typ": "Pflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "30 CP (insg.) = 900 h",
-    "Anzahl SWS": "SWS",
+    "Anzahl SWS": "6 Monate",
     "Kontaktstudium": "keine",
     "Selbststudium": "900 h",
-    "Inhalte": "Dieses Modul beinhaltet die Durchführung eines Masterarbeits-Projektes innerhalb von fünf Monaten mit anschließender Verteidigung der Ergebnisse im Rahmen der Disputation. In dem Projekt bearbeiten die Studierenden eine geowissenschaftliche Fragestellung nach den Regeln guter wissenschaftlicher Praxis. Sie generieren Datensätze, die sie mithilfe des während ihres Studiums erworbenen Wissens interpretieren, um daraus konzeptionelle Modelle im Gesamtzusammenhang des Systems Erde zu entwickeln und zu diskutieren. Neben der Vertiefung in einem geowissenschaftlichen Thema werden auch Soft Skills wie Organisation und Durchführung eines Projekts, Forschungsmanagement sowie wissenschaftliches Schreiben und Präsentationstechniken vertieft und gefestigt.",
+    "Inhalte": "Dieses Modul beinhaltet die Durchführung eines Masterarbeits-Projektes innerhalb von fünf Monaten mit anschließender Verteidigung der Ergebnisse im Rahmen der Disputation. In dem Projekt bearbeiten die Studierenden eine geowissenschaftliche Fragestellung nach den Regeln guter wissenschaftlicher Praxis. Sie generieren Datensätze, die sie mithilfe des während ihres Studiums erworbenen Wissens interpretieren, um daraus konzeptionelle Modelle im Gesamtzusammenhang des Systems Erde zu entwickeln und zu diskutieren. Neben der Vertiefung in einem geowissenschaftlichen Thema werden auch Soft Skills wie Organisation und Durchführung eines Projekts, Forschungsmanagement sowie wissenschaftliches Schreiben und Präsentationstechniken vertieft und gefestigt. Es wird eine schriftliche Arbeit angefertigt, deren Thema sich von MP3 unterscheidet. Die Betreuung der Arbeit erfolgt durch eine gemäß §21 berechtigte Person. Die bestandene Arbeit wird in einer mündlichen Prüfung (Disputation) mit einer Dauer von max. 45 Minuten verteidigt.",
     "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* bearbeiten unter Betreuung ausführlich eine geowissenschaftliche Fragestellung, zu der sie originäre Datensätze generieren und auswerten\n* verstehen komplexe Zusammenhänge im System Erde, entwickeln eigenständig konzeptionelle Modelle und diskutieren ihre Ergebnisse im Kontext des aktuellen Forschungsstandes\n* präsentieren ihre Ergebnisse und Schlussfolgerungen schriftlich und mündlich\n* vertiefen ihre Fähigkeiten in Selbstorganisation, Projektmanagement, guter wissenschaftlicher Praxis, Forschungsdatenmanagement und Präsentation",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der Module MP1 und MP2 sowie der Nachweis von mind. 60 CP",
     "Empfohlene Voraussetzungen": "keine",
-    "Organisatorische Hinweise": "Es wird eine schriftliche Arbeit eingereicht, die sich nicht in den Inhalten des MP3 erschüpft. Die Begutachtung erfolgt durch den/die Betreuer*in und eine/n Zweitgutachter*in. Die Betreuung der Arbeit erfolgt durch eine gemäß §21 berechtigte Person. Mit der Anmeldung zur Masterarbeit müssen Veranstaltungen des Masterstudienganges im Umfang von mindestens 60 CP nachgewiesen werden. Die schriftliche Arbeit wird in einer öffentlichen Disputation verteidigt, bei der beide Gutachter*innen der schriftlichen Arbeit anwesend und/oder die Prüfenden sein sollten. Bei Abwesenheit einer Gutachterin / eines Gutachters ist eine neue Prüferin / ein neuer Prüfer durch den Prüfungsausschuss zu bestätigen. Für die Dauer des Disputationsvortrags werden ca. 15 bis max. 20 Minuten, für die Gesamtdauer der Disputation max. 45 Minuten festgelegt. Vor der Disputation müssen die Prüfer*innen feststehen.",
+    "Organisatorische Hinweise": "Die Disputation ist hochschulöffentlich.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "ständig",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Vorsitzende/r des Prüfungsausschusses",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
@@ -22,15 +22,15 @@
         "Leistungsnachweise": "keine"
     },
     "Lehr- / Lernformen": "Selbstständige wissenschaftliche Arbeit",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "",
-        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+        "kumulative Modulprüfung bestehend aus": "Masterarbeit + Disputation",
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": "75% Masterarbeit + 25% Disputation"
     },
     "Semester-Tabelle": [
         [ "Masterarbeit + Disputation", "", "", 30, "", "", "", "X" ],
-        [ "Summe", "", 30, "", "", "", "", "" ]
+        [ "Summe", "", "", 30, "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [

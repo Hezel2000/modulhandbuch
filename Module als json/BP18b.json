@@ -7,19 +7,19 @@
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
     "Selbststudium": "30 h",
-    "Inhalte": "Durchführung von Experimenten unter Anleitung aus den Gebieten Mechanik, Thermodynamik, Elektrodynamik\nund Optik.",
+    "Inhalte": "Durchführung von Experimenten unter Anleitung aus den Gebieten Mechanik, Thermodynamik, Elektrodynamik und Optik.",
     "Lernergebnisse / Kompetenzziele": "Im Praktikum wenden die Studierenden durch das selbstständige Experimentieren die in den Vorlesungen vermittelten Grundlagen an und vertiefen dadurch ihre physikalischen Kenntnisse. Dazu gehören sowohl der Aufbau und die Durchführung von Versuchen aus gegebenen Bauteilen nach Anleitung als auch die Auswertung, Darstellung und Analyse der Messungen inklusive Fehlerrechnung. Bei der Auswahl der Versuche können die Interessen bzw. das Fachgebiet der Studierenden berücksichtigt werden. Zur Beschleunigung der Datenaufnahme bzw. der Auswertung werden in vielen Versuchen die Erfassung, Darstellung und Analyse der experimentellen Daten rechnergestützt durchgeführt, was auch der Förderung des physikalischen Verständnisses zugutekommt.",
-    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Für die Aufnahme in das Praktikum ist die Zulassung zu einer der Klausuren der Module NFPHY-VA1 oder NFPHY-VA2 erforderlich.",
-    "Empfohlene Voraussetzungen": "Inhalt des Moduls NFPHY-VA1",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Für die Aufnahme in das Praktikum ist die Zulassung zu einer der Klausuren der Module BP16a (NFPHY-VA1) oder BP16b (NFPHY-VA2) erforderlich.",
+    "Empfohlene Voraussetzungen": "Inhalt des Moduls BP16a (NFPHY-VA1)",
     "Organisatorische Hinweise": "Die Anmeldung zum Praktikum erfolgt online über das LSF. Für alle weiteren Informationen siehe ebenfalls den LSF-Eintrag des Praktikums.",
-    "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Physik / FB13",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc. Geowissenschaften / FB11",
+    "Zuordnung des Moduls (Studiengang / Fachbereich)": "BSc Physik / FB Physik",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "BSc Geowissenschaften, BSc Biochemie, BSc Chemie",
     "Häufigkeit des Angebots": "jedes Semester",
-    "Dauer des Moduls": "1 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. C. Krellner",
+    "Dauer des Moduls": "einsemestrig",
+    "Modulbeauftragte / Modulbeauftragter": "Krellner",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "regelmäáige Teilnahme am Praktikum",
-        "Leistungsnachweise": "Abgabe und Bestehen von Praktikumsprotokollen,\nBestehen des Abschlusskolloquiums (in Zweiergruppen, ca. 15 Min. pro Person) (weitere Details werden in der Praktikumsordnung festgelegt)"
+        "Teilnahmenachweise": "regelmäßige Teilnahme am Praktikum",
+        "Leistungsnachweise": "Abgabe und Bestehen von Praktikumsprotokollen,\n Bestehen des Fachgesprächs (in Zweiergruppen, ca. 15 Min. pro Person) (weitere Details werden in der Praktikumsordnung festgelegt)"
     },
     "Lehr- / Lernformen": "Praktikum",
     "Unterrichts- / Prüfungssprache": "Deutsch",
@@ -30,7 +30,6 @@
     },
     "Semester-Tabelle": [
         [ "Physikalisches Praktikum C für Nebenfachstudierende", "Pr", 4, 3, "X", "X", "", "", "", "" ],
-        [ "Modulprüfung", "", "", "", "", "", "", "", "", "" ],
         [ "Summe", "", 4, 3, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
