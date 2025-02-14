@@ -31,7 +31,7 @@
     "Semester-Tabelle": [
         [ "Mikropaläontologie", "V+Ü§", 2, 3, "", "", "", "", "X", ""],
         [ "Paläozeanographie", "V+Ü", 2, 3, "", "", "", "", "", "X"],
-        [ "Wirbeltierpaläontologie", "V+Ü", 2, 2, "", "", "", "", "X", ""],
+        [ "Spezielle Themen", "V+Ü", 2, 2, "", "", "", "", "X", ""],
         [ "Modulprüfung", "variabel", "", "", "", "", "", "", "", "X"],
         [ "X", "", "", "", "", "", "", "", "", "" ],
         [ "Summe", "", "6 SWS", 8, "", "", "", "", "", "" ]
@@ -41,6 +41,6 @@
         "2025-01-06"
     ],
     "Änderung": {
-        "2025-01-06": "Bereitstellung"
+        "2025-01-06": "Wirbeltierpaläontologie ab WS25/26: Spezielle Themen"
     }
 }

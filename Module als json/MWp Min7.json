@@ -8,23 +8,23 @@
     "Kontaktstudium": "8 SWS / 120 h",
     "Selbststudium": "120 h",
     "Inhalte": "Die Veranstaltung beinhaltet die Vorbereitung, Durchführung und Auswertung von Fortgeschrittenenpraktika zur Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Strukturen.",
-    "Lernergebnisse / Kompetenzziele": "* Vertiefte Erfahrung mit der Vorbereitung, Durchführung und Auswertung von Experimenten\n* Vertiefte Kenntnisse der Grundlagen der Röntgenpulverdiffraktometrie, Röntgeneinkristalldiffraktometrie, Ramanspektroskopie, Laserfluoreszenzspektroskopie, Mikrokalorimetrie, Ultraschallspektroskopie, DAC-basierten Messungen und weiterer Untersuchungsmethoden\n* Fortgeschrittene Kenntnisse in der Datenauswertung",
+    "Lernergebnisse / Kompetenzziele": "\n* Vertiefte Erfahrung mit der Vorbereitung, Durchführung und Auswertung von Experimenten\n* Vertiefte Kenntnisse der Grundlagen der Röntgenpulverdiffraktometrie, Röntgeneinkristalldiffraktometrie, Ramanspektroskopie, Laserfluoreszenzspektroskopie, Mikrokalorimetrie, Ultraschallspektroskopie, DAC-basierten Messungen und weiterer Untersuchungsmethoden\n* Fortgeschrittene Kenntnisse in der Datenauswertung",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Erfolgreiche Teilnahme an BSc-Modul \"Kristallographische Mineralogie\" oder gleichwertige Kenntnisse",
     "Empfohlene Voraussetzungen": "Lineare Algebra, trigonometrische Funktionen, komplexe Zahlen\nErfolgreiche Teilnahme an Physik I, Mathematik I und Chemie",
     "Organisatorische Hinweise": "keine",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB 11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "Jährlich im SoSe",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Björn Winkler",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "keine",
-        "Leistungsnachweise": "bewertete mündliche Prüfung (10 min) vor jedem Versuch (Antestat)"
+        "Teilnahmenachweise": "",
+        "Leistungsnachweise": "Antestat (10 min) vor jedem Versuch"
     },
     "Lehr- / Lernformen": "Praktikum",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Praktikumsbericht (6 Experimente, 15-20 Seiten pro Experiment)",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },

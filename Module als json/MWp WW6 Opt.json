@@ -4,16 +4,16 @@
     "Modul-Name-de": "Optional-Modul",
     "Modul-Typ": "Wahlpflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
-    "Anzahl SWS": "SWS",
+    "Anzahl SWS": "variabel",
     "Kontaktstudium": "variabel",
     "Selbststudium": "variabel",
     "Inhalte": "In dieses Modul können die Studierenden Veranstaltungen, die in einem sinnvollen Zusammenhang mit dem Master-Studium Geowissenschaften stehen, aus dem Studienangebot der Goethe-Universität einbringen. Weiterhin können Veranstaltungen des Instituts für Angewandte Geowissenschaften der TU Darmstadt sowie externe Veranstaltungen, wie z.B. Blockkurse oder Seminare der DMG (Deutsche Mineralogische Gesellschaft), der DGGV (Deutsche Geologische Gesellschaft - Geologische Vereinigung) oder des BDG (Bundesverband Deutscher Geowissenschaftler) eingebracht werden, sofern diese mit CPs belegt sind und mit einer Studien- oder Prüfungsleistung abschließen. Nach Genehmigung durch den Prüfungsausschuss können außerdem hochschulpolitische Aktivitäten bis zu einem Äquivalenzwert von 2 CP berücksichtigt werden. Das Modul kann auch als EDV-Modul gewählt werden. Die Zusammenstellung der Veranstaltungen erfolgt in Absprache mit dem/der Modulverantwortlichen.",
     "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* stellen ihre geowissenschaftlichen Kenntnisse auf eine breitere wissenschaftliche Basis\n* erweitern ihre fachspezifischen Kenntnisse und Fähigkeiten in den gewählten Bereichen\n* sind in der Lage die vermittelten wissenschaftlichen Methoden und Kenntnisse angemessen anzuwenden",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
     "Empfohlene Voraussetzungen": "keine",
-    "Organisatorische Hinweise": "Mindestens 4 der 8 CPs müssen als Prüfungsleistung abgeschlossen werden. Die Note des Optional-Moduls geht nicht in die Bachelornote mit ein.\nFür die Absolvierung des Moduls findet die Ordnung Anwendung, in deren Rahmen die gewählte Veranstaltung / das gewählte Modul angeboten wird.",
+    "Organisatorische Hinweise": "Für die Absolvierung des Moduls findet die Ordnung Anwendung, in deren Rahmen die gewählte Veranstaltung / das gewählte Modul angeboten wird. Mindestens 4 der 8 CPs müssen als Prüfungsleistung abgeschlossen werden. Die Note des Optional-Moduls geht nicht in die Masternote mit ein.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "",
     "Häufigkeit des Angebots": "variabel",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Dr. Frederik Kirst",
@@ -24,9 +24,9 @@
     "Lehr- / Lernformen": "Vorlesung, Übung, Seminar, Praktikum",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Je nach gewählten Veranstaltungen/Modulen",
         "kumulative Modulprüfung bestehend aus": "Je nach gewählten Veranstaltungen/Modulen",
-        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": "CP-gewichtetes Mittel der maximal zwei besten Noten der Prüfungsleistungen"
     },
     "Semester-Tabelle": [
         [ "Veranstaltungen im Umfang von mind. 8 CP", "V, Ü, S, Pr", "variabel", 8, "X", "X", "X", ""],

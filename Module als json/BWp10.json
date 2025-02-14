@@ -14,7 +14,7 @@
     "Organisatorische Hinweise": "keine",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc. Chemie, M.Sc. Umweltwissenschaften",
-    "Häufigkeit des Angebots": "Jährlich, \"Paläozeanographie\" im WiSe, \"Isotopengeochemie\" im SoSe",
+    "Häufigkeit des Angebots": "Jährlich, \"Isotopengeochemie\" im SoSe",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Wolfgang Müller",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
@@ -29,7 +29,7 @@
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [ "Paläozeanographie", "V+Ü", 2, 3, "", "", "", "", "X", ""],
+        [ "Glaziologie", "V+Ü", 2, 3, "", "", "", "", "X", ""],
         [ "Isotopengeochemie", "V+Ü", 2, 3, "", "", "", "", "", "X"],
         [ "Spezielle Themen", "V+Ü/S", 2, 2, "", "", "", "", "X", "X"],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "X"],
@@ -40,6 +40,6 @@
         "2025-01-06"
     ],
     "Änderung": {
-        "2025-01-06": "Bereitstellung"
+        "2025-01-06": "Paläozeanographie nicht mehr im Modul enthalten. Glaziologie ist neu dazu gekommen."
     }
 }

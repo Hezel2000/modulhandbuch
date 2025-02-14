@@ -8,23 +8,23 @@
     "Kontaktstudium": "8 SWS / 120 h",
     "Selbststudium": "120 h",
     "Inhalte": "In diesem Modul werden neue Erkenntnisse zu Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Verbindungen auf der Grundlage von atomistischen Modellrechnungen und kristallphysikalischen, - chemischen und strukturellen Untersuchungen vermittelt. Da dabei groöen Datenmengen verarbeitet werden müssen beinhaltet das Modul auch eine Veranstaltung \"Programmieren für Fortgeschrittene\".",
-    "Lernergebnisse / Kompetenzziele": "* Tensorrechnung zur Beschreibung kristallphysikalischer Größen\n* Vertiefte Kenntnisse ausgewählter kristallphysikalischer Eigenschaften\n* Grundlagen der atomistischen Modellrechnungen (Kraftfelder, EAM, tight binding, DFT)\n* Vertiefte Kenntnisse der Programmierung\n* Verständnis Synchrotron-basierte Methoden zur Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Strukturen\n* Kenntnis der modernen Methoden der Hochdruckforschung",
+    "Lernergebnisse / Kompetenzziele": "\n* Tensorrechnung zur Beschreibung kristallphysikalischer Größen\n* Vertiefte Kenntnisse ausgewählter kristallphysikalischer Eigenschaften\n* Grundlagen der atomistischen Modellrechnungen (Kraftfelder, EAM, tight binding, DFT)\n* Vertiefte Kenntnisse der Programmierung\n* Verständnis Synchrotron-basierte Methoden zur Bestimmung von Struktur-Eigenschaftsbeziehungen von Mineralen und verwandten Strukturen\n* Kenntnis der modernen Methoden der Hochdruckforschung",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Erfolgreiche Teilnahme am Bachelor-Modul \"Kristallographische Mineralogie\" oder gleichwertige Kenntnisse",
     "Empfohlene Voraussetzungen": "Lineare Algebra, trigonometrische Funktionen, komplexe Zahlen\nErfolgreiche Teilnahme an Physik I, Mathematik I und Chemie",
     "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP zu belegen, wobei der Besuch der Veranstaltung \"Kristallphysik\" verpflichtend ist.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB 11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Chemie",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "Jährlich",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Björn Winkler",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "keine",
-        "Leistungsnachweise": "\"Atomistische Modellrechnungen\": Hausaufgaben\n\"Programmieren für Fortgeschrittene\": Hausaufgaben + Abschlussaufgabe\n\"Moderne Methoden\": Vortrag + Ausarbeitung"
+        "Teilnahmenachweise": "",
+        "Leistungsnachweise": "\"Atomistische Modellrechnungen\": Hausaufgaben,\n \"Programmieren für Fortgeschrittene\": Hausaufgaben + Abschlussaufgabe,\n \"Moderne Methoden\": Vortrag + Ausarbeitung"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) zu „Kristallphysik“",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },

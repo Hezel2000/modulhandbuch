@@ -4,7 +4,7 @@
     "Modul-Name-de": "Gelände",
     "Modul-Typ": "Wahlpflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
-    "Anzahl SWS": "SWS",
+    "Anzahl SWS": "20 Tage",
     "Kontaktstudium": "160 h",
     "Selbststudium": "80 h",
     "Inhalte": "In dem Modul werden praktische Fähigkeiten im Gelände geschult und vertieft. Dazu können Geländeveranstaltungen aus den unterschiedlichen Kernfächern der Geologie/Paläontologie, Mineralogie und Geophysik absolviert werden. Zu den einzelnen Tagen sind in Absprache mit den jeweiligen Dozenten*innen Berichte anzufertigen.",
@@ -13,7 +13,7 @@
     "Empfohlene Voraussetzungen": "Weitere Geländeveranstaltungen des Bachelor-Studiums (in BP11 und in BWp-Modulen)",
     "Organisatorische Hinweise": "keine",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "",
     "Häufigkeit des Angebots": "Variabel",
     "Dauer des Moduls": "3 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Dr. Frederik Kirst",
@@ -25,7 +25,7 @@
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

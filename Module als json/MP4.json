@@ -7,7 +7,7 @@
     "Anzahl SWS": "6 Monate",
     "Kontaktstudium": "keine",
     "Selbststudium": "900 h",
-    "Inhalte": "Dieses Modul beinhaltet die Durchführung eines Masterarbeits-Projektes innerhalb von fünf Monaten mit anschließender Verteidigung der Ergebnisse im Rahmen der Disputation. In dem Projekt bearbeiten die Studierenden eine geowissenschaftliche Fragestellung nach den Regeln guter wissenschaftlicher Praxis. Sie generieren Datensätze, die sie mithilfe des während ihres Studiums erworbenen Wissens interpretieren, um daraus konzeptionelle Modelle im Gesamtzusammenhang des Systems Erde zu entwickeln und zu diskutieren. Neben der Vertiefung in einem geowissenschaftlichen Thema werden auch Soft Skills wie Organisation und Durchführung eines Projekts, Forschungsmanagement sowie wissenschaftliches Schreiben und Präsentationstechniken vertieft und gefestigt. Es wird eine schriftliche Arbeit angefertigt, deren Thema sich von MP3 unterscheidet. Die Betreuung der Arbeit erfolgt durch eine gemäß §21 berechtigte Person. Die bestandene Arbeit wird in einer mündlichen Prüfung (Disputation) mit einer Dauer von max. 45 Minuten verteidigt.",
+    "Inhalte": "Dieses Modul beinhaltet die Durchführung eines Masterarbeits-Projektes innerhalb von fünf Monaten mit anschließender Verteidigung der Ergebnisse im Rahmen der Disputation. In dem Projekt bearbeiten die Studierenden eine geowissenschaftliche Fragestellung nach den Regeln guter wissenschaftlicher Praxis. Sie generieren Datensätze, die sie mithilfe des während ihres Studiums erworbenen Wissens interpretieren, um daraus konzeptionelle Modelle im Gesamtzusammenhang des Systems Erde zu entwickeln und zu diskutieren. Neben der Vertiefung in einem geowissenschaftlichen Thema werden auch Soft Skills wie Organisation und Durchführung eines Projekts, Forschungsmanagement sowie wissenschaftliches Schreiben und Präsentationstechniken vertieft und gefestigt. Es wird eine schriftliche Arbeit angefertigt, deren Thema sich von MP3 unterscheidet. Thema und Umfang sind so auszuwählen, dass die schriftliche Masterarbeit innerhalb von 22 Wochen angefertigt kann.\n Die Betreuung der Arbeit erfolgt durch eine gemäß §21 berechtigte Person. Die bestandene Arbeit wird in einer mündlichen Prüfung (Disputation) mit einer Dauer von max. 45 Minuten verteidigt.",
     "Lernergebnisse / Kompetenzziele": "Die Studierenden\n* bearbeiten unter Betreuung ausführlich eine geowissenschaftliche Fragestellung, zu der sie originäre Datensätze generieren und auswerten\n* verstehen komplexe Zusammenhänge im System Erde, entwickeln eigenständig konzeptionelle Modelle und diskutieren ihre Ergebnisse im Kontext des aktuellen Forschungsstandes\n* präsentieren ihre Ergebnisse und Schlussfolgerungen schriftlich und mündlich\n* vertiefen ihre Fähigkeiten in Selbstorganisation, Projektmanagement, guter wissenschaftlicher Praxis, Forschungsdatenmanagement und Präsentation",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss der Module MP1 und MP2 sowie der Nachweis von mind. 60 CP",
     "Empfohlene Voraussetzungen": "keine",
@@ -34,9 +34,10 @@
     ],
     "Bemerkungen": "keine",
     "Version": [
-        "2025-01-06"
+        "2025-01-06", "2025-03"
     ],
     "Änderung": {
-        "2025-01-06": "Bereitstellung"
+        "2025-01-06": "Bereitstellung",
+        "2024-03": "In Inhalte wurde der Satz: \"Thema und Umfang sind so auszuwählen, dass die schriftliche Masterarbeit innerhalb von 22 Wochen angefertigt kann.\" hinzu gefügt."
     }
 }

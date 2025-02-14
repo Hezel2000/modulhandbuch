@@ -6,25 +6,25 @@
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
     "Anzahl SWS": "7 - 8 SWS",
     "Kontaktstudium": "7 - 8 SWS / 105 -120 h",
-    "Selbststudium": "120 & 135 h",
-    "Inhalte": "Das Modul besteht aus mehreren Lehrveranstaltungen, von denen zwei bis drei im Umfang von mind. 8 CP zu belegen sind.\nEinführung in die Thermodynamik\nIn der Veranstaltung werden thermodynamische Grundlagen zur quantitativen Lösung geowissenschaftlicher Fragestellungen eingesetzt. Die theoretische Basis für die quantitative Geothermobarometrie wird erklärt und geübt.\nExperimentelle Mineralogie und Petrologie\nIn der Veranstaltung werden die wichtigsten Grundlagen zum experimentellen Arbeiten in der Mineralogie und Petrologie vermittelt. Hierzu wird sowohl auf Hochtemperatur- als auch Hockdruckexperimente eingegangen. Die Veranstaltung ist stark methodisch ausgerichtet wobei einige Experimente im Rahmen der Übungen in Gruppen durchgeführt werden.\nSpezielle Themen der Geochemie\nIn der Veranstaltung werden abwechselnd unterschiedliche geochemisch relevante Themen vertieft.\nSpezielle Themen der Petrologie\nIn der Veranstaltung werden abwechselnd unterschiedliche petrologisch relevante Themen vertieft.",
+    "Selbststudium": "120 - 135 h",
+    "Inhalte": "Das Modul besteht aus mehreren Lehrveranstaltungen, von denen zwei bis drei im Umfang von mind. 8 CP zu belegen sind.\n *Einführung in die Thermodynamik* \nIn der Veranstaltung werden thermodynamische Grundlagen zur quantitativen Lösung geowissenschaftlicher Fragestellungen eingesetzt. Die theoretische Basis für die quantitative Geothermobarometrie wird erklärt und geübt.\n *Experimentelle Mineralogie und Petrologie* \nIn der Veranstaltung werden die wichtigsten Grundlagen zum experimentellen Arbeiten in der Mineralogie und Petrologie vermittelt. Hierzu wird sowohl auf Hochtemperatur- als auch Hockdruckexperimente eingegangen. Die Veranstaltung ist stark methodisch ausgerichtet wobei einige Experimente im Rahmen der Übungen in Gruppen durchgeführt werden.\n *Spezielle Themen der Geochemie* \nIn der Veranstaltung werden abwechselnd unterschiedliche geochemisch relevante Themen vertieft.\n *Spezielle Themen der Petrologie* \nIn der Veranstaltung werden abwechselnd unterschiedliche petrologisch relevante Themen vertieft.",
     "Lernergebnisse / Kompetenzziele": "Ziel dieses Moduls ist das Erlernen von modernen petrologischen und geochemischen Methoden mit Blick auf zukünftige selbständige Forschungsarbeit in diesen Fachgebieten.\nDie Studierenden\n* befassen sich mit der quantitativen Lösung petrologischer und geochemischer Fragestellungen mit Hilfe der Thermodynamik\n* erlernen durch synergetisches Denken unter Nutzung bis dahin erworbener Kenntnisse aus den Fachgebieten der Mineralogie, Petrologie und Geochemie wie geowissenschaftliche Fragestellungen experimentell gelöst werden. Dazu gehört die Strategieentwicklung für die gezielte Durchführung von Experimenten und deren Auswertung\n* interpretieren analytische Daten im Kontext geochemischer und petrologischer Prozesse",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abschluss Modul BWp7 \"Vertiefung Petrologie\" im Bachelorstudium oder äquivalente Veranstaltungen",
     "Empfohlene Voraussetzungen": "keine",
-    "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP auszuwählen. Falls beide Veranstaltungen \"Einführung in die Thermodynamik\" und \"Experimentelle Mineralogie und Petrologie\" belegt werden, müssen beide Veranstaltungen bestanden sein. Es ist dem oder der Studierenden überlassen, welche der beiden Veranstaltungen für die Modulprüfung gilt.",
+    "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP auszuwählen.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Chemie",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "jährlich",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Alan Woodland",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "keine",
-        "Leistungsnachweise": "Erfolgreiche Teilnahme (z.B. Übungen oder Vortrag) an \"Spezielle Themen der Petrologie\" und/oder \"Spezielle Themen der Geochemie\""
+        "Leistungsnachweise": "Vortrag (20 min) oder schriftliche Ausarbeitung (8-10 Seiten) zu an \"Spezielle Themen der Petrologie\" und/oder \"Spezielle Themen der Geochemie\" Klausur (90 min) zu „Einführung in die Thermodynamik“ oder Bericht (12-15 Seiten) zu \"Experimentelle Mineralogie und Petrologie\""
     },
     "Lehr- / Lernformen": "Vorlesung, Übung, Seminar",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Exemplarisch Klausur (90 min) zu \"Einführung in die Thermodynamik\" oder Bericht (12-15 Seiten) zu \"Experimentelle Mineralogie und Petrologie\"",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },

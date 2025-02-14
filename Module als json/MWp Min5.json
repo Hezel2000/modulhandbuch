@@ -14,17 +14,17 @@
     "Organisatorische Hinweise": "Aus dem Angebot sind Veranstaltungen im Umfang von mind. 8 CP zu belegen, wobei der Besuch der Veranstaltung \"Strukturbestimmung\" verpflichtend ist.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB 11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Chemie, Mathematik",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "Jährlich",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Björn Winkler",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
-        "Teilnahmenachweise": "\"Moderne Methoden\": Vortrag + Ausarbeitung",
-        "Leistungsnachweise": "Klausur zu \"Kristallzüchtung\"\nKlausur zu \"Kristallphysik\""
+        "Teilnahmenachweise": "",
+        "Leistungsnachweise": "„Kristallzüchtung“: mündliche Prüfung (30 min) und Ausarbeitung (ca. 10 Seiten) \"Kristallphysik\": Klausur (90 min) \"Moderne Methoden\": Vortrag (20 min) + Ausarbeitung (ca. 10 Seiten)"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung\n",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) zu „Strukturbestimmung“",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },

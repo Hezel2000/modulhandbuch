@@ -34,6 +34,7 @@
         [ "Auswahl aus:", "", "", "", "", "", "", "" ],
         [ "Einführung in die Strainanalyse", "V+Ü",  "1+1", 2, "", "X", "", "" ],
         [ "Dating of Deformation and Tectonic Processes", "V+Ü", "1+1", 2, "", "X", "", "" ],
+        [ "Spezielle Übungen", "V/Ü/S", 2, 2, "", "", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "X", "", "" ],
         [ "Summe", "", 7, 8, "", "", "", "" ]
     ],
@@ -42,6 +43,6 @@
         "2025-01-06"
     ],
     "Änderung": {
-        "2025-01-06": "Bereitstellung"
+        "2025-01-06": "\"Spezielle Übungen\" hinzu gefügt"
     }
 }

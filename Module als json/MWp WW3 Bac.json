@@ -26,7 +26,7 @@
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
         "kumulative Modulprüfung bestehend aus": "Prüfungsleistungen im Umfang von mindestens 4 CP sowie Studienleistungen für den verbleibenden CP-Anteil",
-        "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
+        "Bildung der Modulnote bei kumulativen Modulprüfungen": "CP-gewichteter Durchschnitt der Noten"
     },
     "Semester-Tabelle": [
         [ "Veranstaltungen aus den Vertiefungsmodulen BWp1 - BWp14", "V, Ü, S, Pr, GÜ", "variabel", 8, "X", "X", "", "" ],

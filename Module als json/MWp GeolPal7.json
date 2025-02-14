@@ -30,11 +30,10 @@
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", "" ],
-        [ "Meilensteine in der Wirbeltierevolution", "V", 2, 2, "", "X", "", "" ],
-        [ "Evolution der Synapsiden", "V", 2, 2, "X", "", "X", "" ],
+        [ "Meilensteine in der Wirbeltierevolution", "V", 2, 3, "", "X", "", "" ],
         [ "Paläontologie und Artenschutz", "V", 2, 2, "", "X", "", "" ],
         [ "Faunenschnitte im Känozoikum", "V", 2, 2, "X", "", "X", "" ],
-        [ "Biodiversitätsdynamik im Fossilbericht der Wirbeltiere", "V+S", "1+1", 2, "X", "", "X", "" ],
+        [ "Evolution und Biodiversität der Wirbeltiere", "V+S", "1+1", 3, "X", "", "X", "" ],
         [ "Spezielle Themen", "Ü", 2, 2, "", "X", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "X", "X", "" ],
         [ "Summe", "", "", "", "", "", "", "" ]
@@ -44,6 +43,6 @@
         "2025-01-06"
     ],
     "Änderung": {
-        "2025-01-06": "Bereitstellung"
+        "2025-01-06": "\"Meilensteine in der Wirbeltierevolution\" und \"Evolution der Synapsiden\" wurden zusammen gelegt in: \"Meilensteine in der Wirbeltierevolution\" mit nun 3CP.\n \"Biodiversitätsdynamik im Fossilbericht der Wirbeltiere\" umbenannt in \"Evolution und Biodiversität der Wirbeltiere\" mit nun 3CP."
     }
 }
