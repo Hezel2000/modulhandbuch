@@ -2,7 +2,7 @@
     "Modul-Code": "MWp Gph2",
     "Modul-Name-en": "Geophysics 2",
     "Modul-Name-de": "Geophysik 2",
-    "Modul-Typ": "",
+    "Modul-Typ": "Wahlpflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
     "Anzahl SWS": "6 SWS",
     "Kontaktstudium": "6 SWS / 90 h",
@@ -14,24 +14,24 @@
     "Organisatorische Hinweise": "In dem Modul sind 2 Lehrveranstaltungen im Umfang von 8 CP auszuwählen.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Mathematik, Physik",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "Jährlich (2 von 3 Veranstaltungen)",
     "Dauer des Moduls": "1 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Georg Rümpker",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Aktive Teilnahme an den Übungen",
         "Leistungsnachweise": "Erfolgreich absolvierte Übungen"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Mündl. Prüfung (ca. 60 min) oder Klausur (90 min)",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [ "Seismologie 2 für Fortgeschrittene: Datenanalyse und Signalverarbeitung", "V+Ü", 3, 4, "", "X", "", "" ],
-        [ "Geodynamik 2 für Fortgeschrittene: Dynamik der Lithosphäre", "V+Ü", 3, 4, "", "X", "", "" ],
-        [ "Angewandte Methoden 2 für Fortgeschrittene: Geoelektrik", "V+Ü", 3, 4, "", "X", "", "" ],
+        [ "Seismologie 2 für Fortgeschrittene: Datenanalyse und Signalverarbeitung", "V+Ü", "2+1", 4, "", "X", "", "" ],
+        [ "Geodynamik 2 für Fortgeschrittene: Dynamik der Lithosphäre", "V+Ü", "2+1", 4, "", "X", "", "" ],
+        [ "Angewandte Methoden 2 für Fortgeschrittene: Geoelektrik", "V+Ü", "2+1", 4, "", "X", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", "" ],
         [ "Summe", "", 6, 8, "", "", "", "" ]
     ],

@@ -2,7 +2,7 @@
     "Modul-Code": "MWp Gph1",
     "Modul-Name-en": "Geophysics 1",
     "Modul-Name-de": "Geophysik 1",
-    "Modul-Typ": "",
+    "Modul-Typ": "Wahlpflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
     "Anzahl SWS": "6 SWS",
     "Kontaktstudium": "6 SWS / 90 h",
@@ -14,7 +14,7 @@
     "Organisatorische Hinweise": "In dem Modul sind 2 Lehrveranstaltungen im Umfang von 8 CP auszuwählen.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc./M.Sc. Mathematik, Physik",
-    "Häufigkeit des Angebots": "",
+    "Häufigkeit des Angebots": "Jährlich (2 von 3 Veranstaltungen)",
     "Dauer des Moduls": "1 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Georg Rümpker",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
@@ -22,16 +22,16 @@
         "Leistungsnachweise": "Erfolgreich absolvierte Übungen"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
-    "Unterrichts- / Prüfungssprache": "",
+    "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
+        "Modulabschlussprüfung bestehend aus": "Mündl. Prüfung (ca. 60 min) oder Klausur (90 min)",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [ "Seismologie 1 für Fortgeschrittene: Spezielle Verfahren", "V+Ü", 3, 4, "X", "", "", "" ],
-        [ "Geodynamik 1 für Fortgeschrittene: Magmatische Prozesse", "V+Ü", 3, 4, "X", "", "", "" ],
-        [ "Angewandte Methoden 1 für Fortgeschrittene: Magnetik und Gravimetrie", "V+Ü", 3, 4, "X", "", "", "" ],
+        [ "Seismologie 1 für Fortgeschrittene: Spezielle Verfahren", "V+Ü", "2+1", 4, "X", "", "", "" ],
+        [ "Geodynamik 1 für Fortgeschrittene: Magmatische Prozesse", "V+Ü", "2+1", 4, "X", "", "", "" ],
+        [ "Angewandte Methoden 1 für Fortgeschrittene: Magnetik und Gravimetrie", "V+Ü", "2+1", 4, "X", "", "", "" ],
         [ "Modulprüfung", "variabel", "", "", "X", "", "", "" ],
         [ "Summe", "", 6, 8, "", "", "", "" ]
     ],

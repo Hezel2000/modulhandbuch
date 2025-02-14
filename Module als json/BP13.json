@@ -16,7 +16,7 @@
     "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
     "Häufigkeit des Angebots": "jährlich",
     "Dauer des Moduls": "2 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Andreas Junge",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Thibault Duretz",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "keine",
         "Leistungsnachweise": "Erfolgreich absolvierte Übungsaufgaben"
@@ -30,7 +30,7 @@
     },
     "Semester-Tabelle": [
         [ "Grundlagen wiss. Programmierung und Modellierung", "V+Ü", 2, 3, "", "", "X", "", "", "" ],
-        [ "Statistische Datenauswertung", "V+Ü", 2, 3, "", "", "", "X", "", "" ],
+        [ "Data Science", "V+Ü", 2, 3, "", "", "", "X", "", "" ],
         [ "Modulprüfung", "Bericht", "", "", "", "", "X", "", "", "" ],
         [ "Summe", "", 4, 6, "", "", "", "", "", "" ]
     ],

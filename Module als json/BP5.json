@@ -32,9 +32,9 @@
         [ "Einführung in die Paläontologie", "V+Ü", 2, 3, "", "X", "", "", "", "" ],
         [ "Erd- und Lebensgeschichte", "V+Ü", 3, 4, "", "", "X", "", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "", "X", "", "", "" ],
-        [ "Summe", "", 4, 7, "", "", "", "", "", "" ]
+        [ "Summe", "", 5, 7, "", "", "", "", "", "" ]
     ],
-    "Bemerkungen": "keine",
+    "Bemerkungen": "Klausur in Erd- und Lebensgeschichte ist Modulprüfung\n Einführung in die Paläontologie: Anwendung der Bonusregel gemäß §37 Absatz (7)",
     "Version": [
         "2025-01-06"
     ],

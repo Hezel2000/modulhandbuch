@@ -24,15 +24,15 @@
     "Lehr- / Lernformen": "Vorlesung, Übung, Seminar",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) exemplarisch zu Inhalten aus \"Climate and Sedimentary Systems\" und \"Geochemie stabiler Isotope\"",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", ""],
-        [ "Climate and Sedimentary Systems", "V+Ü", 2, 3, "X", "", "", ""],
-        [ "Geochemie stabiler Isotope", "V+Ü", 2, 3, "X", "", "", ""],
-        [ "Palaeoenvironmental Reconstructions at Very High Time Resolution", "V+Ü", 2, 2, "", "X", "", ""],
+        [ "Climate and Sedimentary Systems", "V+Ü", "1+1", 3, "X", "", "", ""],
+        [ "Geochemie stabiler Isotope", "V+Ü", "1+1", 3, "X", "", "", ""],
+        [ "Palaeoenvironmental Reconstructions at Very High Time Resolution", "V+Ü", "1+1", 2, "", "X", "", ""],
         [ "Spezielle Themen", "V/Ü/S", 2, 2, "X", "X", "", ""],
         [ "Modulprüfung", "Klausur", "", "", "X", "X", "", ""],
         [ "Summe", "", 6, 8, "", "", "", ""]

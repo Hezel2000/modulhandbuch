@@ -2,7 +2,7 @@
     "Modul-Code": "BP16a",
     "Modul-Name-en": "Introduction to Physics A1 for Minors",
     "Modul-Name-de": "Einführung in die Physik A1 für Nebenfachstudierende",
-    "Modul-Typ": "Pflichtmodul (Importmodul NFPHY-VA1)",
+    "Modul-Typ": "Pflichtmodul (Importmodul NFPHY-VA1S)",
     "Anzhal CP und Arbeitsaufwand": "6 CP (insg.) = 180 h",
     "Anzahl SWS": "4 SWS",
     "Kontaktstudium": "4 SWS / 60 h",
@@ -16,15 +16,15 @@
     "Verwendbarkeit des Moduls für andere Studiengänge": "BSc Geowissenschaften, BSc Geographie, BSc Informatik",
     "Häufigkeit des Angebots": "jährlich",
     "Dauer des Moduls": "1 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Tutsch",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Cornelius Krellner",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "regelmäßige Teilnahme an den Übungen",
-        "Leistungsnachweise": "erfolgreiche Bearbeitung von Übungsaufgaben oder Bestehen von Tests Prüfungsvorleistungen: Erbringen aller Leistungsnachweise"
+        "Leistungsnachweise": "erfolgreiche Bearbeitung von Übungsaufgaben oder Bestehen von Tests, Bestehen einer Klausur (120 Min.)"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung",
     "Unterrichts- / Prüfungssprache": "Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "Klausur (120 Min.)",
+        "Modulabschlussprüfung bestehend aus": "",
         "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
@@ -35,9 +35,10 @@
     ],
     "Bemerkungen": "keine",
     "Version": [
-        "2025-01-06"
+        "2025-01-06", "2025-01-06"
     ],
     "Änderung": {
+        "2024-07-10": "Bestehen der Klausur (120 min) ist ab sofort eine Studienleistung und keine Prüfungsleistung mehr.",
         "2025-01-06": "Bereitstellung"
     }
 }

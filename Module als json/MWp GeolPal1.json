@@ -4,28 +4,28 @@
     "Modul-Name-de": "Gelände",
     "Modul-Typ": "Wahlpflichtmodul",
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
-    "Anzahl SWS": "SWS",
+    "Anzahl SWS": "16 Tage",
     "Kontaktstudium": "16 Tage / 120 h",
     "Selbststudium": "120 h",
     "Inhalte": "Das Modul beinhaltet die Erlernung vertiefender praktischer Fähigkeiten und Kenntnisse im Gelände. Hierzu gehören Geländeveranstaltungen unterschiedlicher Teildisziplinen der Geowissenschaften, wie:\n* Kartierung für Fortgeschrittene\n* die Analyse sedimentärer Ablagerungssysteme in Zeit und Raum inklusive detaillierter Profilaufnahme, Faziesanalyse und Rekonstruktion räumlicher Sedimentgeometrien\n* fortgeschrittene regionalgeologische, petrologische und strukturgeologische Geländeübungen\n* die Analyse fossiler und rezenter Ökosysteme als Indikator vergangener Umweltveränderungen",
     "Lernergebnisse / Kompetenzziele": "Ziel dieses Moduls ist die Vertiefung geländebezogener Kompetenzen. Die Studierenden\n* verstehen und interpretieren den geologischen, stratigraphisch-faziellen, lithologischen und tektonischen Aufbau des besuchten Geländebereichs und erarbeiten hierüber selbständig Karten, Profile und/oder Modelle und stellen diese in Form von Berichten und/oder Kurzvorträgen vor\n* kennen und bewerten die erdgeschichtlich relevanten Vorgänge, die sich im besuchten Geländebereich ereignet haben\n* besitzen die für geologische Geländearbeiten notwendigen Fähigkeiten und Kenntnisse",
-    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Bachelor-Geländeübungen/Kartierkurse in BP1 und BP10",
-    "Empfohlene Voraussetzungen": "Weitere Geländeveranstaltungen des Bachelor-Studiums (in BP11 und in BWp-Modulen)",
-    "Organisatorische Hinweise": "Insgesamt müssen 16 Geländetage aus dem Angebot an Fortgeschrittenen-Geländeübungen besucht werden. Die Modulabschlussnote ergibt sich aus einer explizit für das Modul für die Vertiefung Geologie-Paläontologie vorgesehenen Geländeveranstaltung/Kartierkurs mit mindestens 8 Tagen. Es können maximal 8 Geländetage mit Fortgeschrittenen-Status aus anderen Bachelor- und Mastermodulen anerkannt werden (unbenotet).",
+    "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Bachelor-Geländeübungen/Kartierkurse in BP1 und BP10 oder äquivalente Abschlüsse",
+    "Empfohlene Voraussetzungen": "Weitere Geländeveranstaltungen des Bachelor-Studiums",
+    "Organisatorische Hinweise": "Insgesamt müssen 16 Geländetage aus dem Angebot an Fortgeschrittenen-Geländeübungen besucht werden. Eine mindestens 8-tägige Geländeübung/Kartierkurs muss aus dem Angebot des Schwerpunktfaches \"Geologie/Paläontologie\" gewählt werden. Weitere bis zu 8 Geländetage können aus dem Fortgeschrittenen-Angebot anderer Schwerpunktfächer oder im Falle von Auslandssemestern aus dem Angebot anderer Hochschulen gewählt werden.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "",
     "Häufigkeit des Angebots": "Nach Angebot",
     "Dauer des Moduls": "3 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Dr. Rainer Petschick",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Jens O. Herrle",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "keine",
-        "Leistungsnachweise": "Berichte oder Vorträge für max. 8 Tage Geländeübung"
+        "Leistungsnachweise": "Berichte oder Vorträge für Geländeübungen mit insgesamt bis zu 8 Tagen"
     },
     "Lehr- / Lernformen": "Geländeübung",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
         "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "kumulative Modulprüfung bestehend aus": "Bericht (15-20 Seiten) für eine mehrtägige Geländeveranstaltung aus dem Schwerpunkt \"Geologie/Paläontologie\" mit mind. 8 Tagen",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [

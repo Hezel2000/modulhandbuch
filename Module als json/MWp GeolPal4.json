@@ -19,20 +19,20 @@
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Silke Voigt",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Aktive Teilnahme an Seminaren",
-        "Leistungsnachweise": "Studienleistung in \"Regionale Geologie\" und \"Spezielle Themen\""
+        "Leistungsnachweise": "Abschließende Übungsaufgabe (90 min) in \"Sequenzstratigraphie\" oder Vortrag (20 min) in \"Klima und Tektonik\" Bericht (5-6 Seiten) oder Vortrag (20 min) in \"Regionale Geologie\" und \"Spezielle Themen\""
     },
     "Lehr- / Lernformen": "Vorlesung, Übung, Seminar",
     "Unterrichts- / Prüfungssprache": "Deutsch, Englisch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Klausur (90 min) exemplarisch entweder in \"Klima und Tektonik\" oder \"Sequenzstratigraphie\" ggfs. auch vor inhaltlichem Abschluss des Moduls",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", ""],
-        [ "Klima und Tektonik", "V+Ü", 4, 4, "", "X", "", ""],
-        [ "Sequenzstratigraphie", "V+Ü", 4, 4, "", "", "X", ""],
-        [ "Regionale Geologie", "V/S", 2, 2, "", "X", "X", ""],
+        [ "Klima und Tektonik", "V+Ü", "2+2", 4, "", "X", "", ""],
+        [ "Sequenzstratigraphie", "V+Ü", "2+2", 4, "", "", "X", ""],
+        [ "Regionale Geologie", "V+Ü", "1+1", 2, "", "X", "X", ""],
         [ "Spezielle Themen", "V/Ü/S", 2, 2, "", "X", "X", ""],
         [ "Modulprüfung", "Klausur", "", "", "", "", "", ""],
         [ "Summe", "", 8, 8, "", "", "", ""]

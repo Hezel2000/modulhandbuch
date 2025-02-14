@@ -32,7 +32,7 @@
         [ "Kristallographie", "V+Ü", 3, 3, "", "X", "", "", "", "" ],
         [ "Mineralogie", "V+Ü", 3, 3, "", "", "X", "", "", "" ],
         [ "Modulprüfung", "Klausur", "", "", "", "", "X", "", "", "" ],
-        [ "Summe", "", "", "", "", "", "", "", "", ""] 
+        [ "Summe", "", 6, 6, "", "", "", "", "", ""] 
     ],
     "Bemerkungen": "keine",
     "Version": [

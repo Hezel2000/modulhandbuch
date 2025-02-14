@@ -6,33 +6,33 @@
     "Anzhal CP und Arbeitsaufwand": "8 CP (insg.) = 240 h",
     "Anzahl SWS": "5 SWS",
     "Kontaktstudium": "5 SWS / 75 h",
-    "Selbststudium": "",
+    "Selbststudium": "165 h",
     "Inhalte": "Dieses Modul befasst sich mit den biologischen, chemischen und physikalischen Prozessen, welche die Wechselwirkung zwischen Biosphäre und Geosphäre im terrestrischen und marinen Bereich kennzeichnen. Das Ziel ist ein interdisziplinäres und holistisches Verständnis dieser Prozesse, um die Wechselwirkungen und Rückkopplungen zwischen Bio-, Geo- und Hydrosphäre zu erkennen und zu interpretieren. \"Techniques in Marine Proxy Development\" behandelt quantitative (mikro-)paläontologische Ansätze zur Rekonstruktion von Paläo-Umweltbedingungen mittels mikroskopischer (Licht- und Rasterelektronenmikroskop), biometrischer und statistischer Techniken. Die 10-tägige Geländeübung soll dabei Themenbereiche der biologischen Evolution, Paläozeanographie und der Entwicklung sedimentärer Ablagerungsräume und der damit verbundenen Prozesse im erdgeschichtlichen Kontext miteinander vernetzen. Die Veranstaltungen zu \"Spezielle Themen\" in den Biogeowissenschaften umfassen wechselnde Spezialthemen zu Prozessmechanismen, -abläufen und -zusammenhängen in naturnahen und natürlichen Systemen.",
     "Lernergebnisse / Kompetenzziele": "Die Studierenden erlangen:\n* Vertiefte Kenntnisse in der Anwendung quantitativer und semiquantitativer Techniken in der Rekonstruktion der Paläo-Umwelt.\n* Praktische Erfahrungen mit der Durchführung und Auswertung von Experimenten\n* Statistische Auswertung von gesammelten Daten und deren Interpretation\n* In der Geländeübung werden beschreibende und quantitative Techniken aus dem Bereich der Paläontologie, Sedimentologie und Geologie angewandt, um die Entwicklung mariner und terrestrischer Ablagerungsräume in einem zeitlichen Kontext fächerübergreifend zu analysieren",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "keine",
     "Empfohlene Voraussetzungen": "keine",
     "Organisatorische Hinweise": "keine",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "M.Sc. Geowissenschaften / FB11",
-    "Verwendbarkeit des Moduls für andere Studiengänge": "für andere Studiengänge\nkeine",
+    "Verwendbarkeit des Moduls für andere Studiengänge": "",
     "Häufigkeit des Angebots": "jährlich",
     "Dauer des Moduls": "2 Semester",
     "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Jens O. Herrle",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "keine",
-        "Leistungsnachweise": "Vortrag im Seminar zu \"Spezielle Themen\" oder Bericht zur Geländeübung"
+        "Leistungsnachweise": "Vortrag im Seminar zu \"Spezielle Themen\" oder Bericht zur Geländeübung"
     },
     "Lehr- / Lernformen": "Vorlesung, Übung, Seminar",
     "Unterrichts- / Prüfungssprache": "English, Deutsch",
     "Modulprüfung": {
-        "Modulabschlussprüfung bestehend aus": "",
-        "kumulative Modulprüfung bestehend aus": "keine",
+        "Modulabschlussprüfung bestehend aus": "Mündl. Prüfung (15-20 min) oder Klausur (90 min) zu \"Techniques in Marine Proxy Development\"",
+        "kumulative Modulprüfung bestehend aus": "",
         "Bildung der Modulnote bei kumulativen Modulprüfungen": ""
     },
     "Semester-Tabelle": [
-        [ "Techniques in Marine Proxy Development", "V+Ü+S", 2, 3, "", "X", "", "" ],
+        [ "Techniques in Marine Proxy Development", "V+Ü", 2, 3, "", "X", "", "" ],
         [ "Auswahl aus:", "", "", "", "", "", "", "" ],
         [ "Geländeübung, 10 Tage", "GÜ", "10 Tage", 5, "", "X", "", "" ],
-        [ "Spezielle Themen", "V/Ü/S/Pr", 3, 5, "", "X", "", "" ],
+        [ "Spezielle Themen", "V/Ü/S", 3, 5, "", "X", "", "" ],
         [ "Modulprüfung", "variabel", "", "", "", "X", "", "" ],
         [ "Summe", "", 5, 8, "", "", "", "" ]
     ],
