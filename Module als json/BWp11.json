@@ -11,7 +11,7 @@
     "Lernergebnisse / Kompetenzziele": "Die Studierenden erwerben vertiefende Grundkenntnisse taxonomischer und biogeochemischer Grundlagen, die zur Entstehung und Evolution des Lebens auf der Erde geführt haben.\n* Vernetzung fächerübergreifender methodischer Grundlagen aus den Bereichen der Paläontologie, Palökologie, Biologie, Geochemie, Statistik, Modellierung und Ozeanographie\n* Untersuchungen anhand von Mikrofossilien (Phyto- und Zooplankton) und Wirbeltieren, die neben klassischen Beispielen zu evolutionären Prozessen aufgrund ihrer Morphologie und geochemischen Zusammensetzung ihrer Schalen und Knochen auch wichtige Archive für die Rekonstruktion der Paläoumwelt bieten.\n* Interpretation fossiler Organismen und deren Rolle als paläozeanographische und paläoklimatische Indikatoren an ausgewählten Fallbeispielen.\n* Anhand eines Literaturseminars werden ausgewählte wissenschaftliche Publikationen zu den Themen des Moduls von den Studierenden gelesen, in einem Vortrag vorgestellt und kritisch diskutiert.",
     "Teilnahmevoraussetzungen für Modul bzw. für einzelne Lehrveranstaltungen des Moduls": "Abgeschlossene Module BP1 und BP5\nTeilnahme an Modulen BP6 und BP8",
     "Empfohlene Voraussetzungen": "keine",
-    "Organisatorische Hinweise": "Studierenden, welche einen Bachelor- und Masterabschluss im Bereich Geologie/Paläontologie anstreben, wird die Teilnahme an diesem Modul empfohlen. Das Modul bildet die unverzichtbare Weiterführung für das Verständnis von Inhalten und Fragestellungen aus anderen Wahlpflichtbereichen des B.Sc.-Studiengangs Geologie und Paläontologie und weiterführenden Kursen im Master Geowissenschaften. Übungsaufgaben werden in OLAT bereitgestellt.",
+    "Organisatorische Hinweise": "Studierenden, welche einen Bachelor- und Masterabschluss im Bereich Geologie/Paläontologie anstreben, wird die Teilnahme an diesem Modul empfohlen. Das Modul bildet die unverzichtbare Weiterführung für das Verständnis von Inhalten und Fragestellungen aus anderen Wahlpflichtbereichen des B.Sc.-Studiengangs Geologie und Paläontologie und weiterführenden Kursen im Master Geowissenschaften.",
     "Zuordnung des Moduls (Studiengang / Fachbereich)": "B.Sc. Geowissenschaften / FB 11",
     "Verwendbarkeit des Moduls für andere Studiengänge": "keine",
     "Häufigkeit des Angebots": "jährlich",
@@ -33,7 +33,6 @@
         [ "Paläozeanographie", "V+Ü", 2, 3, "", "", "", "", "", "X"],
         [ "Spezielle Themen", "V+Ü", 2, 2, "", "", "", "", "X", ""],
         [ "Modulprüfung", "variabel", "", "", "", "", "", "", "", "X"],
-        [ "X", "", "", "", "", "", "", "", "", "" ],
         [ "Summe", "", "6 SWS", 8, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
@@ -41,6 +40,6 @@
         "2025-01-06"
     ],
     "Änderung": {
-        "2025-01-06": "Wirbeltierpaläontologie ab WS25/26: Spezielle Themen"
+        "2025-01-06": "In Semestertabelle geändert: Wirbeltierpaläontologie ab WS25/26 ersetzt durch: Spezielle Themen.\n In Organisatorische Hinweise gestrichen: Übungsaufgaben werden in OLAT bereitgestellt."
     }
 }
