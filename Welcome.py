@@ -50,9 +50,5 @@ st.markdown('''
             Wird die Maus über eine Abbildung beweget, erscheint rechts oben neben dem Bild ein icon, das, angeklickt, die Abbildung vergrößert.
             ''')
 
-st.subheader(''':blue[Bemerkungen]''')
-st.markdown('''
-            - Diese Version ist zunächst für eine interne Evaluationsphase gedacht.
-            - Im Moment geht es darum einmal zu schauen, ob so alles passt, und wie die Funktionalität erweitert/verbessert/angepasst/... werden könnte. Außerdem kann ein bisschen gelernt werden, wie man die Einträge aktualisiert.  
-            - Kommentare am Besten ins Feedback-Formular schreiben, s. links ziemlich ganz unten. Das geht dann in ein Sheet, in dem alles gesammelt wird und dort entsprechend abgehakt werden kann.
-            ''')
+st.subheader(''':blue[Feedback, Fragen & Fehlerkorrektur ...]''')
+st.markdown('''... und weiteres am Besten ins Feedback-Formular schreiben, s. links ganz unten.''')
