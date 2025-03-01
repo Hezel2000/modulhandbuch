@@ -36,7 +36,7 @@
         [ "Modulprüfung", "Klausur", "", "", "", "", "X", ""],
         [ "Summe", "", 7, 8, "", "", "", ""]
     ],
-    "Bemerkungen": "Es wird in einer, und nur in einer, der gewählten Veranstaltungen eine Prüfung abgelegt. Der/die Student\*in entscheidet vorab an welcher Prüfung sie/er teilnimmt, d.h., der/die Student\*in teilt in dem Kurs, in dem sie/er die Prüfung ablegen will dem/der Kursleiter\*in mit, dass sie/er an der Prüfung teilnehmen wird, und die Note dieser Prüfung an das Prüfungsamt gemeldet wird.",
+    "Bemerkungen": "Es wird in einer, und nur in einer, der gewählten Veranstaltungen eine Prüfung abgelegt. Der/die Student:in entscheidet vorab an welcher Prüfung sie/er teilnimmt, d.h., der/die Student:in teilt in dem Kurs, in dem sie/er die Prüfung ablegen will dem/der Kursleiter:in mit, dass sie/er an der Prüfung teilnehmen wird, und die Note dieser Prüfung an das Prüfungsamt gemeldet wird.",
     "Version": [
         "2025-01-06"
     ],
