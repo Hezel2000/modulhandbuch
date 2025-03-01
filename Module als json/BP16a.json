@@ -30,15 +30,13 @@
     },
     "Semester-Tabelle": [
         [ "Einführung in die Physik A1 für Nebenfachstudierende", "V+Ü", "3+1", 6, "X", "", "", "", "", "" ],
-        [ "Modulprüfung", "Klausur", "", "", "", "", "", "", "", "" ],
         [ "Summe", "", 4, 6, "", "", "", "", "", "" ]
     ],
     "Bemerkungen": "keine",
     "Version": [
-        "2025-01-06", "2024-07-10"
+        "2024-07-10"
     ],
     "Änderung": {
-        "2025-01-06": "Bereitstellung",
         "2024-07-10": "Bestehen der Klausur (120 min) ist ab sofort eine Studienleistung und keine Prüfungsleistung mehr."        
     }
 }
