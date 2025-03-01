@@ -16,7 +16,7 @@
     "Verwendbarkeit des Moduls für andere Studiengänge": "B.Sc. Chemie, M.Sc. Umweltwissenschaften",
     "Häufigkeit des Angebots": "Jährlich, \"Isotopengeochemie\" im SoSe",
     "Dauer des Moduls": "2 Semester",
-    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Wolfgang Müller",
+    "Modulbeauftragte / Modulbeauftragter": "Prof. Dr. Pascal Bohleber",
     "Studiennachweise/ ggf. als Prüfungsvorleistungen": {
         "Teilnahmenachweise": "Aktive Teilnahme an allen Übungen",
         "Leistungsnachweise": "Erfolgreich absolvierte Übungsaufgaben in \"Isotopengeochemie\" oder Seminarvortrag (20 min) zu \"Spezielle Themen“"
@@ -37,9 +37,10 @@
     ],
     "Bemerkungen": "keine",
     "Version": [
-        "2025-01-06"
+        "2025-02-27", "2025-01-06"
     ],
     "Änderung": {
+        "2025-01-06": "Änderung des Modulbeauftragten von Prof. Dr. Wolfgang Müller zu Prof. Dr. Pascal Bohleber",
         "2025-01-06": "Paläozeanographie nicht mehr im Modul enthalten. Glaziologie ist neu dazu gekommen."
     }
 }
