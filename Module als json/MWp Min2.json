@@ -30,18 +30,18 @@
     },
     "Semester-Tabelle": [
         [ "Auswahl aus:", "", "", "", "", "", "", ""],
-        [ "Mikroanalytik 1 - EPMA, REM und µ-XRF", "V+Ü", 2, 2, "X", "", "", ""],
+        [ "Mikroanalytik - EPMA, REM und µ.XRF", "V+Ü", 2, 2, "X", "", "", ""],
         [ "Nanoanalytik 1", "V+Ü", 2, 2, "", "X", "", ""],
         [ "Isotopen- und Spurenelementanalytik 1", "V+Ü", 3, 4, "X", "", "", ""],
         [ "Spezielle Methoden der Mikroanalytik", "V+Ü", 2, 2, "X", "X", "", ""],
         [ "Modulprüfung", "Klausur", "", "", "", "X", "", ""],
         [ "Summe", "", 7, 8, "", "", "", ""]
     ],
-    "Bemerkungen": "keine",
+    "Bemerkungen": "Es wird in einer, und nur in einer, der gewählten Veranstaltungen eine Prüfung abgelegt. Der/die Student*in entscheidet vorab an welcher Prüfung sie/er teilnimmt, d.h., der/die Student*in teilt in dem Kurs, in dem sie/er die Prüfung ablegen will dem/der Kursleiter*in mit, dass sie/er an der Prüfung teilnehmen wird, und die Note dieser Prüfung an das Prüfungsamt gemeldet wird.",
     "Version": [
         "2025-01-06"
     ],
     "Änderung": {
-        "2025-01-06": "Bereitstellung"
+        "2025-01-06": "\"Mikroanalytik - EPMA, REM und µ.XRF\" ersetzt \"Mikroanalytik 1 - EPMA, REM und µ-XRF\""
     }
 }
